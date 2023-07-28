@@ -16,3 +16,22 @@ QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package
 wget https://data.qiime2.org/distro/core/qiime2-2023.5-py38-linux-conda.yml
 conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
 ```
+
+### Filtering data
+1. converting feature table file & ASVs sequence file to qza format (readable for QIIME 2)
+   a. converting BIOM to qza:
+   ```
+        qiime tools import \
+              --input-path feature_table.biom \
+              --type 'FeatureTable[Frequency]' \
+              --input-format BIOMV210Format \
+              --output-path feature_table.qza
+   ```
+   b. converting fna/fasta to qza:
+   ```
+       qiime tools import \
+              --type 'FeatureData[Sequence]' \
+              --input-path rwads.fasta \
+              --output-path reads.qza
+   ```
+   
