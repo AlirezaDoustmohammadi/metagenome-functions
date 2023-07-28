@@ -98,8 +98,8 @@ Other types of filtration:
 ```
 
 ### References:
-https://docs.qiime2.org/2023.5/install/native/
-https://docs.qiime2.org/2023.5/tutorials/importing/
-https://docs.qiime2.org/2023.5/tutorials/filtering/
-https://docs.qiime2.org/2023.5/tutorials/exporting/
+https://docs.qiime2.org/2023.5/install/native/</br>
+https://docs.qiime2.org/2023.5/tutorials/importing/</br>
+https://docs.qiime2.org/2023.5/tutorials/filtering/</br>
+https://docs.qiime2.org/2023.5/tutorials/exporting/</br>
 
