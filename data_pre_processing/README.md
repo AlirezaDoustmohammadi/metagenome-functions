@@ -17,7 +17,7 @@ wget https://data.qiime2.org/distro/core/qiime2-2023.5-py38-linux-conda.yml
 conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
 ```
 
-### Filtering data
+### Filtering feature table
 1. converting feature table file & ASVs sequence file to qza format (readable for QIIME 2)</br>
    a. converting BIOM to qza:
    ```
@@ -73,5 +73,13 @@ Other types of filtration:
 2. Metadata-based filtering: </br>
    Metadata-based filtering is similar to identifier-based filtering, except that the list of IDs to keep is determined based on metadata search criteria rather than being provided by the user directly.
 3. Taxonomy-based filtering
+
+### filtering sequences to match the filtered feature table 
+```
+      qiime feature-table filter-seqs \
+             --i-data reads.qza \
+             --i-table feature_table.contingency.filtered.features.samples.qza \
+             --o-filtered-data reads.filtered.features.samples.qza
+```
 
    
