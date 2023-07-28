@@ -18,7 +18,7 @@ conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
 ```
 
 ### Filtering data
-1. converting feature table file & ASVs sequence file to qza format (readable for QIIME 2)
+1. converting feature table file & ASVs sequence file to qza format (readable for QIIME 2)</br>
    a. converting BIOM to qza:
    ```
         qiime tools import \
