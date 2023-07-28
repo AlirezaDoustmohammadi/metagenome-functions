@@ -66,7 +66,7 @@ conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
                  --o-filtered-table feature_table.contingency.filtered.features.samples.qza
    ```
 
-<b>Note: </b> All of these methods can also be applied to filter on the maximum number of features or samples, using the `--p-max-features` and `--p-max-samples` parameters</br>
+<b>Note: </b> All of these methods can also be applied to filter on the maximum number of features or samples, using the `--p-max-features` and `--p-max-samples` parameters</br></br>
 Other types of filtration:
 1. Identifier-based filtering: </br>
    Identifier-based filtering is used to retain only a user-specified list of samples or features
