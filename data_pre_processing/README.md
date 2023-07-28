@@ -74,7 +74,7 @@ Other types of filtration:
    Metadata-based filtering is similar to identifier-based filtering, except that the list of IDs to keep is determined based on metadata search criteria rather than being provided by the user directly.
 3. Taxonomy-based filtering
 
-### filtering sequences to match the filtered feature table 
+### Filtering sequences to match the filtered feature table 
 ```
       qiime feature-table filter-seqs \
              --i-data reads.qza \
@@ -82,4 +82,18 @@ Other types of filtration:
              --o-filtered-data reads.filtered.features.samples.qza
 ```
 
+### Converting filtered feature table & ASVs sequence to biom & fasta format
+#### Converting filtered ASVs sequence file to fasta format
+```
+      qiime tools export \
+             --input-path reads.filtered.features.samples.qza \
+             --output-path data_pre_processing
+```
+#### Converting feature table to biom format
+```
+      qiime tools export \
+          --input-path feature_table.contingency.filtered.features.samples.qza \
+          --output-path data_pre_processing/feature_table.contingency.filtered.features.samples.biom \
+          --output-format BIOMV210Format
+```
    
