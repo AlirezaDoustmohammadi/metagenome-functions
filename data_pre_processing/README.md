@@ -8,3 +8,11 @@ These can be identified based on the output of <I>biom summarize-table</i>.
 <b>Note: </b> The best minimum cut-offs for excluding ASVs and samples varies by dataset since these cut-offs will differ depending on the overall read depth of your dataset.
 
 ## How can I filter the feature table (Biom) file?
+An easy way is to use <a href="https://docs.qiime2.org/2023.5/">QIIME 2</a></br>
+QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency.
+
+### Installing QIIME 2
+```
+wget https://data.qiime2.org/distro/core/qiime2-2023.5-py38-linux-conda.yml
+conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
+```
