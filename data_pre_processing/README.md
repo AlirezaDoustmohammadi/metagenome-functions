@@ -6,3 +6,5 @@ Similarly, it is important to check for any <b>low-depth samples</b> that should
 These can be identified based on the output of <I>biom summarize-table</i>.
 
 <b>Note: </b> The best minimum cut-offs for excluding ASVs and samples varies by dataset since these cut-offs will differ depending on the overall read depth of your dataset.
+
+## How can I filter the feature table (Biom) file?
