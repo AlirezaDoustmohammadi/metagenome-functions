@@ -31,7 +31,7 @@ conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
    ```
        qiime tools import \
               --type 'FeatureData[Sequence]' \
-              --input-path rwads.fasta \
+              --input-path reads.fasta \
               --output-path reads.qza
    ```
    
