@@ -96,4 +96,10 @@ Other types of filtration:
           --output-path data_pre_processing/feature_table.contingency.filtered.features.samples.biom \
           --output-format BIOMV210Format
 ```
-   
+
+### References:
+https://docs.qiime2.org/2023.5/install/native/
+https://docs.qiime2.org/2023.5/tutorials/importing/
+https://docs.qiime2.org/2023.5/tutorials/filtering/
+https://docs.qiime2.org/2023.5/tutorials/exporting/
+
