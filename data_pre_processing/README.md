@@ -34,4 +34,20 @@ conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
               --input-path reads.fasta \
               --output-path reads.qza
    ```
+2. Total-frequency-based filtering</br>
+   a. filtering <b>features</b> based on how frequently they are represented in the feature table
+   ```
+         qiime feature-table filter-features \
+                 --i-table feature_table.qza \
+                 --p-min-frequency 10 \
+                 --o-filtered-table feature_table.filtered.features.qza
+   ```
+
+   b. filtering <b>samples</b> whose total frequency is less than threshold
+   ```
+         qiime feature-table filter-samples \
+                 --i-table feature_table.filtered.features.qza \
+                 --p-min-frequency 1500 \
+                 --o-filtered-table feature_table.filtered.features.samples.qza
+   ```
    
