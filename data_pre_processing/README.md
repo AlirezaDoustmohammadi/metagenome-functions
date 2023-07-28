@@ -40,14 +40,31 @@ conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
          qiime feature-table filter-features \
                  --i-table feature_table.qza \
                  --p-min-frequency 10 \
-                 --o-filtered-table feature_table.filtered.features.qza
+                 --o-filtered-table feature_table.total.frequency.filtered.features.qza
    ```
 
    b. filtering <b>samples</b> whose total frequency is less than threshold
    ```
          qiime feature-table filter-samples \
-                 --i-table feature_table.filtered.features.qza \
+                 --i-table feature_table.total.frequency.filtered.features.qza \
                  --p-min-frequency 1500 \
-                 --o-filtered-table feature_table.filtered.features.samples.qza
+                 --o-filtered-table feature_table.total.frequency.filtered.features.samples.qza
    ```
+3. Contingency-based filtering
+   a. filtering features from a table contingent on the number of samples they’re observed in
+   ```
+         qiime feature-table filter-features \
+                 --i-table feature_table.total.frequency.filtered.features.samples.qza \
+                 --p-min-samples 2 \
+                 --o-filtered-table feature_table.contingency.filtered.features.qza
+   ```
+   b. filtering samples from a table contingent on the number of features they contain
+   ```
+         qiime feature-table filter-samples \
+                 --i-table feature_table.contingency.filtered.features.qza \
+                 --p-min-features 10 \
+                 --o-filtered-table feature_table.contingency.filtered.features.samples.qza
+   ```
+
+<b>Note: </b> All of these methods can also be applied to filter on the maximum number of features or samples, using the `--p-max-features` and `--p-max-samples` parameters
    
