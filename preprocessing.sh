@@ -16,7 +16,8 @@ raw_seq_filename="${raw_seq_filename%.fasta}"
 convert_biom_to_tsv_and_summarize() {
   biom convert -i ${raw_biom} -o ${raw_biom_filename}.tsv --to-tsv --header-key taxonomy
   # summariese the biome file
-  biom summarize-table -i ${raw_biom} > ${raw_biom_filename}.summary
+  biom summarize-table -i ${raw_biom} -o ${raw_biom_filename}.summary
+  python biomSummary.py --biom_file ${raw_biom}
 }
 
 convert_files_to_qza_format() {
@@ -34,7 +35,7 @@ convert_files_to_qza_format() {
     --output-path ${raw_seq_filename}.qza
 }
 
-filter_features_and_samples() {
+filter_features_and_samples_total_frequency_based() {
 
   # filtering features based on how frequently they are represented in the feature table (biom file).
   mkdir data_pre_processing
@@ -44,13 +45,13 @@ filter_features_and_samples() {
   qiime feature-table filter-features \
     --i-table ../${raw_biom_filename}.qza \
     --p-min-frequency ${min_feature_abundance} \
-    --o-filtered-table ${raw_biom_filename}.filtered.features.qza
+    --o-filtered-table ${raw_biom_filename}.total.frequency.filtered.features.qza
 
   # filtering samples whose total frequency is less than threshold
   qiime feature-table filter-samples \
     --i-table ${raw_biom_filename}.filtered.features.qza \
     --p-min-frequency ${min_samples_abundance} \
-    --o-filtered-table ${raw_biom_filename}.filtered.features.samples.qza
+    --o-filtered-table ${raw_biom_filename}.total.frequency.filtered.features.samples.qza
 }
 
 filter_sequences_and_export_to_formats() {
@@ -58,7 +59,7 @@ filter_sequences_and_export_to_formats() {
   # filter sequences to match the filtered feature table 
   qiime feature-table filter-seqs \
     --i-data ../${raw_seq_filename}.qza \
-    --i-table ${raw_biom_filename}.filtered.features.samples.qza \
+    --i-table ${raw_biom_filename}.total.frequency.filtered.features.samples.qza \
     --o-filtered-data ${raw_seq_filename}.filtered.features.samples.qza
 
   # convert filtered feature table & ASVs sequence to biom & fasta format
@@ -70,23 +71,25 @@ filter_sequences_and_export_to_formats() {
 
   # convert feature table to biom format
   qiime tools export \
-    --input-path ${raw_biom_filename}.filtered.features.samples.qza \
-    --output-path ../data_pre_processing/${raw_biom_filename}.filtered.features.samples.biom \
+    --input-path ${raw_biom_filename}.total.frequency.filtered.features.samples.qza \
+    --output-path ../data_pre_processing/${raw_biom_filename}.total.frequency.filtered.features.samples.biom \
     --output-format BIOMV210Format
 }
 
 convert_filtered_biom_to_tsv_and_summarize() {
   # convert filtered biom file to tsv
-  biom convert -i ${raw_biom_filename}.filtered.features.samples.biom -o ${raw_biom_filename}.filtered.features.samples.tsv \
+  biom convert -i ${raw_biom_filename}.filtered.features.samples.biom -o ${raw_biom_filename}.total.frequency.filtered.features.samples.tsv \
 				--to-tsv --header-key taxonomy
 				
   # summariese the biome file
-  biom summarize-table -i ${raw_biom_filename}.filtered.features.samples.biom > ${raw_biom_filename}.filtered.features.samples.summary
+  biom summarize-table -i ${raw_biom_filename}.total.frequency.filtered.features.samples.biom -o ${raw_biom_filename}.total.frequency.filtered.features.samples.summary
+  python ../biomSummary.py --biom_file ${raw_biom_filename}.total.frequency.filtered.features.samples.biom
+  
 }
 
 # Call each function in order
 convert_biom_to_tsv_and_summarize
 convert_files_to_qza_format
-filter_features_and_samples
+filter_features_and_samples_total_frequency_based
 filter_sequences_and_export_to_formats
 convert_filtered_biom_to_tsv_and_summarize
