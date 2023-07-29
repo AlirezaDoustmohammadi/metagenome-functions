@@ -14,10 +14,13 @@ raw_seq_filename="${raw_seq%.fna}"
 raw_seq_filename="${raw_seq_filename%.fasta}"
 
 convert_biom_to_tsv_and_summarize() {
-  biom convert -i ${raw_biom} -o ${raw_biom_filename}.tsv --to-tsv --header-key taxonomy
+  mkdir raw.summary
+  cd raw.summary
+  biom convert -i ../${raw_biom} -o ${raw_biom_filename}.tsv --to-tsv --header-key taxonomy
   # summariese the biome file
-  biom summarize-table -i ${raw_biom} -o ${raw_biom_filename}.summary
-  python biomSummary.py --biom_file ${raw_biom}
+  biom summarize-table -i ../${raw_biom} -o ${raw_biom_filename}.summary
+  python ../biomSummary.py --biom_file ${raw_biom}
+  cd ..
 }
 
 convert_files_to_qza_format() {
@@ -77,13 +80,15 @@ filter_sequences_and_export_to_formats() {
 }
 
 convert_filtered_biom_to_tsv_and_summarize() {
+  mkdir summary
+  cd summary
   # convert filtered biom file to tsv
-  biom convert -i ${raw_biom_filename}.filtered.features.samples.biom -o ${raw_biom_filename}.total.frequency.filtered.features.samples.tsv \
+  biom convert -i ../${raw_biom_filename}.filtered.features.samples.biom -o ${raw_biom_filename}.total.frequency.filtered.features.samples.tsv \
 				--to-tsv --header-key taxonomy
 				
   # summariese the biome file
-  biom summarize-table -i ${raw_biom_filename}.total.frequency.filtered.features.samples.biom -o ${raw_biom_filename}.total.frequency.filtered.features.samples.summary
-  python ../biomSummary.py --biom_file ${raw_biom_filename}.total.frequency.filtered.features.samples.biom
+  biom summarize-table -i ../${raw_biom_filename}.total.frequency.filtered.features.samples.biom -o ${raw_biom_filename}.total.frequency.filtered.features.samples.summary
+  python ../../biomSummary.py --biom_file ${raw_biom_filename}.total.frequency.filtered.features.samples.biom
   
 }
 
