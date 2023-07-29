@@ -27,7 +27,7 @@ predict_gene_families() {
 
 # Function for generating metagenome predictions
 generate_metagenome_predictions() {
-  metagenome_pipeline.py -i ../${input_dir}/${raw_biom_filename}.filtered.features.samples.biom\
+  metagenome_pipeline.py -i ../${input_dir}/${raw_biom_filename}.total.frequency.filtered.features.samples.biom\
 					     -m marker_predicted_and_nsti.tsv.gz -f EC_predicted.tsv.gz \
                          -o EC_metagenome_out --strat_out
 }
