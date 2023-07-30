@@ -50,7 +50,7 @@ conda env create -n qiime2-2023.5 --file qiime2-2023.5-py38-linux-conda.yml
                  --p-min-frequency 1500 \
                  --o-filtered-table feature_table.total.frequency.filtered.features.samples.qza
    ```
-3. Contingency-based filtering
+3. Contingency-based filtering</br>
    a. filtering features from a table contingent on the number of samples they’re observed in
    ```
          qiime feature-table filter-features \
