@@ -17,7 +17,7 @@ def asv_summary():
     # rename columns
     features_stat = features_stat.rename(columns={'max': 'Maximum abundance in samples',
                                                   'sum': 'Total abundance of ASVs'})
-    features_stat = features_stat.sort_values(by=['Total abundance of ASVs'])
+    features_stat = features_stat.sort_values(by=['Total abundance of ASV'])
     # write to csv
     features_stat.to_csv(os.path.basename(args.biom_file).split('.biom')[0] + '.summary.features.csv')
     df_features.to_csv(os.path.basename(args.biom_file).split('.biom')[0] + '.features.csv')
