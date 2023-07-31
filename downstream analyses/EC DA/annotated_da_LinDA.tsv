@@ -1,0 +1,1837 @@
+feature	method	group1	group2	p_values	adj_method	p_adjust	description
+EC:1.1.1.1	LinDA	negative	positive	0.865012059087526	BH	0.999791598211958	Alcohol dehydrogenase
+EC:1.1.1.100	LinDA	negative	positive	0.832827101785288	BH	0.999791598211958	3-oxoacyl-[acyl-carrier-protein] reductase
+EC:1.1.1.103	LinDA	negative	positive	0.317802353230858	BH	0.999791598211958	L-threonine 3-dehydrogenase
+EC:1.1.1.108	LinDA	negative	positive	0.0569222323771562	BH	0.519515558442711	Carnitine 3-dehydrogenase
+EC:1.1.1.11	LinDA	negative	positive	0.010884944149776	BH	0.189533422233852	D-arabinitol 4-dehydrogenase
+EC:1.1.1.122	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	D-threo-aldose 1-dehydrogenase
+EC:1.1.1.125	LinDA	negative	positive	0.430781587262155	BH	0.999791598211958	2-deoxy-D-gluconate 3-dehydrogenase
+EC:1.1.1.130	LinDA	negative	positive	0.162133314103282	BH	0.8655645190863	3-dehydro-L-gulonate 2-dehydrogenase
+EC:1.1.1.132	LinDA	negative	positive	0.668406055278257	BH	0.999791598211958	GDP-mannose 6-dehydrogenase
+EC:1.1.1.133	LinDA	negative	positive	0.504811485180557	BH	0.999791598211958	dTDP-4-dehydrorhamnose reductase
+EC:1.1.1.136	LinDA	negative	positive	0.713517292992082	BH	0.999791598211958	UDP-N-acetylglucosamine 6-dehydrogenase
+EC:1.1.1.137	LinDA	negative	positive	0.100677677039676	BH	0.708215383313583	Ribitol-5-phosphate 2-dehydrogenase
+EC:1.1.1.14	LinDA	negative	positive	0.505001183488094	BH	0.999791598211958	L-iditol 2-dehydrogenase
+EC:1.1.1.140	LinDA	negative	positive	0.327792763101736	BH	0.999791598211958	Sorbitol-6-phosphate 2-dehydrogenase
+EC:1.1.1.157	LinDA	negative	positive	0.976387124615797	BH	0.999791598211958	3-hydroxybutyryl-CoA dehydrogenase
+EC:1.1.1.159	LinDA	negative	positive	0.418983202810218	BH	0.999791598211958	7-alpha-hydroxysteroid dehydrogenase
+EC:1.1.1.169	LinDA	negative	positive	0.540178702883183	BH	0.999791598211958	2-dehydropantoate 2-reductase
+EC:1.1.1.17	LinDA	negative	positive	0.254855497822305	BH	0.999791598211958	Mannitol-1-phosphate 5-dehydrogenase
+EC:1.1.1.179	LinDA	negative	positive	0.17713918959457	BH	0.903409866932307	D-xylose 1-dehydrogenase (NADP(+))
+EC:1.1.1.18	LinDA	negative	positive	0.694541986377194	BH	0.999791598211958	Inositol 2-dehydrogenase
+EC:1.1.1.193	LinDA	negative	positive	0.856040781900054	BH	0.999791598211958	5-amino-6-(5-phosphoribosylamino)uracil reductase
+EC:1.1.1.2	LinDA	negative	positive	0.998535706626347	BH	0.999791598211958	Alcohol dehydrogenase (NADP(+))
+EC:1.1.1.202	LinDA	negative	positive	0.529572084783052	BH	0.999791598211958	1,3-propanediol dehydrogenase
+EC:1.1.1.205	LinDA	negative	positive	0.945338206566702	BH	0.999791598211958	IMP dehydrogenase
+EC:1.1.1.206	LinDA	negative	positive	0.152636486640908	BH	0.841563331749871	Tropinone reductase I
+EC:1.1.1.215	LinDA	negative	positive	0.00173489186440337	BH	0.0809110455408616	Gluconate 2-dehydrogenase
+EC:1.1.1.219	LinDA	negative	positive	0.191920726864466	BH	0.947221651943977	Dihydrokaempferol 4-reductase
+EC:1.1.1.22	LinDA	negative	positive	0.973592138121705	BH	0.999791598211958	UDP-glucose 6-dehydrogenase
+EC:1.1.1.220	LinDA	negative	positive	0.480643118733257	BH	0.999791598211958	6-pyruvoyltetrahydropterin 2'-reductase
+EC:1.1.1.23	LinDA	negative	positive	0.976301601578682	BH	0.999791598211958	Histidinol dehydrogenase
+EC:1.1.1.25	LinDA	negative	positive	0.87453939318856	BH	0.999791598211958	Shikimate dehydrogenase
+EC:1.1.1.251	LinDA	negative	positive	0.0571580298504508	BH	0.519515558442711	Galactitol-1-phosphate 5-dehydrogenase
+EC:1.1.1.26	LinDA	negative	positive	0.485949876673854	BH	0.999791598211958	Glyoxylate reductase
+EC:1.1.1.261	LinDA	negative	positive	0.752440687466832	BH	0.999791598211958	sn-glycerol-1-phosphate dehydrogenase
+EC:1.1.1.262	LinDA	negative	positive	0.47268135320003	BH	0.999791598211958	4-hydroxythreonine-4-phosphate dehydrogenase
+EC:1.1.1.264	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	L-idonate 5-dehydrogenase (NAD(P)(+))
+EC:1.1.1.267	LinDA	negative	positive	0.947936822572083	BH	0.999791598211958	1-deoxy-D-xylulose-5-phosphate reductoisomerase
+EC:1.1.1.27	LinDA	negative	positive	0.713793733235641	BH	0.999791598211958	L-lactate dehydrogenase
+EC:1.1.1.271	LinDA	negative	positive	0.166228928350617	BH	0.874488001294363	GDP-L-fucose synthase
+EC:1.1.1.28	LinDA	negative	positive	0.826753727178552	BH	0.999791598211958	D-lactate dehydrogenase
+EC:1.1.1.281	LinDA	negative	positive	0.592919647085626	BH	0.999791598211958	GDP-4-dehydro-6-deoxy-D-mannose reductase
+EC:1.1.1.282	LinDA	negative	positive	0.827104646337792	BH	0.999791598211958	Quinate/shikimate dehydrogenase
+EC:1.1.1.284	LinDA	negative	positive	0.252483289659605	BH	0.999791598211958	S-(hydroxymethyl)glutathione dehydrogenase
+EC:1.1.1.287	LinDA	negative	positive	0.0880584688448775	BH	0.659899382853858	D-arabinitol dehydrogenase (NADP(+))
+EC:1.1.1.289	LinDA	negative	positive	0.0604341484232317	BH	0.543907335809085	Sorbose reductase
+EC:1.1.1.29	LinDA	negative	positive	0.722954682412834	BH	0.999791598211958	Glycerate dehydrogenase
+EC:1.1.1.290	LinDA	negative	positive	0.350933827503318	BH	0.999791598211958	4-phosphoerythronate dehydrogenase
+EC:1.1.1.291	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	2-hydroxymethylglutarate dehydrogenase
+EC:1.1.1.3	LinDA	negative	positive	0.829619155250141	BH	0.999791598211958	Homoserine dehydrogenase
+EC:1.1.1.30	LinDA	negative	positive	0.789699601015701	BH	0.999791598211958	3-hydroxybutyrate dehydrogenase
+EC:1.1.1.302	LinDA	negative	positive	0.412670935003818	BH	0.999791598211958	2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase
+EC:1.1.1.303	LinDA	negative	positive	0.591490916455118	BH	0.999791598211958	Diacetyl reductase ((R)-acetoin forming)
+EC:1.1.1.304	LinDA	negative	positive	0.660993920824031	BH	0.999791598211958	Diacetyl reductase ((S)-acetoin forming)
+EC:1.1.1.305	LinDA	negative	positive	0.00740329682743767	BH	0.159838389731721	UDP-glucuronic acid oxidase (UDP-4-keto-hexauronic acid decarboxylating)
+EC:1.1.1.306	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	S-(hydroxymethyl)mycothiol dehydrogenase
+EC:1.1.1.308	LinDA	negative	positive	0.929824958044343	BH	0.999791598211958	Sulfopropanediol 3-dehydrogenase
+EC:1.1.1.31	LinDA	negative	positive	0.616162651090665	BH	0.999791598211958	3-hydroxyisobutyrate dehydrogenase
+EC:1.1.1.310	LinDA	negative	positive	0.652052029901789	BH	0.999791598211958	(S)-sulfolactate dehydrogenase
+EC:1.1.1.313	LinDA	negative	positive	0.0219984408632282	BH	0.292674908875993	Sulfoacetaldehyde reductase
+EC:1.1.1.320	LinDA	negative	positive	0.771862931184651	BH	0.999791598211958	Benzil reductase ((S)-benzoin forming)
+EC:1.1.1.333	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-reductase
+EC:1.1.1.335	LinDA	negative	positive	0.242345040837424	BH	0.999791598211958	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
+EC:1.1.1.336	LinDA	negative	positive	0.832859702765368	BH	0.999791598211958	UDP-N-acetyl-D-mannosamine dehydrogenase
+EC:1.1.1.337	LinDA	negative	positive	0.824442496487213	BH	0.999791598211958	L-2-hydroxycarboxylate dehydrogenase (NAD(+))
+EC:1.1.1.339	LinDA	negative	positive	0.116983968084231	BH	0.75098799091835	dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD(+))
+EC:1.1.1.34	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Hydroxymethylglutaryl-CoA reductase (NADPH)
+EC:1.1.1.343	LinDA	negative	positive	0.46103575294536	BH	0.999791598211958	Phosphogluconate dehydrogenase (NAD(+)-dependent, decarboxylating)
+EC:1.1.1.346	LinDA	negative	positive	0.225168298851982	BH	0.999791598211958	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
+EC:1.1.1.35	LinDA	negative	positive	0.151405795468715	BH	0.841563331749871	3-hydroxyacyl-CoA dehydrogenase
+EC:1.1.1.350	LinDA	negative	positive	0.673015764702925	BH	0.999791598211958	Ureidoglycolate dehydrogenase (NAD(+))
+EC:1.1.1.36	LinDA	negative	positive	0.92178720200024	BH	0.999791598211958	Acetoacetyl-CoA reductase
+EC:1.1.1.363	LinDA	negative	positive	0.873881418337709	BH	0.999791598211958	Glucose-6-phosphate dehydrogenase (NAD(P)(+))
+EC:1.1.1.367	LinDA	negative	positive	0.546259339968365	BH	0.999791598211958	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+EC:1.1.1.369	LinDA	negative	positive	0.694541986377194	BH	0.999791598211958	D-chiro-inositol 1-dehydrogenase
+EC:1.1.1.37	LinDA	negative	positive	0.914271017654547	BH	0.999791598211958	Malate dehydrogenase
+EC:1.1.1.370	LinDA	negative	positive	0.238380545554416	BH	0.999791598211958	Scyllo-inositol 2-dehydrogenase (NAD(+))
+EC:1.1.1.373	LinDA	negative	positive	0.00409702137593213	BH	0.107620123219015	Sulfolactaldehyde 3-reductase
+EC:1.1.1.374	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	UDP-N-acetylglucosamine 3-dehydrogenase
+EC:1.1.1.38	LinDA	negative	positive	0.769789662396291	BH	0.999791598211958	Malate dehydrogenase (oxaloacetate-decarboxylating)
+EC:1.1.1.380	LinDA	negative	positive	0.875994280311878	BH	0.999791598211958	L-gulonate 5-dehydrogenase
+EC:1.1.1.381	LinDA	negative	positive	0.111742018284808	BH	0.74875308602521	3-hydroxy acid dehydrogenase
+EC:1.1.1.39	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Malate dehydrogenase (decarboxylating)
+EC:1.1.1.4	LinDA	negative	positive	0.591490916455118	BH	0.999791598211958	(R,R)-butanediol dehydrogenase
+EC:1.1.1.40	LinDA	negative	positive	0.974747240879701	BH	0.999791598211958	Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))
+EC:1.1.1.41	LinDA	negative	positive	0.35395837106376	BH	0.999791598211958	Isocitrate dehydrogenase (NAD(+))
+EC:1.1.1.42	LinDA	negative	positive	0.78525844217379	BH	0.999791598211958	Isocitrate dehydrogenase (NADP(+))
+EC:1.1.1.43	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Phosphogluconate 2-dehydrogenase
+EC:1.1.1.44	LinDA	negative	positive	0.46103575294536	BH	0.999791598211958	Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)
+EC:1.1.1.47	LinDA	negative	positive	0.540937408476198	BH	0.999791598211958	Glucose 1-dehydrogenase (NAD(P)(+))
+EC:1.1.1.49	LinDA	negative	positive	0.873881418337709	BH	0.999791598211958	Glucose-6-phosphate dehydrogenase (NADP(+))
+EC:1.1.1.56	LinDA	negative	positive	0.0143300806118945	BH	0.222966339012189	Ribitol 2-dehydrogenase
+EC:1.1.1.57	LinDA	negative	positive	0.945614489558732	BH	0.999791598211958	Fructuronate reductase
+EC:1.1.1.58	LinDA	negative	positive	0.628828381265171	BH	0.999791598211958	Tagaturonate reductase
+EC:1.1.1.6	LinDA	negative	positive	0.35140050318631	BH	0.999791598211958	Glycerol dehydrogenase
+EC:1.1.1.60	LinDA	negative	positive	0.63939968742405	BH	0.999791598211958	2-hydroxy-3-oxopropionate reductase
+EC:1.1.1.61	LinDA	negative	positive	0.439589522320003	BH	0.999791598211958	4-hydroxybutyrate dehydrogenase
+EC:1.1.1.67	LinDA	negative	positive	0.915220097143661	BH	0.999791598211958	Mannitol 2-dehydrogenase
+EC:1.1.1.69	LinDA	negative	positive	0.493452749180494	BH	0.999791598211958	Gluconate 5-dehydrogenase
+EC:1.1.1.76	LinDA	negative	positive	0.660993920824031	BH	0.999791598211958	(S,S)-butanediol dehydrogenase
+EC:1.1.1.77	LinDA	negative	positive	0.801315594187495	BH	0.999791598211958	Lactaldehyde reductase
+EC:1.1.1.79	LinDA	negative	positive	0.196611960045207	BH	0.949946206955263	Glyoxylate reductase (NADP(+))
+EC:1.1.1.81	LinDA	negative	positive	0.190413741746663	BH	0.942317061581869	Hydroxypyruvate reductase
+EC:1.1.1.83	LinDA	negative	positive	0.741856174793642	BH	0.999791598211958	D-malate dehydrogenase (decarboxylating)
+EC:1.1.1.85	LinDA	negative	positive	0.887850553465778	BH	0.999791598211958	3-isopropylmalate dehydrogenase
+EC:1.1.1.86	LinDA	negative	positive	0.901154199268663	BH	0.999791598211958	Ketol-acid reductoisomerase (NADP(+))
+EC:1.1.1.87	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Homoisocitrate dehydrogenase
+EC:1.1.1.88	LinDA	negative	positive	0.558167965849265	BH	0.999791598211958	Hydroxymethylglutaryl-CoA reductase
+EC:1.1.1.9	LinDA	negative	positive	0.362110159324751	BH	0.999791598211958	D-xylulose reductase
+EC:1.1.1.90	LinDA	negative	positive	0.140739840505541	BH	0.825998977813324	Aryl-alcohol dehydrogenase
+EC:1.1.1.91	LinDA	negative	positive	0.705554151193321	BH	0.999791598211958	Aryl-alcohol dehydrogenase (NADP(+))
+EC:1.1.1.93	LinDA	negative	positive	0.741856174793642	BH	0.999791598211958	Tartrate dehydrogenase
+EC:1.1.1.94	LinDA	negative	positive	0.914521497234522	BH	0.999791598211958	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))
+EC:1.1.1.95	LinDA	negative	positive	0.77775544706364	BH	0.999791598211958	Phosphoglycerate dehydrogenase
+EC:1.1.2.3	LinDA	negative	positive	0.012434214190187	BH	0.203832296903423	L-lactate dehydrogenase (cytochrome)
+EC:1.1.2.4	LinDA	negative	positive	0.125361165508962	BH	0.780213897879506	D-lactate dehydrogenase (cytochrome)
+EC:1.1.2.8	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Alcohol dehydrogenase (cytochrome c)
+EC:1.1.3.15	LinDA	negative	positive	0.365766119882233	BH	0.999791598211958	(S)-2-hydroxy-acid oxidase
+EC:1.1.3.21	LinDA	negative	positive	0.0407294023744175	BH	0.426634221486275	Glycerol-3-phosphate oxidase
+EC:1.1.3.46	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	4-hydroxymandelate oxidase
+EC:1.1.3.48	LinDA	negative	positive	0.283571192278219	BH	0.999791598211958	3-deoxy-alpha-D-manno-octulosonate 8-oxidase
+EC:1.1.5.2	LinDA	negative	positive	0.00382757208465461	BH	0.107620123219015	Quinoprotein glucose dehydrogenase (PQQ, quinone)
+EC:1.1.5.3	LinDA	negative	positive	0.450349896503062	BH	0.999791598211958	Glycerol-3-phosphate dehydrogenase
+EC:1.1.5.4	LinDA	negative	positive	0.000671264008328836	BH	0.0809110455408616	Malate dehydrogenase (quinone)
+EC:1.1.5.6	LinDA	negative	positive	0.00210297357587559	BH	0.0809110455408616	Formate dehydrogenase-N
+EC:1.1.5.8	LinDA	negative	positive	0.00952160936028444	BH	0.177134772419369	Quinate dehydrogenase (quinone)
+EC:1.1.99.1	LinDA	negative	positive	0.225730402979745	BH	0.999791598211958	Choline dehydrogenase
+EC:1.1.99.3	LinDA	negative	positive	0.00272451357311243	BH	0.0943812626459325	Gluconate 2-dehydrogenase (acceptor)
+EC:1.10.2.2	LinDA	negative	positive	0.985672126133489	BH	0.999791598211958	Quinol--cytochrome-c reductase
+EC:1.10.9.1	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Plastoquinol--plastocyanin reductase
+EC:1.11.1.1	LinDA	negative	positive	0.158122957771517	BH	0.86146513492138	NADH peroxidase
+EC:1.11.1.10	LinDA	negative	positive	0.149348039419014	BH	0.841351757018	Chloride peroxidase
+EC:1.11.1.15	LinDA	negative	positive	0.993884258193488	BH	0.999791598211958	Peroxiredoxin
+EC:1.11.1.21	LinDA	negative	positive	3.62202289058851e-05	BH	0.0332501701356025	Catalase peroxidase
+EC:1.11.1.5	LinDA	negative	positive	0.905686926194591	BH	0.999791598211958	Cytochrome-c peroxidase
+EC:1.11.1.6	LinDA	negative	positive	0.511358413937513	BH	0.999791598211958	Catalase
+EC:1.11.1.9	LinDA	negative	positive	0.653591047921482	BH	0.999791598211958	Glutathione peroxidase
+EC:1.11.2.4	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Fatty-acid peroxygenase
+EC:1.12.1.2	LinDA	negative	positive	0.763299531293469	BH	0.999791598211958	Hydrogen dehydrogenase
+EC:1.12.1.3	LinDA	negative	positive	0.607044946038636	BH	0.999791598211958	Hydrogen dehydrogenase (NADP(+))
+EC:1.12.2.1	LinDA	negative	positive	0.321578268622897	BH	0.999791598211958	Cytochrome-c3 hydrogenase
+EC:1.12.5.1	LinDA	negative	positive	0.704824080477599	BH	0.999791598211958	Hydrogen:quinone oxidoreductase
+EC:1.12.7.2	LinDA	negative	positive	0.635118338954549	BH	0.999791598211958	Ferredoxin hydrogenase
+EC:1.12.98.1	LinDA	negative	positive	0.757110970647651	BH	0.999791598211958	Coenzyme F420 hydrogenase
+EC:1.12.98.2	LinDA	negative	positive	0.346324727984243	BH	0.999791598211958	5,10-methenyltetrahydromethanopterin hydrogenase
+EC:1.12.99.6	LinDA	negative	positive	0.282620948768648	BH	0.999791598211958	Hydrogenase (acceptor)
+EC:1.13.11.1	LinDA	negative	positive	0.0113554882601981	BH	0.189533422233852	Catechol 1,2-dioxygenase
+EC:1.13.11.11	LinDA	negative	positive	0.0397418911519662	BH	0.424883042645372	Tryptophan 2,3-dioxygenase
+EC:1.13.11.15	LinDA	negative	positive	0.0014999036353206	BH	0.0809110455408616	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+EC:1.13.11.16	LinDA	negative	positive	0.00700562413881868	BH	0.154967782155073	3-carboxyethylcatechol 2,3-dioxygenase
+EC:1.13.11.2	LinDA	negative	positive	0.234592318833397	BH	0.999791598211958	Catechol 2,3-dioxygenase
+EC:1.13.11.27	LinDA	negative	positive	0.000331939842573671	BH	0.0809110455408616	4-hydroxyphenylpyruvate dioxygenase
+EC:1.13.11.3	LinDA	negative	positive	0.201641322257482	BH	0.962662378409967	Protocatechuate 3,4-dioxygenase
+EC:1.13.11.33	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Arachidonate 15-lipoxygenase
+EC:1.13.11.4	LinDA	negative	positive	0.155875045561712	BH	0.854288309406875	Gentisate 1,2-dioxygenase
+EC:1.13.11.41	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	2,4'-dihydroxyacetophenone dioxygenase
+EC:1.13.11.49	LinDA	negative	positive	0.603148217944228	BH	0.999791598211958	Chlorite O(2)-lyase
+EC:1.13.11.5	LinDA	negative	positive	0.0102701615573941	BH	0.187260185236113	Homogentisate 1,2-dioxygenase
+EC:1.13.11.53	LinDA	negative	positive	0.00942457214765182	BH	0.177134772419369	Acireductone dioxygenase (Ni(2+)-requiring)
+EC:1.13.11.54	LinDA	negative	positive	0.00942457214765182	BH	0.177134772419369	Acireductone dioxygenase (Fe(2+)-requiring)
+EC:1.13.11.57	LinDA	negative	positive	0.0242758360474044	BH	0.316102375766202	Gallate dioxygenase
+EC:1.13.11.75	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	All-trans-8'-apo-beta-carotenal 15,15'-oxygenase
+EC:1.13.11.79	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	5,6-dimethylbenzimidazole synthase
+EC:1.13.12.16	LinDA	negative	positive	0.286250636851709	BH	0.999791598211958	Nitronate monooxygenase
+EC:1.13.12.4	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Lactate 2-monooxygenase
+EC:1.14.11.1	LinDA	negative	positive	0.265855403898152	BH	0.999791598211958	Gamma-butyrobetaine dioxygenase
+EC:1.14.11.17	LinDA	negative	positive	0.036556619223348	BH	0.409255810329676	Taurine dioxygenase
+EC:1.14.11.18	LinDA	negative	positive	0.835893390323282	BH	0.999791598211958	Phytanoyl-CoA dioxygenase
+EC:1.14.11.33	LinDA	negative	positive	0.00407010601135583	BH	0.107620123219015	DNA oxidative demethylase
+EC:1.14.11.47	LinDA	negative	positive	0.0208234401516665	BH	0.283198786062664	50S ribosomal protein L16 3-hydroxylase
+EC:1.14.12.1	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Anthranilate 1,2-dioxygenase (deaminating, decarboxylating)
+EC:1.14.12.10	LinDA	negative	positive	0.0129477205035016	BH	0.210371812782557	Benzoate 1,2-dioxygenase
+EC:1.14.12.17	LinDA	negative	positive	0.243840009095966	BH	0.999791598211958	Nitric oxide dioxygenase
+EC:1.14.12.19	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	3-phenylpropanoate dioxygenase
+EC:1.14.13.1	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Salicylate 1-monooxygenase
+EC:1.14.13.113	LinDA	negative	positive	0.0109682500507751	BH	0.189533422233852	FAD-dependent urate hydroxylase
+EC:1.14.13.127	LinDA	negative	positive	0.00700562413881868	BH	0.154967782155073	3-(3-hydroxy-phenyl)propanoic acid hydroxylase
+EC:1.14.13.129	LinDA	negative	positive	0.0182085605566272	BH	0.265324739539425	Beta-carotene 3-hydroxylase
+EC:1.14.13.149	LinDA	negative	positive	0.00267969568914794	BH	0.0943812626459325	Phenylacetyl-CoA 1,2-epoxidase
+EC:1.14.13.182	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	2-heptyl-3-hydroxy-4(1H)-quinolone synthase
+EC:1.14.13.2	LinDA	negative	positive	0.0113554882601981	BH	0.189533422233852	4-hydroxybenzoate 3-monooxygenase
+EC:1.14.13.59	LinDA	negative	positive	0.192867429852671	BH	0.949342094395453	L-lysine N(6)-monooxygenase (NADPH)
+EC:1.14.13.81	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase
+EC:1.14.13.82	LinDA	negative	positive	0.0134135688697003	BH	0.216029056533068	Vanillate monooxygenase
+EC:1.14.13.83	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Precorrin-3B synthase
+EC:1.14.13.9	LinDA	negative	positive	0.0397418911519662	BH	0.424883042645372	Kynurenine 3-monooxygenase
+EC:1.14.14.5	LinDA	negative	positive	0.00422956032487709	BH	0.109372855724991	Alkanesulfonate monooxygenase
+EC:1.14.14.9	LinDA	negative	positive	0.463183834404622	BH	0.999791598211958	4-hydroxyphenylacetate 3-monooxygenase
+EC:1.14.15.3	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Alkane 1-monooxygenase
+EC:1.14.16.1	LinDA	negative	positive	0.835893390323282	BH	0.999791598211958	Phenylalanine 4-monooxygenase
+EC:1.14.19.1	LinDA	negative	positive	0.169096631327354	BH	0.879494093815926	Stearoyl-CoA 9-desaturase
+EC:1.14.19.2	LinDA	negative	positive	0.0301387317546278	BH	0.367662295822248	Stearoyl-[acyl-carrier-protein] 9-desaturase
+EC:1.14.19.3	LinDA	negative	positive	0.00430164129556381	BH	0.109691853036877	Acyl-CoA 6-desaturase
+EC:1.14.99.46	LinDA	negative	positive	0.00410316373928708	BH	0.107620123219015	Pyrimidine monooxygenase
+EC:1.14.99.50	LinDA	negative	positive	0.182829276175406	BH	0.92472328115164	Gamma-glutamyl hercynylcysteine S-oxide synthase
+EC:1.15.1.1	LinDA	negative	positive	0.790498522339935	BH	0.999791598211958	Superoxide dismutase
+EC:1.15.1.2	LinDA	negative	positive	0.759398679453397	BH	0.999791598211958	Superoxide reductase
+EC:1.16.1.1	LinDA	negative	positive	0.52195953863504	BH	0.999791598211958	Mercury(II) reductase
+EC:1.16.1.10	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Ferric-chelate reductase (NAD(P)H)
+EC:1.16.1.3	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	Aquacobalamin reductase
+EC:1.16.1.9	LinDA	negative	positive	0.00382757208465461	BH	0.107620123219015	Ferric-chelate reductase (NADPH)
+EC:1.16.3.1	LinDA	negative	positive	0.998163287712071	BH	0.999791598211958	Ferroxidase
+EC:1.16.3.2	LinDA	negative	positive	0.52909177270826	BH	0.999791598211958	Bacterial non-heme ferritin
+EC:1.17.1.1	LinDA	negative	positive	0.985778252679955	BH	0.999791598211958	CDP-4-dehydro-6-deoxyglucose reductase
+EC:1.17.1.2	LinDA	negative	positive	0.949061189646113	BH	0.999791598211958	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EC:1.17.1.4	LinDA	negative	positive	0.104615644199216	BH	0.727554252840002	Xanthine dehydrogenase
+EC:1.17.1.8	LinDA	negative	positive	0.88358002526127	BH	0.999791598211958	4-hydroxy-tetrahydrodipicolinate reductase
+EC:1.17.2.1	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Nicotinate dehydrogenase (cytochrome)
+EC:1.17.4.1	LinDA	negative	positive	0.778501779697194	BH	0.999791598211958	Ribonucleoside-diphosphate reductase
+EC:1.17.4.2	LinDA	negative	positive	0.835713677529559	BH	0.999791598211958	Ribonucleoside-triphosphate reductase
+EC:1.17.7.1	LinDA	negative	positive	0.96623819425976	BH	0.999791598211958	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
+EC:1.17.7.3	LinDA	negative	positive	0.96623819425976	BH	0.999791598211958	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
+EC:1.17.99.6	LinDA	negative	positive	0.607906529187344	BH	0.999791598211958	Epoxyqueuosine reductase
+EC:1.18.1.1	LinDA	negative	positive	0.617717323103431	BH	0.999791598211958	Rubredoxin--NAD(+) reductase
+EC:1.18.1.2	LinDA	negative	positive	0.881606444026728	BH	0.999791598211958	Ferredoxin--NADP(+) reductase
+EC:1.18.1.3	LinDA	negative	positive	0.222619336695298	BH	0.999791598211958	Ferredoxin--NAD(+) reductase
+EC:1.18.6.1	LinDA	negative	positive	0.57396134463557	BH	0.999791598211958	Nitrogenase
+EC:1.2.1.10	LinDA	negative	positive	0.954805551760415	BH	0.999791598211958	Acetaldehyde dehydrogenase (acetylating)
+EC:1.2.1.11	LinDA	negative	positive	0.83762489027245	BH	0.999791598211958	Aspartate-semialdehyde dehydrogenase
+EC:1.2.1.12	LinDA	negative	positive	0.715446292400973	BH	0.999791598211958	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+EC:1.2.1.16	LinDA	negative	positive	0.102147248717109	BH	0.71581049100997	Succinate-semialdehyde dehydrogenase (NAD(P)(+))
+EC:1.2.1.18	LinDA	negative	positive	0.638564404220071	BH	0.999791598211958	Malonate-semialdehyde dehydrogenase (acetylating)
+EC:1.2.1.19	LinDA	negative	positive	0.00168900993078726	BH	0.0809110455408616	Aminobutyraldehyde dehydrogenase
+EC:1.2.1.2	LinDA	negative	positive	0.0135939941517105	BH	0.217031071848178	Formate dehydrogenase
+EC:1.2.1.20	LinDA	negative	positive	0.136302030027008	BH	0.817812180162048	Glutarate-semialdehyde dehydrogenase
+EC:1.2.1.21	LinDA	negative	positive	0.690752178082686	BH	0.999791598211958	Glycolaldehyde dehydrogenase
+EC:1.2.1.22	LinDA	negative	positive	0.95653551826936	BH	0.999791598211958	Lactaldehyde dehydrogenase
+EC:1.2.1.24	LinDA	negative	positive	0.00407010601135583	BH	0.107620123219015	Succinate-semialdehyde dehydrogenase (NAD(+))
+EC:1.2.1.27	LinDA	negative	positive	0.638564404220071	BH	0.999791598211958	Methylmalonate-semialdehyde dehydrogenase (CoA acylating)
+EC:1.2.1.28	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Benzaldehyde dehydrogenase (NAD(+))
+EC:1.2.1.3	LinDA	negative	positive	0.589122377970453	BH	0.999791598211958	Aldehyde dehydrogenase (NAD(+))
+EC:1.2.1.38	LinDA	negative	positive	0.981656724756679	BH	0.999791598211958	N-acetyl-gamma-glutamyl-phosphate reductase
+EC:1.2.1.39	LinDA	negative	positive	0.00234600858544628	BH	0.0879035053648851	Phenylacetaldehyde dehydrogenase
+EC:1.2.1.4	LinDA	negative	positive	0.00761949127426603	BH	0.160797539994856	Aldehyde dehydrogenase (NADP(+))
+EC:1.2.1.41	LinDA	negative	positive	0.998573614851982	BH	0.999791598211958	Glutamate-5-semialdehyde dehydrogenase
+EC:1.2.1.43	LinDA	negative	positive	0.494716758685277	BH	0.999791598211958	Formate dehydrogenase (NADP(+))
+EC:1.2.1.46	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Formaldehyde dehydrogenase
+EC:1.2.1.54	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Gamma-guanidinobutyraldehyde dehydrogenase
+EC:1.2.1.58	LinDA	negative	positive	0.94138838113147	BH	0.999791598211958	Phenylglyoxylate dehydrogenase (acylating)
+EC:1.2.1.59	LinDA	negative	positive	0.202914128782493	BH	0.962662378409967	Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)(+)) (phosphorylating)
+EC:1.2.1.60	LinDA	negative	positive	0.0014999036353206	BH	0.0809110455408616	5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
+EC:1.2.1.68	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Coniferyl-aldehyde dehydrogenase
+EC:1.2.1.70	LinDA	negative	positive	0.604622174018768	BH	0.999791598211958	Glutamyl-tRNA reductase
+EC:1.2.1.71	LinDA	negative	positive	0.0032868134653108	BH	0.102632589010576	Succinylglutamate-semialdehyde dehydrogenase
+EC:1.2.1.72	LinDA	negative	positive	0.00180123052670692	BH	0.0809110455408616	Erythrose-4-phosphate dehydrogenase
+EC:1.2.1.76	LinDA	negative	positive	0.432353638938114	BH	0.999791598211958	Succinate-semialdehyde dehydrogenase (acetylating)
+EC:1.2.1.79	LinDA	negative	positive	0.136302030027008	BH	0.817812180162048	Succinate-semialdehyde dehydrogenase (NADP(+))
+EC:1.2.1.8	LinDA	negative	positive	0.187307268910744	BH	0.931967874580287	Betaine-aldehyde dehydrogenase
+EC:1.2.1.80	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Long-chain acyl-[acyl-carrier-protein] reductase
+EC:1.2.1.81	LinDA	negative	positive	0.148732397636725	BH	0.841351757018	Sulfoacetaldehyde dehydrogenase (acylating)
+EC:1.2.1.87	LinDA	negative	positive	0.718526974006921	BH	0.999791598211958	Propanal dehydrogenase (CoA-propanoylating)
+EC:1.2.1.88	LinDA	negative	positive	0.400035334611116	BH	0.999791598211958	L-glutamate gamma-semialdehyde dehydrogenase
+EC:1.2.1.9	LinDA	negative	positive	0.821281289331311	BH	0.999791598211958	Glyceraldehyde-3-phosphate dehydrogenase (NADP(+))
+EC:1.2.1.91	LinDA	negative	positive	0.00150733394510172	BH	0.0809110455408616	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
+EC:1.2.3.3	LinDA	negative	positive	0.0389934847233053	BH	0.423621526343127	Pyruvate oxidase
+EC:1.2.4.1	LinDA	negative	positive	0.604771527843616	BH	0.999791598211958	Pyruvate dehydrogenase (acetyl-transferring)
+EC:1.2.4.2	LinDA	negative	positive	0.353870527959402	BH	0.999791598211958	Oxoglutarate dehydrogenase (succinyl-transferring)
+EC:1.2.4.4	LinDA	negative	positive	0.747722348356513	BH	0.999791598211958	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+EC:1.2.5.1	LinDA	negative	positive	0.726793364182182	BH	0.999791598211958	Pyruvate dehydrogenase (quinone)
+EC:1.2.7.1	LinDA	negative	positive	0.860581298474827	BH	0.999791598211958	Pyruvate synthase
+EC:1.2.7.11	LinDA	negative	positive	0.509093610893324	BH	0.999791598211958	2-oxoacid oxidoreductase (ferredoxin)
+EC:1.2.7.3	LinDA	negative	positive	0.619880570387515	BH	0.999791598211958	2-oxoglutarate synthase
+EC:1.2.7.4	LinDA	negative	positive	0.360450451206909	BH	0.999791598211958	Carbon-monoxide dehydrogenase (ferredoxin)
+EC:1.2.7.5	LinDA	negative	positive	0.38997439502787	BH	0.999791598211958	Aldehyde ferredoxin oxidoreductase
+EC:1.2.7.7	LinDA	negative	positive	0.137619180632133	BH	0.820353297534403	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
+EC:1.2.7.8	LinDA	negative	positive	0.265871379952304	BH	0.999791598211958	Indolepyruvate ferredoxin oxidoreductase
+EC:1.2.99.2	LinDA	negative	positive	0.875067303800972	BH	0.999791598211958	Carbon-monoxide dehydrogenase (acceptor)
+EC:1.2.99.5	LinDA	negative	positive	0.44146864721648	BH	0.999791598211958	Formylmethanofuran dehydrogenase
+EC:1.2.99.7	LinDA	negative	positive	0.0927245754408235	BH	0.683704098431132	Aldehyde dehydrogenase (FAD-independent)
+EC:1.2.99.8	LinDA	negative	positive	0.651430406644332	BH	0.999791598211958	Glyceraldehyde dehydrogenase (FAD-containing)
+EC:1.20.1.1	LinDA	negative	positive	0.316385890147681	BH	0.999791598211958	Phosphonate dehydrogenase
+EC:1.20.4.1	LinDA	negative	positive	0.965889649448118	BH	0.999791598211958	Arsenate reductase (glutaredoxin)
+EC:1.21.4.1	LinDA	negative	positive	0.670896006281586	BH	0.999791598211958	D-proline reductase (dithiol)
+EC:1.21.4.2	LinDA	negative	positive	0.141803214473432	BH	0.825998977813324	Glycine reductase
+EC:1.21.4.4	LinDA	negative	positive	0.587130434655164	BH	0.999791598211958	Betaine reductase
+EC:1.21.98.1	LinDA	negative	positive	0.33725985724358	BH	0.999791598211958	Cyclic dehypoxanthinyl futalosine synthase
+EC:1.3.1.1	LinDA	negative	positive	0.421745567571524	BH	0.999791598211958	Dihydrouracil dehydrogenase (NAD(+))
+EC:1.3.1.10	LinDA	negative	positive	0.801924494641712	BH	0.999791598211958	Enoyl-[acyl-carrier-protein] reductase (NADPH, Si-specific)
+EC:1.3.1.101	LinDA	negative	positive	0.382103156738749	BH	0.999791598211958	2,3-bis-O-geranylgeranyl-sn-glycerol 1-phosphate reductase (NAD(P)H)
+EC:1.3.1.106	LinDA	negative	positive	0.881738591090977	BH	0.999791598211958	Cobalt-precorrin-6A reductase
+EC:1.3.1.12	LinDA	negative	positive	0.918506038296958	BH	0.999791598211958	Prephenate dehydrogenase
+EC:1.3.1.14	LinDA	negative	positive	0.898962010885694	BH	0.999791598211958	Dihydroorotate dehydrogenase (NAD(+))
+EC:1.3.1.20	LinDA	negative	positive	0.17713918959457	BH	0.903409866932307	Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase
+EC:1.3.1.22	LinDA	negative	positive	0.362729615049217	BH	0.999791598211958	3-oxo-5-alpha-steroid 4-dehydrogenase (NADP(+))
+EC:1.3.1.24	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Biliverdin reductase
+EC:1.3.1.25	LinDA	negative	positive	0.0113554882601981	BH	0.189533422233852	1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase
+EC:1.3.1.28	LinDA	negative	positive	0.00389332485500934	BH	0.107620123219015	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+EC:1.3.1.31	LinDA	negative	positive	0.167215295367114	BH	0.87602994185551	2-enoate reductase
+EC:1.3.1.33	LinDA	negative	positive	0.967781954895126	BH	0.999791598211958	Protochlorophyllide reductase
+EC:1.3.1.34	LinDA	negative	positive	0.597017062934596	BH	0.999791598211958	2,4-dienoyl-CoA reductase (NADPH)
+EC:1.3.1.43	LinDA	negative	positive	0.4317051663588	BH	0.999791598211958	Arogenate dehydrogenase
+EC:1.3.1.44	LinDA	negative	positive	0.149256463648142	BH	0.841351757018	Trans-2-enoyl-CoA reductase (NAD(+))
+EC:1.3.1.54	LinDA	negative	positive	0.881738591090977	BH	0.999791598211958	Precorrin-6A reductase
+EC:1.3.1.76	LinDA	negative	positive	0.394491277825557	BH	0.999791598211958	Precorrin-2 dehydrogenase
+EC:1.3.1.78	LinDA	negative	positive	0.527807152688601	BH	0.999791598211958	Arogenate dehydrogenase (NADP(+))
+EC:1.3.1.83	LinDA	negative	positive	0.0781085162188677	BH	0.615602803014299	Geranylgeranyl diphosphate reductase
+EC:1.3.1.85	LinDA	negative	positive	0.765109631751091	BH	0.999791598211958	Crotonyl-CoA carboxylase/reductase
+EC:1.3.1.86	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Crotonyl-CoA reductase
+EC:1.3.1.87	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	3-(cis-5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate dehydrogenase
+EC:1.3.1.9	LinDA	negative	positive	0.999513878115242	BH	0.999952392198431	Enoyl-[acyl-carrier-protein] reductase (NADH)
+EC:1.3.1.98	LinDA	negative	positive	0.784354485619346	BH	0.999791598211958	UDP-N-acetylmuramate dehydrogenase
+EC:1.3.3.11	LinDA	negative	positive	0.00922450542162459	BH	0.177134772419369	Pyrroloquinoline-quinone synthase
+EC:1.3.3.3	LinDA	negative	positive	0.00011456069164146	BH	0.0701111432845735	Coproporphyrinogen oxidase
+EC:1.3.3.4	LinDA	negative	positive	0.780529325783256	BH	0.999791598211958	Protoporphyrinogen oxidase
+EC:1.3.4.1	LinDA	negative	positive	0.0783352597962683	BH	0.615602803014299	Fumarate reductase (CoM/CoB)
+EC:1.3.5.1	LinDA	negative	positive	0.74580925069292	BH	0.999791598211958	Succinate dehydrogenase (quinone)
+EC:1.3.5.2	LinDA	negative	positive	0.507335377592962	BH	0.999791598211958	Dihydroorotate dehydrogenase (quinone)
+EC:1.3.5.3	LinDA	negative	positive	0.469669222646007	BH	0.999791598211958	Protoporphyrinogen IX dehydrogenase (menaquinone)
+EC:1.3.5.4	LinDA	negative	positive	0.642434748777156	BH	0.999791598211958	Fumarate reductase (quinol)
+EC:1.3.5.5	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	15-cis-phytoene desaturase
+EC:1.3.7.11	LinDA	negative	positive	0.382103156738749	BH	0.999791598211958	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+EC:1.3.7.5	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Phycocyanobilin:ferredoxin oxidoreductase
+EC:1.3.7.7	LinDA	negative	positive	0.109246439073257	BH	0.737413463744485	Ferredoxin:protochlorophyllide reductase (ATP-dependent)
+EC:1.3.7.9	LinDA	negative	positive	0.107520669057554	BH	0.728442613984019	4-hydroxybenzoyl-CoA reductase
+EC:1.3.8.1	LinDA	negative	positive	0.383223193081765	BH	0.999791598211958	Short-chain acyl-CoA dehydrogenase
+EC:1.3.8.12	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	(2S)-methylsuccinyl-CoA dehydrogenase
+EC:1.3.8.4	LinDA	negative	positive	0.802545268498498	BH	0.999791598211958	Isovaleryl-CoA dehydrogenase
+EC:1.3.8.6	LinDA	negative	positive	0.260445898224576	BH	0.999791598211958	Glutaryl-CoA dehydrogenase (ETF)
+EC:1.3.8.7	LinDA	negative	positive	0.406209885945682	BH	0.999791598211958	Medium-chain acyl-CoA dehydrogenase
+EC:1.3.98.1	LinDA	negative	positive	0.158731894503876	BH	0.86222413700922	Dihydroorotate oxidase (fumarate)
+EC:1.3.99.16	LinDA	negative	positive	0.773494834215241	BH	0.999791598211958	Isoquinoline 1-oxidoreductase
+EC:1.3.99.22	LinDA	negative	positive	0.780561275090682	BH	0.999791598211958	Coproporphyrinogen dehydrogenase
+EC:1.3.99.23	LinDA	negative	positive	0.830748115706776	BH	0.999791598211958	All-trans-retinol 13,14-reductase
+EC:1.3.99.26	LinDA	negative	positive	0.0199718312173163	BH	0.276526553823211	All-trans-zeta-carotene desaturase
+EC:1.3.99.27	LinDA	negative	positive	0.324550284558883	BH	0.999791598211958	1-hydroxycarotenoid 3,4-desaturase
+EC:1.3.99.28	LinDA	negative	positive	0.0199718312173163	BH	0.276526553823211	Phytoene desaturase (neurosporene-forming)
+EC:1.3.99.29	LinDA	negative	positive	0.0199718312173163	BH	0.276526553823211	Phytoene desaturase (zeta-carotene-forming)
+EC:1.3.99.31	LinDA	negative	positive	0.0199718312173163	BH	0.276526553823211	Phytoene desaturase (lycopene-forming)
+EC:1.3.99.32	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Glutaryl-CoA dehydrogenase (acceptor)
+EC:1.3.99.33	LinDA	negative	positive	0.436559913883733	BH	0.999791598211958	Urocanate reductase
+EC:1.3.99.35	LinDA	negative	positive	0.3497603904447	BH	0.999791598211958	Chlorophyllide a reductase
+EC:1.4.1.1	LinDA	negative	positive	0.482382564971779	BH	0.999791598211958	Alanine dehydrogenase
+EC:1.4.1.11	LinDA	negative	positive	0.29874135525034	BH	0.999791598211958	L-erythro-3,5-diaminohexanoate dehydrogenase
+EC:1.4.1.13	LinDA	negative	positive	0.966830373717462	BH	0.999791598211958	Glutamate synthase (NADPH)
+EC:1.4.1.14	LinDA	negative	positive	0.966830373717462	BH	0.999791598211958	Glutamate synthase (NADH)
+EC:1.4.1.16	LinDA	negative	positive	0.375117921254827	BH	0.999791598211958	Diaminopimelate dehydrogenase
+EC:1.4.1.2	LinDA	negative	positive	0.959773697331576	BH	0.999791598211958	Glutamate dehydrogenase
+EC:1.4.1.21	LinDA	negative	positive	0.328460063722485	BH	0.999791598211958	Aspartate dehydrogenase
+EC:1.4.1.24	LinDA	negative	positive	0.174791054357734	BH	0.89697532652265	3-dehydroquinate synthase II
+EC:1.4.1.3	LinDA	negative	positive	0.16052302835943	BH	0.86476717383573	Glutamate dehydrogenase (NAD(P)(+))
+EC:1.4.1.4	LinDA	negative	positive	0.828694873226755	BH	0.999791598211958	Glutamate dehydrogenase (NADP(+))
+EC:1.4.1.9	LinDA	negative	positive	0.165851773895277	BH	0.874488001294363	Leucine dehydrogenase
+EC:1.4.3.16	LinDA	negative	positive	0.916043827462221	BH	0.999791598211958	L-aspartate oxidase
+EC:1.4.3.19	LinDA	negative	positive	0.412151466932052	BH	0.999791598211958	Glycine oxidase
+EC:1.4.3.21	LinDA	negative	positive	0.00150733394510172	BH	0.0809110455408616	Primary-amine oxidase
+EC:1.4.3.4	LinDA	negative	positive	0.173638688357719	BH	0.895507392766214	Monoamine oxidase
+EC:1.4.3.5	LinDA	negative	positive	0.212360488511089	BH	0.984666902398791	Pyridoxal 5'-phosphate synthase
+EC:1.4.4.2	LinDA	negative	positive	0.286508421951276	BH	0.999791598211958	Glycine dehydrogenase (aminomethyl-transferring)
+EC:1.4.7.1	LinDA	negative	positive	0.546511662640136	BH	0.999791598211958	Glutamate synthase (ferredoxin)
+EC:1.4.9.1	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Methylamine dehydrogenase (amicyanin)
+EC:1.4.99.5	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Glycine dehydrogenase (cyanide-forming)
+EC:1.4.99.6	LinDA	negative	positive	0.265855403898152	BH	0.999791598211958	D-arginine dehydrogenase
+EC:1.5.1.10	LinDA	negative	positive	0.91418852179195	BH	0.999791598211958	Saccharopine dehydrogenase (NADP(+), L-glutamate-forming)
+EC:1.5.1.2	LinDA	negative	positive	0.965983445477462	BH	0.999791598211958	Pyrroline-5-carboxylate reductase
+EC:1.5.1.20	LinDA	negative	positive	0.877336095070837	BH	0.999791598211958	Methylenetetrahydrofolate reductase (NAD(P)H)
+EC:1.5.1.24	LinDA	negative	positive	0.748342540672052	BH	0.999791598211958	N(5)-(carboxyethyl)ornithine synthase
+EC:1.5.1.28	LinDA	negative	positive	0.837818381277739	BH	0.999791598211958	Opine dehydrogenase
+EC:1.5.1.3	LinDA	negative	positive	0.951749031147017	BH	0.999791598211958	Dihydrofolate reductase
+EC:1.5.1.34	LinDA	negative	positive	0.727851213804795	BH	0.999791598211958	6,7-dihydropteridine reductase
+EC:1.5.1.36	LinDA	negative	positive	0.0014999036353206	BH	0.0809110455408616	Flavin reductase (NADH)
+EC:1.5.1.38	LinDA	negative	positive	0.728113559901709	BH	0.999791598211958	FMN reductase (NADPH)
+EC:1.5.1.39	LinDA	negative	positive	0.618538548730811	BH	0.999791598211958	FMN reductase (NAD(P)H)
+EC:1.5.1.41	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	Riboflavin reductase (NAD(P)H)
+EC:1.5.1.5	LinDA	negative	positive	0.944966280888321	BH	0.999791598211958	Methylenetetrahydrofolate dehydrogenase (NADP(+))
+EC:1.5.1.6	LinDA	negative	positive	0.0758218304925825	BH	0.615602803014299	Formyltetrahydrofolate dehydrogenase
+EC:1.5.1.7	LinDA	negative	positive	0.591418873013227	BH	0.999791598211958	Saccharopine dehydrogenase (NAD(+), L-lysine-forming)
+EC:1.5.3.1	LinDA	negative	positive	0.853424224321131	BH	0.999791598211958	Sarcosine oxidase
+EC:1.5.3.19	LinDA	negative	positive	0.0684857499021687	BH	0.593112437831989	4-methylaminobutanoate oxidase (formaldehyde-forming)
+EC:1.5.5.1	LinDA	negative	positive	0.987682894022789	BH	0.999791598211958	Electron-transferring-flavoprotein dehydrogenase
+EC:1.5.5.2	LinDA	negative	positive	0.431498653581867	BH	0.999791598211958	Proline dehydrogenase
+EC:1.5.98.1	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Methylenetetrahydromethanopterin dehydrogenase
+EC:1.5.98.2	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	5,10-methylenetetrahydromethanopterin reductase
+EC:1.5.99.15	LinDA	negative	positive	0.346324727984243	BH	0.999791598211958	Dihydromethanopterin reductase (acceptor)
+EC:1.5.99.6	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Spermidine dehydrogenase
+EC:1.6.1.1	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	NAD(P)(+) transhydrogenase (Si-specific)
+EC:1.6.1.2	LinDA	negative	positive	0.202435169955484	BH	0.962662378409967	NAD(P)(+) transhydrogenase (Re/Si-specific)
+EC:1.6.3.3	LinDA	negative	positive	0.51479812225515	BH	0.999791598211958	NADH oxidase (H(2)O(2)-forming)
+EC:1.6.3.4	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	NADH oxidase (H(2)O-forming)
+EC:1.6.5.2	LinDA	negative	positive	0.430612946784274	BH	0.999791598211958	NAD(P)H dehydrogenase (quinone)
+EC:1.6.5.3	LinDA	negative	positive	0.530872622261559	BH	0.999791598211958	NADH:ubiquinone reductase (H(+)-translocating)
+EC:1.6.5.5	LinDA	negative	positive	0.245331444161994	BH	0.999791598211958	NADPH:quinone reductase
+EC:1.6.99.1	LinDA	negative	positive	0.110313698926004	BH	0.74188993123862	NADPH dehydrogenase
+EC:1.6.99.3	LinDA	negative	positive	0.140475218449746	BH	0.825998977813324	NADH dehydrogenase
+EC:1.7.1.13	LinDA	negative	positive	0.697961538900233	BH	0.999791598211958	PreQ(1) synthase
+EC:1.7.1.15	LinDA	negative	positive	0.0140160143080685	BH	0.219943609141998	Nitrite reductase (NADH)
+EC:1.7.1.7	LinDA	negative	positive	0.0547594588177228	BH	0.508899889003524	GMP reductase
+EC:1.7.2.1	LinDA	negative	positive	0.751320076046038	BH	0.999791598211958	Nitrite reductase (NO-forming)
+EC:1.7.2.2	LinDA	negative	positive	0.707008860050309	BH	0.999791598211958	Nitrite reductase (cytochrome; ammonia-forming)
+EC:1.7.2.3	LinDA	negative	positive	0.523911901547077	BH	0.999791598211958	Trimethylamine-N-oxide reductase (cytochrome c)
+EC:1.7.2.4	LinDA	negative	positive	0.383035394496002	BH	0.999791598211958	Nitrous-oxide reductase
+EC:1.7.2.5	LinDA	negative	positive	0.919522007625823	BH	0.999791598211958	Nitric-oxide reductase (cytochrome c)
+EC:1.7.7.1	LinDA	negative	positive	0.810935968036101	BH	0.999791598211958	Ferredoxin--nitrite reductase
+EC:1.7.7.2	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Ferredoxin--nitrate reductase
+EC:1.7.99.1	LinDA	negative	positive	0.881964164588411	BH	0.999791598211958	Hydroxylamine reductase
+EC:1.7.99.4	LinDA	negative	positive	0.0532835836886945	BH	0.501685434115093	Nitrate reductase
+EC:1.8.1.15	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Mycothione reductase
+EC:1.8.1.2	LinDA	negative	positive	0.119539009420072	BH	0.753239531892842	Assimilatory sulfite reductase (NADPH)
+EC:1.8.1.4	LinDA	negative	positive	0.698159814302135	BH	0.999791598211958	Dihydrolipoyl dehydrogenase
+EC:1.8.1.7	LinDA	negative	positive	0.0740470471528971	BH	0.611971341014584	Glutathione-disulfide reductase
+EC:1.8.1.8	LinDA	negative	positive	0.655128394837349	BH	0.999791598211958	Protein-disulfide reductase
+EC:1.8.1.9	LinDA	negative	positive	0.787425922349813	BH	0.999791598211958	Thioredoxin-disulfide reductase
+EC:1.8.2.2	LinDA	negative	positive	0.106787100250073	BH	0.728442613984019	Thiosulfate dehydrogenase
+EC:1.8.2.3	LinDA	negative	positive	0.433153096471251	BH	0.999791598211958	Sulfide-cytochrome-c reductase (flavocytochrome c)
+EC:1.8.4.11	LinDA	negative	positive	0.925872477062882	BH	0.999791598211958	Peptide-methionine (S)-S-oxide reductase
+EC:1.8.4.12	LinDA	negative	positive	0.794947967195443	BH	0.999791598211958	Peptide-methionine (R)-S-oxide reductase
+EC:1.8.4.8	LinDA	negative	positive	0.808903310109356	BH	0.999791598211958	Phosphoadenylyl-sulfate reductase (thioredoxin)
+EC:1.8.5.2	LinDA	negative	positive	0.928830313662868	BH	0.999791598211958	Thiosulfate dehydrogenase (quinone)
+EC:1.8.5.3	LinDA	negative	positive	0.237289662203327	BH	0.999791598211958	Dimethylsulfoxide reductase
+EC:1.8.7.1	LinDA	negative	positive	0.0448972562897609	BH	0.44317936853764	Assimilatory sulfite reductase (ferredoxin)
+EC:1.8.7.2	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Ferredoxin:thioredoxin reductase
+EC:1.8.98.1	LinDA	negative	positive	0.314499494508829	BH	0.999791598211958	CoB--CoM heterodisulfide reductase
+EC:1.8.99.2	LinDA	negative	positive	0.196157141526785	BH	0.949946206955263	Adenylyl-sulfate reductase
+EC:1.8.99.3	LinDA	negative	positive	0.36657454759897	BH	0.999791598211958	Hydrogensulfite reductase
+EC:1.8.99.5	LinDA	negative	positive	0.36657454759897	BH	0.999791598211958	Dissimilatory sulfite reductase
+EC:1.9.3.1	LinDA	negative	positive	0.404262005531091	BH	0.999791598211958	Cytochrome-c oxidase
+EC:1.97.1.4	LinDA	negative	positive	0.941104502501734	BH	0.999791598211958	[Formate-C-acetyltransferase]-activating enzyme
+EC:1.97.1.9	LinDA	negative	positive	0.668795219369151	BH	0.999791598211958	Selenate reductase
+EC:2.1.1.10	LinDA	negative	positive	0.317693342301913	BH	0.999791598211958	Homocysteine S-methyltransferase
+EC:2.1.1.104	LinDA	negative	positive	0.352970369827905	BH	0.999791598211958	Caffeoyl-CoA O-methyltransferase
+EC:2.1.1.107	LinDA	negative	positive	0.52740020706142	BH	0.999791598211958	Uroporphyrinogen-III C-methyltransferase
+EC:2.1.1.11	LinDA	negative	positive	0.0781085162188677	BH	0.615602803014299	Magnesium protoporphyrin IX methyltransferase
+EC:2.1.1.113	LinDA	negative	positive	0.621292293133704	BH	0.999791598211958	Site-specific DNA-methyltransferase (cytosine-N(4)-specific)
+EC:2.1.1.13	LinDA	negative	positive	0.812366462918688	BH	0.999791598211958	Methionine synthase
+EC:2.1.1.130	LinDA	negative	positive	0.923207554664552	BH	0.999791598211958	Precorrin-2 C(20)-methyltransferase
+EC:2.1.1.131	LinDA	negative	positive	0.797760430547424	BH	0.999791598211958	Precorrin-3B C(17)-methyltransferase
+EC:2.1.1.132	LinDA	negative	positive	0.522780335619157	BH	0.999791598211958	Precorrin-6B C(5,15)-methyltransferase (decarboxylating)
+EC:2.1.1.133	LinDA	negative	positive	0.788648947330421	BH	0.999791598211958	Precorrin-4 C(11)-methyltransferase
+EC:2.1.1.14	LinDA	negative	positive	0.0847920508024329	BH	0.640651050507271	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+EC:2.1.1.144	LinDA	negative	positive	0.644439487140848	BH	0.999791598211958	Trans-aconitate 2-methyltransferase
+EC:2.1.1.148	LinDA	negative	positive	0.640943079931513	BH	0.999791598211958	Thymidylate synthase (FAD)
+EC:2.1.1.151	LinDA	negative	positive	0.923207554664552	BH	0.999791598211958	Cobalt-factor II C(20)-methyltransferase
+EC:2.1.1.152	LinDA	negative	positive	0.324550284558883	BH	0.999791598211958	Precorrin-6A synthase (deacetylating)
+EC:2.1.1.157	LinDA	negative	positive	0.265855403898152	BH	0.999791598211958	Sarcosine/dimethylglycine N-methyltransferase
+EC:2.1.1.163	LinDA	negative	positive	0.872644669617218	BH	0.999791598211958	Demethylmenaquinone methyltransferase
+EC:2.1.1.166	LinDA	negative	positive	0.030638524651854	BH	0.367662295822248	23S rRNA (uridine(2552)-2'-O)-methyltransferase
+EC:2.1.1.17	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Phosphatidylethanolamine N-methyltransferase
+EC:2.1.1.170	LinDA	negative	positive	0.808359515466686	BH	0.999791598211958	16S rRNA (guanine(527)-N(7))-methyltransferase
+EC:2.1.1.171	LinDA	negative	positive	0.619307673819498	BH	0.999791598211958	16S rRNA (guanine(966)-N(2))-methyltransferase
+EC:2.1.1.172	LinDA	negative	positive	0.105133153121647	BH	0.728394223137147	16S rRNA (guanine(1207)-N(2))-methyltransferase
+EC:2.1.1.173	LinDA	negative	positive	0.325863505284198	BH	0.999791598211958	23S rRNA (guanine(2445)-N(2))-methyltransferase
+EC:2.1.1.174	LinDA	negative	positive	0.00396342654759511	BH	0.107620123219015	23S rRNA (guanine(1835)-N(2))-methyltransferase
+EC:2.1.1.176	LinDA	negative	positive	0.675940362780486	BH	0.999791598211958	16S rRNA (cytosine(967)-C(5))-methyltransferase
+EC:2.1.1.177	LinDA	negative	positive	0.964215336653552	BH	0.999791598211958	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase
+EC:2.1.1.178	LinDA	negative	positive	0.0316422564870307	BH	0.374807631678635	16S rRNA (cytosine(1407)-C(5))-methyltransferase
+EC:2.1.1.181	LinDA	negative	positive	0.471961501759021	BH	0.999791598211958	23S rRNA (adenine(1618)-N(6))-methyltransferase
+EC:2.1.1.182	LinDA	negative	positive	0.886349244137725	BH	0.999791598211958	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase
+EC:2.1.1.184	LinDA	negative	positive	0.631261490936269	BH	0.999791598211958	23S rRNA (adenine(2085)-N(6))-dimethyltransferase
+EC:2.1.1.185	LinDA	negative	positive	0.993713059094949	BH	0.999791598211958	23S rRNA (guanosine(2251)-2'-O)-methyltransferase
+EC:2.1.1.186	LinDA	negative	positive	0.0334838104608419	BH	0.391568636981565	23S rRNA (cytidine(2498)-2'-O)-methyltransferase
+EC:2.1.1.187	LinDA	negative	positive	0.714872297170601	BH	0.999791598211958	23S rRNA (guanine(745)-N(1))-methyltransferase
+EC:2.1.1.189	LinDA	negative	positive	0.0159047586423798	BH	0.245387704768146	23S rRNA (uracil(747)-C(5))-methyltransferase
+EC:2.1.1.190	LinDA	negative	positive	0.978772230991741	BH	0.999791598211958	23S rRNA (uracil(1939)-C(5))-methyltransferase
+EC:2.1.1.191	LinDA	negative	positive	0.667123944518273	BH	0.999791598211958	23S rRNA (cytosine(1962)-C(5))-methyltransferase
+EC:2.1.1.192	LinDA	negative	positive	0.980241840604728	BH	0.999791598211958	23S rRNA (adenine(2503)-C(2))-methyltransferase
+EC:2.1.1.193	LinDA	negative	positive	0.846563322210123	BH	0.999791598211958	16S rRNA (uracil(1498)-N(3))-methyltransferase
+EC:2.1.1.195	LinDA	negative	positive	0.897227864858741	BH	0.999791598211958	Cobalt-precorrin-5B (C(1))-methyltransferase
+EC:2.1.1.196	LinDA	negative	positive	0.635676122697757	BH	0.999791598211958	Cobalt-precorrin-6B (C(15))-methyltransferase (decarboxylating)
+EC:2.1.1.197	LinDA	negative	positive	0.902208384979605	BH	0.999791598211958	Malonyl-[acyl-carrier protein] O-methyltransferase
+EC:2.1.1.198	LinDA	negative	positive	0.868595062328301	BH	0.999791598211958	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+EC:2.1.1.199	LinDA	negative	positive	0.96188095338795	BH	0.999791598211958	16S rRNA (cytosine(1402)-N(4))-methyltransferase
+EC:2.1.1.200	LinDA	negative	positive	0.0787944764206755	BH	0.615602803014299	tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase
+EC:2.1.1.201	LinDA	negative	positive	0.872644669617218	BH	0.999791598211958	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase
+EC:2.1.1.206	LinDA	negative	positive	0.382103156738749	BH	0.999791598211958	tRNA (cytidine(56)-2'-O)-methyltransferase
+EC:2.1.1.207	LinDA	negative	positive	0.760196942952649	BH	0.999791598211958	tRNA (cytidine(34)-2'-O)-methyltransferase
+EC:2.1.1.210	LinDA	negative	positive	0.324550284558883	BH	0.999791598211958	Demethylspheroidene O-methyltransferase
+EC:2.1.1.213	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA (guanine(10)-N(2))-dimethyltransferase
+EC:2.1.1.215	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+EC:2.1.1.216	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA (guanine(26)-N(2))-dimethyltransferase
+EC:2.1.1.217	LinDA	negative	positive	0.89582039856488	BH	0.999791598211958	tRNA (adenine(22)-N(1))-methyltransferase
+EC:2.1.1.219	LinDA	negative	positive	0.227051078008403	BH	0.999791598211958	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase
+EC:2.1.1.220	LinDA	negative	positive	0.227051078008403	BH	0.999791598211958	tRNA (adenine(58)-N(1))-methyltransferase
+EC:2.1.1.222	LinDA	negative	positive	0.358708648088823	BH	0.999791598211958	2-polyprenyl-6-hydroxyphenol methylase
+EC:2.1.1.223	LinDA	negative	positive	0.695288814948041	BH	0.999791598211958	tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase
+EC:2.1.1.226	LinDA	negative	positive	0.832499389377718	BH	0.999791598211958	23S rRNA (cytidine(1920)-2'-O)-methyltransferase
+EC:2.1.1.227	LinDA	negative	positive	0.832499389377718	BH	0.999791598211958	16S rRNA (cytidine(1409)-2'-O)-methyltransferase
+EC:2.1.1.228	LinDA	negative	positive	0.896302793915351	BH	0.999791598211958	tRNA (guanine(37)-N(1))-methyltransferase
+EC:2.1.1.242	LinDA	negative	positive	0.195470490735201	BH	0.949946206955263	16S rRNA (guanine(1516)-N(2))-methyltransferase
+EC:2.1.1.245	LinDA	negative	positive	0.757645771531356	BH	0.999791598211958	Co-methyltransferase
+EC:2.1.1.246	LinDA	negative	positive	0.0437358223836285	BH	0.441700191641566	methyltransferase
+EC:2.1.1.248	LinDA	negative	positive	0.717395697182428	BH	0.999791598211958	[Methylamine--corrinoid protein] Co-methyltransferase
+EC:2.1.1.249	LinDA	negative	positive	0.784375932027073	BH	0.999791598211958	[Dimethylamine--corrinoid protein] Co-methyltransferase
+EC:2.1.1.250	LinDA	negative	positive	0.511432016504869	BH	0.999791598211958	[Trimethylamine--corrinoid protein] Co-methyltransferase
+EC:2.1.1.257	LinDA	negative	positive	0.737625080189354	BH	0.999791598211958	tRNA (pseudouridine(54)-N(1))-methyltransferase
+EC:2.1.1.258	LinDA	negative	positive	0.777878233478988	BH	0.999791598211958	Co-methyltransferase
+EC:2.1.1.264	LinDA	negative	positive	0.325863505284198	BH	0.999791598211958	23S rRNA (guanine(2069)-N(7))-methyltransferase
+EC:2.1.1.265	LinDA	negative	positive	0.0466848095677371	BH	0.455921863650879	Tellurite methyltransferase
+EC:2.1.1.266	LinDA	negative	positive	0.737150132678868	BH	0.999791598211958	23S rRNA (adenine(2030)-N(6))-methyltransferase
+EC:2.1.1.271	LinDA	negative	positive	0.788648947330421	BH	0.999791598211958	Cobalt-precorrin-4 methyltransferase
+EC:2.1.1.289	LinDA	negative	positive	0.663736518042407	BH	0.999791598211958	Cobalt-precorrin-7 (C(5))-methyltransferase
+EC:2.1.1.294	LinDA	negative	positive	0.0432387285834588	BH	0.441700191641566	3-phospho-methyltransferase
+EC:2.1.1.295	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	2-methyl-6-phytyl-1,4-hydroquinone methyltransferase
+EC:2.1.1.297	LinDA	negative	positive	0.90413090904958	BH	0.999791598211958	Peptide chain release factor N(5)-glutamine methyltransferase
+EC:2.1.1.298	LinDA	negative	positive	0.0460947546717702	BH	0.452566682231926	Ribosomal protein L3 N(5)-glutamine methyltransferase
+EC:2.1.1.33	LinDA	negative	positive	0.982721168524887	BH	0.999791598211958	tRNA (guanine(46)-N(7))-methyltransferase
+EC:2.1.1.34	LinDA	negative	positive	0.66719581951955	BH	0.999791598211958	tRNA (guanosine(18)-2'-O)-methyltransferase
+EC:2.1.1.35	LinDA	negative	positive	0.230523382618653	BH	0.999791598211958	tRNA (uracil(54)-C(5))-methyltransferase
+EC:2.1.1.37	LinDA	negative	positive	0.884912434403465	BH	0.999791598211958	DNA (cytosine-5-)-methyltransferase
+EC:2.1.1.45	LinDA	negative	positive	0.828579437702058	BH	0.999791598211958	Thymidylate synthase
+EC:2.1.1.61	LinDA	negative	positive	0.0939175269105606	BH	0.684601405022411	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+EC:2.1.1.63	LinDA	negative	positive	0.857639509281337	BH	0.999791598211958	Methylated-DNA--[protein]-cysteine S-methyltransferase
+EC:2.1.1.64	LinDA	negative	positive	0.358708648088823	BH	0.999791598211958	3-demethylubiquinol 3-O-methyltransferase
+EC:2.1.1.67	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Thiopurine S-methyltransferase
+EC:2.1.1.71	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Phosphatidyl-N-methylethanolamine N-methyltransferase
+EC:2.1.1.72	LinDA	negative	positive	0.580600392115484	BH	0.999791598211958	Site-specific DNA-methyltransferase (adenine-specific)
+EC:2.1.1.74	LinDA	negative	positive	0.717470939952139	BH	0.999791598211958	(FADH(2)-oxidizing)
+EC:2.1.1.77	LinDA	negative	positive	0.243235455569998	BH	0.999791598211958	Protein-L-isoaspartate(D-aspartate) O-methyltransferase
+EC:2.1.1.79	LinDA	negative	positive	0.379251349251355	BH	0.999791598211958	Cyclopropane-fatty-acyl-phospholipid synthase
+EC:2.1.1.80	LinDA	negative	positive	0.428818725177319	BH	0.999791598211958	Protein-glutamate O-methyltransferase
+EC:2.1.1.86	LinDA	negative	positive	0.34197108041959	BH	0.999791598211958	Tetrahydromethanopterin S-methyltransferase
+EC:2.1.1.90	LinDA	negative	positive	0.861022569650499	BH	0.999791598211958	Methanol--corrinoid protein Co-methyltransferase
+EC:2.1.1.98	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Diphthine synthase
+EC:2.1.2.1	LinDA	negative	positive	0.881317380901008	BH	0.999791598211958	Glycine hydroxymethyltransferase
+EC:2.1.2.10	LinDA	negative	positive	0.326077744353289	BH	0.999791598211958	Aminomethyltransferase
+EC:2.1.2.11	LinDA	negative	positive	0.838916995934406	BH	0.999791598211958	3-methyl-2-oxobutanoate hydroxymethyltransferase
+EC:2.1.2.13	LinDA	negative	positive	0.00740329682743767	BH	0.159838389731721	UDP-4-amino-4-deoxy-L-arabinose formyltransferase
+EC:2.1.2.2	LinDA	negative	positive	0.95522876382808	BH	0.999791598211958	Phosphoribosylglycinamide formyltransferase
+EC:2.1.2.3	LinDA	negative	positive	0.951317254989042	BH	0.999791598211958	Phosphoribosylaminoimidazolecarboxamide formyltransferase
+EC:2.1.2.5	LinDA	negative	positive	0.129823258035589	BH	0.791617181451183	Glutamate formimidoyltransferase
+EC:2.1.2.9	LinDA	negative	positive	0.806593255313831	BH	0.999791598211958	Methionyl-tRNA formyltransferase
+EC:2.1.3.1	LinDA	negative	positive	0.460009463063427	BH	0.999791598211958	Methylmalonyl-CoA carboxytransferase
+EC:2.1.3.11	LinDA	negative	positive	0.215167994652582	BH	0.987621095455351	N-succinylornithine carbamoyltransferase
+EC:2.1.3.2	LinDA	negative	positive	0.947030255664296	BH	0.999791598211958	Aspartate carbamoyltransferase
+EC:2.1.3.3	LinDA	negative	positive	0.789254287317787	BH	0.999791598211958	Ornithine carbamoyltransferase
+EC:2.1.3.6	LinDA	negative	positive	0.0720063465969247	BH	0.609233420976745	Putrescine carbamoyltransferase
+EC:2.1.4.1	LinDA	negative	positive	0.67687641263109	BH	0.999791598211958	Glycine amidinotransferase
+EC:2.10.1.1	LinDA	negative	positive	0.119796265420866	BH	0.753239531892842	Molybdopterin molybdotransferase
+EC:2.2.1.1	LinDA	negative	positive	0.962380225601782	BH	0.999791598211958	Transketolase
+EC:2.2.1.10	LinDA	negative	positive	0.823194920291032	BH	0.999791598211958	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+EC:2.2.1.2	LinDA	negative	positive	0.953476581990274	BH	0.999791598211958	Transaldolase
+EC:2.2.1.6	LinDA	negative	positive	0.867236113533529	BH	0.999791598211958	Acetolactate synthase
+EC:2.2.1.7	LinDA	negative	positive	0.736740801791553	BH	0.999791598211958	1-deoxy-D-xylulose-5-phosphate synthase
+EC:2.2.1.9	LinDA	negative	positive	0.972895852929868	BH	0.999791598211958	synthase
+EC:2.3.1.1	LinDA	negative	positive	0.649773227142207	BH	0.999791598211958	Amino-acid N-acetyltransferase
+EC:2.3.1.101	LinDA	negative	positive	0.346324727984243	BH	0.999791598211958	Formylmethanofuran--tetrahydromethanopterin N-formyltransferase
+EC:2.3.1.102	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	N(6)-hydroxylysine O-acetyltransferase
+EC:2.3.1.109	LinDA	negative	positive	0.00329810607386926	BH	0.102632589010576	Arginine N-succinyltransferase
+EC:2.3.1.117	LinDA	negative	positive	0.0826948284476726	BH	0.630027653162065	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+EC:2.3.1.118	LinDA	negative	positive	0.097976921183121	BH	0.694942166971305	N-hydroxyarylamine O-acetyltransferase
+EC:2.3.1.12	LinDA	negative	positive	0.548050444609535	BH	0.999791598211958	Dihydrolipoyllysine-residue acetyltransferase
+EC:2.3.1.128	LinDA	negative	positive	0.848500541401285	BH	0.999791598211958	Ribosomal-protein-alanine N-acetyltransferase
+EC:2.3.1.129	LinDA	negative	positive	0.912574817846118	BH	0.999791598211958	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EC:2.3.1.15	LinDA	negative	positive	0.83942664638283	BH	0.999791598211958	Glycerol-3-phosphate 1-O-acyltransferase
+EC:2.3.1.157	LinDA	negative	positive	0.377681612079995	BH	0.999791598211958	Glucosamine-1-phosphate N-acetyltransferase
+EC:2.3.1.16	LinDA	negative	positive	0.99246488538689	BH	0.999791598211958	Acetyl-CoA C-acyltransferase
+EC:2.3.1.168	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase
+EC:2.3.1.169	LinDA	negative	positive	0.831142483408848	BH	0.999791598211958	CO-methylating acetyl-CoA synthase
+EC:2.3.1.174	LinDA	negative	positive	0.00150733394510172	BH	0.0809110455408616	3-oxoadipyl-CoA thiolase
+EC:2.3.1.179	LinDA	negative	positive	0.720267493329263	BH	0.999791598211958	Beta-ketoacyl-[acyl-carrier-protein] synthase II
+EC:2.3.1.18	LinDA	negative	positive	0.411339578417189	BH	0.999791598211958	Galactoside O-acetyltransferase
+EC:2.3.1.180	LinDA	negative	positive	0.892691103934897	BH	0.999791598211958	Beta-ketoacyl-[acyl-carrier-protein] synthase III
+EC:2.3.1.181	LinDA	negative	positive	0.751090370216588	BH	0.999791598211958	Lipoyl(octanoyl) transferase
+EC:2.3.1.182	LinDA	negative	positive	0.150590657569053	BH	0.841563331749871	(R)-citramalate synthase
+EC:2.3.1.183	LinDA	negative	positive	0.889172989579073	BH	0.999791598211958	Phosphinothricin acetyltransferase
+EC:2.3.1.184	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Acyl-homoserine-lactone synthase
+EC:2.3.1.187	LinDA	negative	positive	0.0384338734850112	BH	0.423621526343127	Acetyl-S-ACP:malonate ACP transferase
+EC:2.3.1.189	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Mycothiol synthase
+EC:2.3.1.19	LinDA	negative	positive	0.0795682656248329	BH	0.616402260283516	Phosphate butyryltransferase
+EC:2.3.1.191	LinDA	negative	positive	0.861140881295091	BH	0.999791598211958	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+EC:2.3.1.193	LinDA	negative	positive	0.0913613303224075	BH	0.679106892598948	tRNA(Met) cytidine acetyltransferase
+EC:2.3.1.201	LinDA	negative	positive	0.877256492227517	BH	0.999791598211958	UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase
+EC:2.3.1.202	LinDA	negative	positive	0.964597770010324	BH	0.999791598211958	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+EC:2.3.1.203	LinDA	negative	positive	0.85901289352843	BH	0.999791598211958	UDP-N-acetylbacillosamine N-acetyltransferase
+EC:2.3.1.204	LinDA	negative	positive	0.0576661343480154	BH	0.52155183577811	Octanoyl-[GcvH]:protein N-octanoyltransferase
+EC:2.3.1.207	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Beta-ketodecanoyl-[acyl-carrier-protein] synthase
+EC:2.3.1.210	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase
+EC:2.3.1.222	LinDA	negative	positive	0.431531635990587	BH	0.999791598211958	Phosphate propanoyltransferase
+EC:2.3.1.223	LinDA	negative	positive	0.00150733394510172	BH	0.0809110455408616	3-oxo-5,6-didehydrosuberyl-CoA thiolase
+EC:2.3.1.234	LinDA	negative	positive	0.966671727996229	BH	0.999791598211958	N(6)-L-threonylcarbamoyladenine synthase
+EC:2.3.1.241	LinDA	negative	positive	0.482549860696524	BH	0.999791598211958	Kdo(2)-lipid IV(A) lauroyltransferase
+EC:2.3.1.242	LinDA	negative	positive	0.0018697803373527	BH	0.0809110455408616	Kdo(2)-lipid IV(A) palmitoleoyltransferase
+EC:2.3.1.243	LinDA	negative	positive	0.0787944764206755	BH	0.615602803014299	Lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase
+EC:2.3.1.28	LinDA	negative	positive	0.21136756780556	BH	0.984666902398791	Chloramphenicol O-acetyltransferase
+EC:2.3.1.29	LinDA	negative	positive	0.59134377232576	BH	0.999791598211958	Glycine C-acetyltransferase
+EC:2.3.1.30	LinDA	negative	positive	0.865238718443179	BH	0.999791598211958	Serine O-acetyltransferase
+EC:2.3.1.31	LinDA	negative	positive	0.453914196775524	BH	0.999791598211958	Homoserine O-acetyltransferase
+EC:2.3.1.35	LinDA	negative	positive	0.730790684747251	BH	0.999791598211958	Glutamate N-acetyltransferase
+EC:2.3.1.37	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	5-aminolevulinate synthase
+EC:2.3.1.39	LinDA	negative	positive	0.881433482672675	BH	0.999791598211958	[Acyl-carrier-protein] S-malonyltransferase
+EC:2.3.1.4	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Glucosamine-phosphate N-acetyltransferase
+EC:2.3.1.40	LinDA	negative	positive	0.266250659823982	BH	0.999791598211958	Acyl-[acyl-carrier-protein]--phospholipid O-acyltransferase
+EC:2.3.1.41	LinDA	negative	positive	0.459851505636479	BH	0.999791598211958	Beta-ketoacyl-[acyl-carrier-protein] synthase I
+EC:2.3.1.46	LinDA	negative	positive	0.923129174448158	BH	0.999791598211958	Homoserine O-succinyltransferase
+EC:2.3.1.47	LinDA	negative	positive	0.644315718458534	BH	0.999791598211958	8-amino-7-oxononanoate synthase
+EC:2.3.1.48	LinDA	negative	positive	0.210684459922525	BH	0.984666902398791	Histone acetyltransferase
+EC:2.3.1.51	LinDA	negative	positive	0.960276294768621	BH	0.999791598211958	1-acylglycerol-3-phosphate O-acyltransferase
+EC:2.3.1.54	LinDA	negative	positive	0.914527363542796	BH	0.999791598211958	Formate C-acetyltransferase
+EC:2.3.1.57	LinDA	negative	positive	0.439965941400062	BH	0.999791598211958	Diamine N-acetyltransferase
+EC:2.3.1.61	LinDA	negative	positive	0.928526827561227	BH	0.999791598211958	Dihydrolipoyllysine-residue succinyltransferase
+EC:2.3.1.79	LinDA	negative	positive	0.435073780989675	BH	0.999791598211958	Maltose O-acetyltransferase
+EC:2.3.1.8	LinDA	negative	positive	0.962769066284382	BH	0.999791598211958	Phosphate acetyltransferase
+EC:2.3.1.81	LinDA	negative	positive	0.0373268846327685	BH	0.41534642536826	Aminoglycoside N(3')-acetyltransferase
+EC:2.3.1.82	LinDA	negative	positive	0.129989866188548	BH	0.791617181451183	Aminoglycoside 6'-N-acetyltransferase
+EC:2.3.1.89	LinDA	negative	positive	0.214744624439148	BH	0.987621095455351	Tetrahydrodipicolinate N-acetyltransferase
+EC:2.3.1.9	LinDA	negative	positive	0.590712097475263	BH	0.999791598211958	Acetyl-CoA C-acetyltransferase
+EC:2.3.2.10	LinDA	negative	positive	0.234240523851177	BH	0.999791598211958	UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+EC:2.3.2.13	LinDA	negative	positive	0.527865771384524	BH	0.999791598211958	Protein-glutamine gamma-glutamyltransferase
+EC:2.3.2.16	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Lipid II:glycine glycyltransferase
+EC:2.3.2.17	LinDA	negative	positive	0.53133686654139	BH	0.999791598211958	glycyltransferase
+EC:2.3.2.18	LinDA	negative	positive	0.548374859610397	BH	0.999791598211958	glycyltransferase
+EC:2.3.2.2	LinDA	negative	positive	0.323700517434808	BH	0.999791598211958	Gamma-glutamyltransferase
+EC:2.3.2.3	LinDA	negative	positive	0.0765705511225601	BH	0.615602803014299	Lysyltransferase
+EC:2.3.2.5	LinDA	negative	positive	0.5738246990517	BH	0.999791598211958	Glutaminyl-peptide cyclotransferase
+EC:2.3.2.6	LinDA	negative	positive	0.832314891276638	BH	0.999791598211958	Leucyltransferase
+EC:2.3.2.8	LinDA	negative	positive	0.474846514669804	BH	0.999791598211958	Arginyltransferase
+EC:2.3.3.1	LinDA	negative	positive	0.846895004761331	BH	0.999791598211958	Citrate (Si)-synthase
+EC:2.3.3.10	LinDA	negative	positive	0.116925067076633	BH	0.75098799091835	Hydroxymethylglutaryl-CoA synthase
+EC:2.3.3.13	LinDA	negative	positive	0.894207700806888	BH	0.999791598211958	2-isopropylmalate synthase
+EC:2.3.3.14	LinDA	negative	positive	0.786248046631604	BH	0.999791598211958	Homocitrate synthase
+EC:2.3.3.15	LinDA	negative	positive	0.0356672066924647	BH	0.406739077561274	Sulfoacetaldehyde acetyltransferase
+EC:2.3.3.5	LinDA	negative	positive	0.200877745835862	BH	0.962662378409967	2-methylcitrate synthase
+EC:2.3.3.9	LinDA	negative	positive	0.146097645174951	BH	0.841351757018	Malate synthase
+EC:2.4.1.1	LinDA	negative	positive	0.894869527135636	BH	0.999791598211958	Glycogen phosphorylase
+EC:2.4.1.10	LinDA	negative	positive	0.011044412348581	BH	0.189533422233852	Levansucrase
+EC:2.4.1.109	LinDA	negative	positive	0.604185136263099	BH	0.999791598211958	Dolichyl-phosphate-mannose--protein mannosyltransferase
+EC:2.4.1.11	LinDA	negative	positive	0.770867055257013	BH	0.999791598211958	Glycogen(starch) synthase
+EC:2.4.1.12	LinDA	negative	positive	0.173193480976728	BH	0.895507392766214	Cellulose synthase (UDP-forming)
+EC:2.4.1.129	LinDA	negative	positive	0.545885402991179	BH	0.999791598211958	Peptidoglycan glycosyltransferase
+EC:2.4.1.144	LinDA	negative	positive	0.715499475657871	BH	0.999791598211958	Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase
+EC:2.4.1.15	LinDA	negative	positive	0.810808949937992	BH	0.999791598211958	Alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+EC:2.4.1.18	LinDA	negative	positive	0.73644804600066	BH	0.999791598211958	1,4-alpha-glucan branching enzyme
+EC:2.4.1.180	LinDA	negative	positive	0.0238696465437959	BH	0.313033364674352	Lipopolysaccharide N-acetylmannosaminouronosyltransferase
+EC:2.4.1.182	LinDA	negative	positive	0.724538193101348	BH	0.999791598211958	Lipid-A-disaccharide synthase
+EC:2.4.1.187	LinDA	negative	positive	0.24570135770808	BH	0.999791598211958	mannosaminyltransferase
+EC:2.4.1.20	LinDA	negative	positive	0.834651809203414	BH	0.999791598211958	Cellobiose phosphorylase
+EC:2.4.1.208	LinDA	negative	positive	0.289428373559514	BH	0.999791598211958	Diglucosyl diacylglycerol synthase (1,2-linking)
+EC:2.4.1.21	LinDA	negative	positive	0.9355990212156	BH	0.999791598211958	Starch synthase
+EC:2.4.1.211	LinDA	negative	positive	0.515221489070254	BH	0.999791598211958	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+EC:2.4.1.212	LinDA	negative	positive	0.437369789033813	BH	0.999791598211958	Hyaluronan synthase
+EC:2.4.1.216	LinDA	negative	positive	0.387600513792507	BH	0.999791598211958	Trehalose 6-phosphate phosphorylase
+EC:2.4.1.227	LinDA	negative	positive	0.893673739173679	BH	0.999791598211958	acetylglucosaminyltransferase
+EC:2.4.1.230	LinDA	negative	positive	0.243410392164887	BH	0.999791598211958	Kojibiose phosphorylase
+EC:2.4.1.247	LinDA	negative	positive	0.721418324087782	BH	0.999791598211958	Beta-D-galactosyl-(1->4)-L-rhamnose phosphorylase
+EC:2.4.1.25	LinDA	negative	positive	0.614711124952978	BH	0.999791598211958	4-alpha-glucanotransferase
+EC:2.4.1.250	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	D-inositol-3-phosphate glycosyltransferase
+EC:2.4.1.266	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Glucosyl-3-phosphoglycerate synthase
+EC:2.4.1.280	LinDA	negative	positive	0.208262699655434	BH	0.977929198382038	N,N'-diacetylchitobiose phosphorylase
+EC:2.4.1.281	LinDA	negative	positive	0.389703784064206	BH	0.999791598211958	4-O-beta-D-mannosyl-D-glucose phosphorylase
+EC:2.4.1.287	LinDA	negative	positive	0.147844147814922	BH	0.841351757018	galactofuranosyltransferase
+EC:2.4.1.288	LinDA	negative	positive	0.359465724740207	BH	0.999791598211958	decaprenol beta-1,5/1,6-galactofuranosyltransferase
+EC:2.4.1.289	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+EC:2.4.1.290	LinDA	negative	positive	0.480643118733257	BH	0.999791598211958	acetylgalactosaminyltransferase
+EC:2.4.1.291	LinDA	negative	positive	0.241254907730294	BH	0.999791598211958	4-alpha-N-acetylgalactosaminyltransferase
+EC:2.4.1.292	LinDA	negative	positive	0.508562282029007	BH	0.999791598211958	1,4-N-acetyl-D-galactosaminyltransferase
+EC:2.4.1.293	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase
+EC:2.4.1.315	LinDA	negative	positive	0.787190605387805	BH	0.999791598211958	Diglucosyl diacylglycerol synthase (1,6-linking)
+EC:2.4.1.319	LinDA	negative	positive	0.422431075830671	BH	0.999791598211958	Beta-1,4-mannooligosaccharide phosphorylase
+EC:2.4.1.320	LinDA	negative	positive	0.422431075830671	BH	0.999791598211958	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+EC:2.4.1.325	LinDA	negative	positive	0.00180123052670692	BH	0.0809110455408616	TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase
+EC:2.4.1.37	LinDA	negative	positive	0.494947495298987	BH	0.999791598211958	Fucosylgalactoside 3-alpha-galactosyltransferase
+EC:2.4.1.4	LinDA	negative	positive	0.609215025702478	BH	0.999791598211958	Amylosucrase
+EC:2.4.1.40	LinDA	negative	positive	0.494947495298987	BH	0.999791598211958	Glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase
+EC:2.4.1.44	LinDA	negative	positive	0.233383140661648	BH	0.999791598211958	Lipopolysaccharide 3-alpha-galactosyltransferase
+EC:2.4.1.5	LinDA	negative	positive	0.0103013500592851	BH	0.187260185236113	Dextransucrase
+EC:2.4.1.52	LinDA	negative	positive	0.00518073339694765	BH	0.123049319602655	Poly(glycerol-phosphate) alpha-glucosyltransferase
+EC:2.4.1.56	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Lipopolysaccharide N-acetylglucosaminyltransferase
+EC:2.4.1.57	LinDA	negative	positive	0.0177974061262187	BH	0.265324739539425	Phosphatidylinositol alpha-mannosyltransferase
+EC:2.4.1.58	LinDA	negative	positive	0.219102630702392	BH	0.999758332025516	Lipopolysaccharide glucosyltransferase I
+EC:2.4.1.60	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Abequosyltransferase
+EC:2.4.1.64	LinDA	negative	positive	0.043784697696114	BH	0.441700191641566	Alpha,alpha-trehalose phosphorylase
+EC:2.4.1.7	LinDA	negative	positive	0.821879562529479	BH	0.999791598211958	Sucrose phosphorylase
+EC:2.4.1.8	LinDA	negative	positive	0.903022006429681	BH	0.999791598211958	Maltose phosphorylase
+EC:2.4.1.80	LinDA	negative	positive	0.281440503106346	BH	0.999791598211958	Ceramide glucosyltransferase
+EC:2.4.1.83	LinDA	negative	positive	0.475296073339655	BH	0.999791598211958	Dolichyl-phosphate beta-D-mannosyltransferase
+EC:2.4.1.87	LinDA	negative	positive	0.701933924752158	BH	0.999791598211958	N-acetyllactosaminide 3-alpha-galactosyltransferase
+EC:2.4.2.1	LinDA	negative	positive	0.970291313422959	BH	0.999791598211958	Purine-nucleoside phosphorylase
+EC:2.4.2.10	LinDA	negative	positive	0.868725529134112	BH	0.999791598211958	Orotate phosphoribosyltransferase
+EC:2.4.2.12	LinDA	negative	positive	0.149231692415852	BH	0.841351757018	Nicotinamide phosphoribosyltransferase
+EC:2.4.2.14	LinDA	negative	positive	0.800002281493185	BH	0.999791598211958	Amidophosphoribosyltransferase
+EC:2.4.2.17	LinDA	negative	positive	0.981703991324927	BH	0.999791598211958	ATP phosphoribosyltransferase
+EC:2.4.2.18	LinDA	negative	positive	0.71193334025882	BH	0.999791598211958	Anthranilate phosphoribosyltransferase
+EC:2.4.2.19	LinDA	negative	positive	0.649464771077986	BH	0.999791598211958	Nicotinate-nucleotide diphosphorylase (carboxylating)
+EC:2.4.2.2	LinDA	negative	positive	0.844443373714474	BH	0.999791598211958	Pyrimidine-nucleoside phosphorylase
+EC:2.4.2.21	LinDA	negative	positive	0.92651236852721	BH	0.999791598211958	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+EC:2.4.2.22	LinDA	negative	positive	0.930035947676714	BH	0.999791598211958	Xanthine phosphoribosyltransferase
+EC:2.4.2.28	LinDA	negative	positive	0.427968245517034	BH	0.999791598211958	S-methyl-5'-thioadenosine phosphorylase
+EC:2.4.2.29	LinDA	negative	positive	0.95211529248005	BH	0.999791598211958	tRNA-guanine(34) transglycosylase
+EC:2.4.2.3	LinDA	negative	positive	0.585608660611107	BH	0.999791598211958	Uridine phosphorylase
+EC:2.4.2.30	LinDA	negative	positive	0.977168304338922	BH	0.999791598211958	NAD(+) ADP-ribosyltransferase
+EC:2.4.2.37	LinDA	negative	positive	0.324550284558883	BH	0.999791598211958	NAD(+)--dinitrogen-reductase ADP-D-ribosyltransferase
+EC:2.4.2.4	LinDA	negative	positive	0.000245670333968827	BH	0.0809110455408616	Thymidine phosphorylase
+EC:2.4.2.43	LinDA	negative	positive	0.00190016491981726	BH	0.0809110455408616	Lipid IV(A) 4-amino-4-deoxy-L-arabinosyltransferase
+EC:2.4.2.44	LinDA	negative	positive	0.433153096471251	BH	0.999791598211958	S-methyl-5'-thioinosine phosphorylase
+EC:2.4.2.48	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA-guanine(15) transglycosylase
+EC:2.4.2.52	LinDA	negative	positive	0.605703376158856	BH	0.999791598211958	Triphosphoribosyl-dephospho-CoA synthase
+EC:2.4.2.53	LinDA	negative	positive	0.282368192772075	BH	0.999791598211958	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EC:2.4.2.54	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Beta-ribofuranosylhydroxybenzene 5'-phosphate synthase
+EC:2.4.2.57	LinDA	negative	positive	0.737625080189354	BH	0.999791598211958	AMP phosphorylase
+EC:2.4.2.6	LinDA	negative	positive	0.790327188102351	BH	0.999791598211958	Nucleoside deoxyribosyltransferase
+EC:2.4.2.7	LinDA	negative	positive	0.972858754430406	BH	0.999791598211958	Adenine phosphoribosyltransferase
+EC:2.4.2.8	LinDA	negative	positive	0.894668864261998	BH	0.999791598211958	Hypoxanthine phosphoribosyltransferase
+EC:2.4.2.9	LinDA	negative	positive	0.678808809710409	BH	0.999791598211958	Uracil phosphoribosyltransferase
+EC:2.4.99.12	LinDA	negative	positive	0.976462019512796	BH	0.999791598211958	Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase
+EC:2.4.99.13	LinDA	negative	positive	0.976462019512796	BH	0.999791598211958	(Kdo)-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase
+EC:2.4.99.14	LinDA	negative	positive	0.976462019512796	BH	0.999791598211958	(Kdo)(2)-lipid IV(A) (2-8) 3-deoxy-D-manno-octulosonic acid transferase
+EC:2.4.99.15	LinDA	negative	positive	0.976462019512796	BH	0.999791598211958	(Kdo)(3)-lipid IV(A) (2-4) 3-deoxy-D-manno-octulosonic acid transferase
+EC:2.4.99.16	LinDA	negative	positive	0.554437323962542	BH	0.999791598211958	Starch synthase (maltosyl-transferring)
+EC:2.4.99.17	LinDA	negative	positive	0.857924530267005	BH	0.999791598211958	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EC:2.4.99.18	LinDA	negative	positive	0.202175534469636	BH	0.962662378409967	Dolichyl-diphosphooligosaccharide--protein glycotransferase
+EC:2.4.99.19	LinDA	negative	positive	0.559217595183653	BH	0.999791598211958	Undecaprenyl-diphosphooligosaccharide--protein glycotransferase
+EC:2.5.1.1	LinDA	negative	positive	0.946200854053662	BH	0.999791598211958	Dimethylallyltranstransferase
+EC:2.5.1.10	LinDA	negative	positive	0.946200854053662	BH	0.999791598211958	(2E,6E)-farnesyl diphosphate synthase
+EC:2.5.1.101	LinDA	negative	positive	0.933426247018067	BH	0.999791598211958	N,N'-diacetyllegionaminate synthase
+EC:2.5.1.105	LinDA	negative	positive	0.436752386473458	BH	0.999791598211958	5'-phosphate synthase
+EC:2.5.1.108	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	2-(3-amino-3-carboxypropyl)histidine synthase
+EC:2.5.1.114	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase
+EC:2.5.1.120	LinDA	negative	positive	0.411358051381306	BH	0.999791598211958	Aminodeoxyfutalosine synthase
+EC:2.5.1.15	LinDA	negative	positive	0.48636150585081	BH	0.999791598211958	Dihydropteroate synthase
+EC:2.5.1.16	LinDA	negative	positive	0.913868573057291	BH	0.999791598211958	Spermidine synthase
+EC:2.5.1.17	LinDA	negative	positive	0.516139980248598	BH	0.999791598211958	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+EC:2.5.1.18	LinDA	negative	positive	0.140178782891494	BH	0.825998977813324	Glutathione transferase
+EC:2.5.1.19	LinDA	negative	positive	0.921601606893059	BH	0.999791598211958	3-phosphoshikimate 1-carboxyvinyltransferase
+EC:2.5.1.2	LinDA	negative	positive	0.351660594440238	BH	0.999791598211958	Thiamine pyridinylase
+EC:2.5.1.21	LinDA	negative	positive	0.11584010039139	BH	0.74888177576969	Squalene synthase
+EC:2.5.1.26	LinDA	negative	positive	0.678847756521718	BH	0.999791598211958	Alkylglycerone-phosphate synthase
+EC:2.5.1.29	LinDA	negative	positive	0.722093114315316	BH	0.999791598211958	Geranylgeranyl diphosphate synthase
+EC:2.5.1.3	LinDA	negative	positive	0.887686979996813	BH	0.999791598211958	Thiamine-phosphate diphosphorylase
+EC:2.5.1.30	LinDA	negative	positive	0.897178374670141	BH	0.999791598211958	Heptaprenyl diphosphate synthase
+EC:2.5.1.31	LinDA	negative	positive	0.935812639693242	BH	0.999791598211958	diphosphate specific)
+EC:2.5.1.32	LinDA	negative	positive	0.60996135927702	BH	0.999791598211958	15-cis-phytoene synthase
+EC:2.5.1.39	LinDA	negative	positive	0.609754392706294	BH	0.999791598211958	4-hydroxybenzoate polyprenyltransferase
+EC:2.5.1.41	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Phosphoglycerol geranylgeranyltransferase
+EC:2.5.1.42	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Geranylgeranylglycerol-phosphate geranylgeranyltransferase
+EC:2.5.1.44	LinDA	negative	positive	0.705554151193321	BH	0.999791598211958	Homospermidine synthase
+EC:2.5.1.46	LinDA	negative	positive	0.55601926853037	BH	0.999791598211958	Deoxyhypusine synthase
+EC:2.5.1.47	LinDA	negative	positive	0.85205516481221	BH	0.999791598211958	Cysteine synthase
+EC:2.5.1.48	LinDA	negative	positive	0.269174736306589	BH	0.999791598211958	Cystathionine gamma-synthase
+EC:2.5.1.49	LinDA	negative	positive	0.846748251584309	BH	0.999791598211958	O-acetylhomoserine aminocarboxypropyltransferase
+EC:2.5.1.54	LinDA	negative	positive	0.830939923370487	BH	0.999791598211958	3-deoxy-7-phosphoheptulonate synthase
+EC:2.5.1.55	LinDA	negative	positive	0.745088605966904	BH	0.999791598211958	3-deoxy-8-phosphooctulonate synthase
+EC:2.5.1.56	LinDA	negative	positive	0.232815097054361	BH	0.999791598211958	N-acetylneuraminate synthase
+EC:2.5.1.57	LinDA	negative	positive	0.35388290743458	BH	0.999791598211958	N-acylneuraminate-9-phosphate synthase
+EC:2.5.1.6	LinDA	negative	positive	0.912367310525082	BH	0.999791598211958	Methionine adenosyltransferase
+EC:2.5.1.61	LinDA	negative	positive	0.649664331139716	BH	0.999791598211958	Hydroxymethylbilane synthase
+EC:2.5.1.62	LinDA	negative	positive	0.0781085162188677	BH	0.615602803014299	Chlorophyll synthase
+EC:2.5.1.68	LinDA	negative	positive	0.325135624799046	BH	0.999791598211958	(2Z,6E)-farnesyl diphosphate synthase
+EC:2.5.1.7	LinDA	negative	positive	0.924508505554784	BH	0.999791598211958	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EC:2.5.1.72	LinDA	negative	positive	0.605849769195853	BH	0.999791598211958	Quinolinate synthase
+EC:2.5.1.74	LinDA	negative	positive	0.587186336939505	BH	0.999791598211958	1,4-dihydroxy-2-naphthoate polyprenyltransferase
+EC:2.5.1.75	LinDA	negative	positive	0.956300109077428	BH	0.999791598211958	tRNA dimethylallyltransferase
+EC:2.5.1.76	LinDA	negative	positive	0.598522206336279	BH	0.999791598211958	Cysteate synthase
+EC:2.5.1.77	LinDA	negative	positive	0.181476657220808	BH	0.920417521153048	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+EC:2.5.1.78	LinDA	negative	positive	0.84702637531461	BH	0.999791598211958	6,7-dimethyl-8-ribityllumazine synthase
+EC:2.5.1.84	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+EC:2.5.1.85	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	specific)
+EC:2.5.1.89	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	diphosphate specific)
+EC:2.5.1.9	LinDA	negative	positive	0.830360806085529	BH	0.999791598211958	Riboflavin synthase
+EC:2.5.1.90	LinDA	negative	positive	0.873222747338158	BH	0.999791598211958	All-trans-octaprenyl-diphosphate synthase
+EC:2.5.1.97	LinDA	negative	positive	0.816845819086513	BH	0.999791598211958	Pseudaminic acid synthase
+EC:2.6.1.1	LinDA	negative	positive	0.811923187871812	BH	0.999791598211958	Aspartate transaminase
+EC:2.6.1.102	LinDA	negative	positive	0.521895615650089	BH	0.999791598211958	GDP-perosamine synthase
+EC:2.6.1.109	LinDA	negative	positive	0.835661069578878	BH	0.999791598211958	8-amino-3,8-dideoxy-alpha-D-manno-octulosonate transaminase
+EC:2.6.1.11	LinDA	negative	positive	0.990384043382296	BH	0.999791598211958	Acetylornithine transaminase
+EC:2.6.1.13	LinDA	negative	positive	0.493922192273139	BH	0.999791598211958	Ornithine aminotransferase
+EC:2.6.1.16	LinDA	negative	positive	0.793957808151929	BH	0.999791598211958	Glutamine--fructose-6-phosphate transaminase (isomerizing)
+EC:2.6.1.17	LinDA	negative	positive	0.7328111581463	BH	0.999791598211958	Succinyldiaminopimelate transaminase
+EC:2.6.1.18	LinDA	negative	positive	0.782070606857112	BH	0.999791598211958	Beta-alanine--pyruvate transaminase
+EC:2.6.1.19	LinDA	negative	positive	0.862796889875264	BH	0.999791598211958	4-aminobutyrate--2-oxoglutarate transaminase
+EC:2.6.1.2	LinDA	negative	positive	0.234203995046367	BH	0.999791598211958	Alanine transaminase
+EC:2.6.1.21	LinDA	negative	positive	0.148469833218439	BH	0.841351757018	D-amino-acid transaminase
+EC:2.6.1.22	LinDA	negative	positive	0.00120059843946727	BH	0.0809110455408616	(S)-3-amino-2-methylpropionate transaminase
+EC:2.6.1.34	LinDA	negative	positive	0.480643118733257	BH	0.999791598211958	UDP-N-acetylbacillosamine transaminase
+EC:2.6.1.36	LinDA	negative	positive	0.906740220510666	BH	0.999791598211958	L-lysine 6-transaminase
+EC:2.6.1.37	LinDA	negative	positive	0.367171629332873	BH	0.999791598211958	2-aminoethylphosphonate--pyruvate transaminase
+EC:2.6.1.42	LinDA	negative	positive	0.784998869910859	BH	0.999791598211958	Branched-chain-amino-acid transaminase
+EC:2.6.1.44	LinDA	negative	positive	0.256345467490404	BH	0.999791598211958	Alanine--glyoxylate transaminase
+EC:2.6.1.45	LinDA	negative	positive	0.256345467490404	BH	0.999791598211958	Serine--glyoxylate transaminase
+EC:2.6.1.51	LinDA	negative	positive	0.256345467490404	BH	0.999791598211958	Serine--pyruvate transaminase
+EC:2.6.1.52	LinDA	negative	positive	0.932964102256138	BH	0.999791598211958	Phosphoserine transaminase
+EC:2.6.1.55	LinDA	negative	positive	0.30945093463914	BH	0.999791598211958	Taurine--2-oxoglutarate transaminase
+EC:2.6.1.57	LinDA	negative	positive	0.152372314681004	BH	0.841563331749871	Aromatic-amino-acid transaminase
+EC:2.6.1.59	LinDA	negative	positive	0.842028876832618	BH	0.999791598211958	dTDP-4-amino-4,6-dideoxygalactose transaminase
+EC:2.6.1.62	LinDA	negative	positive	0.998518736929932	BH	0.999791598211958	Adenosylmethionine--8-amino-7-oxononanoate transaminase
+EC:2.6.1.66	LinDA	negative	positive	0.333476813264139	BH	0.999791598211958	Valine--pyruvate transaminase
+EC:2.6.1.76	LinDA	negative	positive	0.872250936931105	BH	0.999791598211958	Diaminobutyrate--2-oxoglutarate transaminase
+EC:2.6.1.77	LinDA	negative	positive	0.281024093671355	BH	0.999791598211958	Taurine--pyruvate aminotransferase
+EC:2.6.1.81	LinDA	negative	positive	0.00329810607386926	BH	0.102632589010576	Succinylornithine transaminase
+EC:2.6.1.82	LinDA	negative	positive	0.339266421597242	BH	0.999791598211958	Putrescine aminotransferase
+EC:2.6.1.83	LinDA	negative	positive	0.447253965042165	BH	0.999791598211958	LL-diaminopimelate aminotransferase
+EC:2.6.1.84	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Arginine--pyruvate transaminase
+EC:2.6.1.85	LinDA	negative	positive	0.644791378177342	BH	0.999791598211958	Aminodeoxychorismate synthase
+EC:2.6.1.86	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	2-amino-4-deoxychorismate synthase
+EC:2.6.1.87	LinDA	negative	positive	0.00608816683745831	BH	0.140830817324092	UDP-4-amino-4-deoxy-L-arabinose aminotransferase
+EC:2.6.1.9	LinDA	negative	positive	0.791797903967021	BH	0.999791598211958	Histidinol-phosphate transaminase
+EC:2.6.1.92	LinDA	negative	positive	0.930612257229566	BH	0.999791598211958	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+EC:2.6.1.96	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	4-aminobutyrate--pyruvate transaminase
+EC:2.6.1.97	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Archaeosine synthase
+EC:2.6.1.98	LinDA	negative	positive	0.106960673796849	BH	0.728442613984019	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+EC:2.6.99.2	LinDA	negative	positive	0.230576481147334	BH	0.999791598211958	Pyridoxine 5'-phosphate synthase
+EC:2.7.1.1	LinDA	negative	positive	0.479018255148523	BH	0.999791598211958	Hexokinase
+EC:2.7.1.100	LinDA	negative	positive	0.856479880326552	BH	0.999791598211958	S-methyl-5-thioribose kinase
+EC:2.7.1.107	LinDA	negative	positive	0.742134440990672	BH	0.999791598211958	Diacylglycerol kinase (ATP)
+EC:2.7.1.11	LinDA	negative	positive	0.653409489318276	BH	0.999791598211958	6-phosphofructokinase
+EC:2.7.1.113	LinDA	negative	positive	0.443721169545962	BH	0.999791598211958	Deoxyguanosine kinase
+EC:2.7.1.12	LinDA	negative	positive	0.0838413240057386	BH	0.636085416836926	Gluconokinase
+EC:2.7.1.13	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Dehydrogluconokinase
+EC:2.7.1.130	LinDA	negative	positive	0.949766003532641	BH	0.999791598211958	Tetraacyldisaccharide 4'-kinase
+EC:2.7.1.14	LinDA	negative	positive	0.946936172270231	BH	0.999791598211958	Sedoheptulokinase
+EC:2.7.1.144	LinDA	negative	positive	0.204791539520262	BH	0.966573950023653	Tagatose-6-phosphate kinase
+EC:2.7.1.146	LinDA	negative	positive	0.541802737881387	BH	0.999791598211958	ADP-specific phosphofructokinase
+EC:2.7.1.147	LinDA	negative	positive	0.541802737881387	BH	0.999791598211958	ADP-specific glucokinase
+EC:2.7.1.148	LinDA	negative	positive	0.878441362344556	BH	0.999791598211958	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+EC:2.7.1.15	LinDA	negative	positive	0.898117443727923	BH	0.999791598211958	Ribokinase
+EC:2.7.1.156	LinDA	negative	positive	0.717041699466876	BH	0.999791598211958	Adenosylcobinamide kinase
+EC:2.7.1.16	LinDA	negative	positive	0.250024172165349	BH	0.999791598211958	Ribulokinase
+EC:2.7.1.161	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	CTP-dependent riboflavin kinase
+EC:2.7.1.162	LinDA	negative	positive	0.905859025068641	BH	0.999791598211958	N-acetylhexosamine 1-kinase
+EC:2.7.1.163	LinDA	negative	positive	0.130329441160894	BH	0.791617181451183	Hygromycin B 4-O-kinase
+EC:2.7.1.165	LinDA	negative	positive	0.862895808273664	BH	0.999791598211958	Glycerate 2-kinase
+EC:2.7.1.166	LinDA	negative	positive	0.580970581789391	BH	0.999791598211958	3-deoxy-D-manno-octulosonic acid kinase
+EC:2.7.1.167	LinDA	negative	positive	0.593901746002931	BH	0.999791598211958	D-glycero-beta-D-manno-heptose-7-phosphate kinase
+EC:2.7.1.168	LinDA	negative	positive	0.330112555589964	BH	0.999791598211958	D-glycero-alpha-D-manno-heptose-7-phosphate kinase
+EC:2.7.1.169	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Pantoate kinase
+EC:2.7.1.17	LinDA	negative	positive	0.994864580061252	BH	0.999791598211958	Xylulokinase
+EC:2.7.1.170	LinDA	negative	positive	0.167479394620181	BH	0.87602994185551	Anhydro-N-acetylmuramic acid kinase
+EC:2.7.1.175	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Maltokinase
+EC:2.7.1.176	LinDA	negative	positive	0.871796891211292	BH	0.999791598211958	UDP-N-acetylglucosamine kinase
+EC:2.7.1.177	LinDA	negative	positive	0.97064483448248	BH	0.999791598211958	L-threonine kinase
+EC:2.7.1.181	LinDA	negative	positive	0.0432387285834588	BH	0.441700191641566	Polymannosyl GlcNAc-diphospho-ditrans,octacis-undecaprenol kinase
+EC:2.7.1.182	LinDA	negative	positive	0.410344758422607	BH	0.999791598211958	Phytol kinase
+EC:2.7.1.184	LinDA	negative	positive	0.0692705519034733	BH	0.594302492031668	Sulfofructose kinase
+EC:2.7.1.19	LinDA	negative	positive	0.0077374115580951	BH	0.161430541143893	Phosphoribulokinase
+EC:2.7.1.2	LinDA	negative	positive	0.599659007386806	BH	0.999791598211958	Glucokinase
+EC:2.7.1.20	LinDA	negative	positive	0.215019156372179	BH	0.987621095455351	Adenosine kinase
+EC:2.7.1.21	LinDA	negative	positive	0.657338250173912	BH	0.999791598211958	Thymidine kinase
+EC:2.7.1.22	LinDA	negative	positive	0.000371441085406784	BH	0.0809110455408616	Ribosylnicotinamide kinase
+EC:2.7.1.23	LinDA	negative	positive	0.899388211498806	BH	0.999791598211958	NAD(+) kinase
+EC:2.7.1.24	LinDA	negative	positive	0.928909693907368	BH	0.999791598211958	Dephospho-CoA kinase
+EC:2.7.1.25	LinDA	negative	positive	0.259942114578679	BH	0.999791598211958	Adenylyl-sulfate kinase
+EC:2.7.1.26	LinDA	negative	positive	0.952235644942713	BH	0.999791598211958	Riboflavin kinase
+EC:2.7.1.29	LinDA	negative	positive	0.736829391045213	BH	0.999791598211958	Glycerone kinase
+EC:2.7.1.30	LinDA	negative	positive	0.865312472443548	BH	0.999791598211958	Glycerol kinase
+EC:2.7.1.31	LinDA	negative	positive	0.639523749758349	BH	0.999791598211958	Glycerate 3-kinase
+EC:2.7.1.33	LinDA	negative	positive	0.92479904193277	BH	0.999791598211958	Pantothenate kinase
+EC:2.7.1.35	LinDA	negative	positive	0.728716512260828	BH	0.999791598211958	Pyridoxal kinase
+EC:2.7.1.36	LinDA	negative	positive	0.496398681386866	BH	0.999791598211958	Mevalonate kinase
+EC:2.7.1.37	LinDA	negative	positive	0.579149078042249	BH	0.999791598211958	2.7.11.30 and 2.7.12.1
+EC:2.7.1.39	LinDA	negative	positive	0.502682349881626	BH	0.999791598211958	Homoserine kinase
+EC:2.7.1.4	LinDA	negative	positive	0.901072890390598	BH	0.999791598211958	Fructokinase
+EC:2.7.1.40	LinDA	negative	positive	0.782165792871624	BH	0.999791598211958	Pyruvate kinase
+EC:2.7.1.45	LinDA	negative	positive	0.969061686534838	BH	0.999791598211958	2-dehydro-3-deoxygluconokinase
+EC:2.7.1.48	LinDA	negative	positive	0.842569732835566	BH	0.999791598211958	Uridine kinase
+EC:2.7.1.49	LinDA	negative	positive	0.834691206892565	BH	0.999791598211958	Hydroxymethylpyrimidine kinase
+EC:2.7.1.5	LinDA	negative	positive	0.89939782086783	BH	0.999791598211958	Rhamnulokinase
+EC:2.7.1.50	LinDA	negative	positive	0.754235958053507	BH	0.999791598211958	Hydroxyethylthiazole kinase
+EC:2.7.1.51	LinDA	negative	positive	0.996243631582277	BH	0.999791598211958	L-fuculokinase
+EC:2.7.1.52	LinDA	negative	positive	0.449451607453024	BH	0.999791598211958	Fucokinase
+EC:2.7.1.53	LinDA	negative	positive	0.86357036705655	BH	0.999791598211958	L-xylulokinase
+EC:2.7.1.55	LinDA	negative	positive	0.492563875068296	BH	0.999791598211958	Allose kinase
+EC:2.7.1.56	LinDA	negative	positive	0.840243572144325	BH	0.999791598211958	1-phosphofructokinase
+EC:2.7.1.58	LinDA	negative	positive	0.237188378333933	BH	0.999791598211958	2-dehydro-3-deoxygalactonokinase
+EC:2.7.1.59	LinDA	negative	positive	0.0176968760058665	BH	0.265324739539425	N-acetylglucosamine kinase
+EC:2.7.1.6	LinDA	negative	positive	0.967162663582771	BH	0.999791598211958	Galactokinase
+EC:2.7.1.60	LinDA	negative	positive	0.113819939385441	BH	0.74888177576969	N-acylmannosamine kinase
+EC:2.7.1.63	LinDA	negative	positive	0.3719884288407	BH	0.999791598211958	Polyphosphate--glucose phosphotransferase
+EC:2.7.1.66	LinDA	negative	positive	0.0277991385406258	BH	0.354439016392979	Undecaprenol kinase
+EC:2.7.1.69	LinDA	negative	positive	0.190393704341122	BH	0.942317061581869	Protein-N(pi)-phosphohistidine--sugar phosphotransferase
+EC:2.7.1.71	LinDA	negative	positive	0.87152607954142	BH	0.999791598211958	Shikimate kinase
+EC:2.7.1.72	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Streptomycin 6-kinase
+EC:2.7.1.73	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	Inosine kinase
+EC:2.7.1.74	LinDA	negative	positive	0.443721169545962	BH	0.999791598211958	Deoxycytidine kinase
+EC:2.7.1.76	LinDA	negative	positive	0.115368079880028	BH	0.74888177576969	Deoxyadenosine kinase
+EC:2.7.1.8	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Glucosamine kinase
+EC:2.7.1.83	LinDA	negative	positive	0.982045450466005	BH	0.999791598211958	Pseudouridine kinase
+EC:2.7.1.85	LinDA	negative	positive	0.0293124712174578	BH	0.363633088886841	Beta-glucoside kinase
+EC:2.7.1.87	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Streptomycin 3''-kinase
+EC:2.7.1.89	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	Thiamine kinase
+EC:2.7.1.90	LinDA	negative	positive	0.584613870095738	BH	0.999791598211958	Diphosphate--fructose-6-phosphate 1-phosphotransferase
+EC:2.7.1.92	LinDA	negative	positive	0.285534636938372	BH	0.999791598211958	5-dehydro-2-deoxygluconokinase
+EC:2.7.1.95	LinDA	negative	positive	0.0726265720177917	BH	0.609452428627704	Kanamycin kinase
+EC:2.7.11.1	LinDA	negative	positive	0.781026404228022	BH	0.999791598211958	Non-specific serine/threonine protein kinase
+EC:2.7.11.5	LinDA	negative	positive	0.00492914585357507	BH	0.120665490495518	[Isocitrate dehydrogenase (NADP(+))] kinase
+EC:2.7.12.1	LinDA	negative	positive	0.463569341847402	BH	0.999791598211958	Dual-specificity kinase
+EC:2.7.13.3	LinDA	negative	positive	0.90394611305635	BH	0.999791598211958	Histidine kinase
+EC:2.7.14.1	LinDA	negative	positive	0.570825473027335	BH	0.999791598211958	Protein arginine kinase
+EC:2.7.2.1	LinDA	negative	positive	0.895952803666004	BH	0.999791598211958	Acetate kinase
+EC:2.7.2.11	LinDA	negative	positive	0.988298452403572	BH	0.999791598211958	Glutamate 5-kinase
+EC:2.7.2.15	LinDA	negative	positive	0.00149316748844115	BH	0.0809110455408616	Propionate kinase
+EC:2.7.2.2	LinDA	negative	positive	0.733583233051645	BH	0.999791598211958	Carbamate kinase
+EC:2.7.2.3	LinDA	negative	positive	0.856386708379079	BH	0.999791598211958	Phosphoglycerate kinase
+EC:2.7.2.4	LinDA	negative	positive	0.934397125048362	BH	0.999791598211958	Aspartate kinase
+EC:2.7.2.7	LinDA	negative	positive	0.0565007738225857	BH	0.518677103691337	Butyrate kinase
+EC:2.7.2.8	LinDA	negative	positive	0.99282902182883	BH	0.999791598211958	Acetylglutamate kinase
+EC:2.7.3.9	LinDA	negative	positive	0.845964697077559	BH	0.999791598211958	Phosphoenolpyruvate--protein phosphotransferase
+EC:2.7.4.1	LinDA	negative	positive	0.785960736390297	BH	0.999791598211958	Polyphosphate kinase
+EC:2.7.4.14	LinDA	negative	positive	0.874491928906702	BH	0.999791598211958	UMP/CMP kinase
+EC:2.7.4.16	LinDA	negative	positive	0.815741498970006	BH	0.999791598211958	Thiamine-phosphate kinase
+EC:2.7.4.2	LinDA	negative	positive	0.255137763814021	BH	0.999791598211958	Phosphomevalonate kinase
+EC:2.7.4.22	LinDA	negative	positive	0.897427398652372	BH	0.999791598211958	UMP kinase
+EC:2.7.4.23	LinDA	negative	positive	0.0165235326908408	BH	0.252333972677505	Ribose 1,5-bisphosphate phosphokinase
+EC:2.7.4.26	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Isopentenyl phosphate kinase
+EC:2.7.4.3	LinDA	negative	positive	0.890378115201848	BH	0.999791598211958	Adenylate kinase
+EC:2.7.4.6	LinDA	negative	positive	0.951300650457008	BH	0.999791598211958	Nucleoside-diphosphate kinase
+EC:2.7.4.7	LinDA	negative	positive	0.834691206892565	BH	0.999791598211958	Phosphomethylpyrimidine kinase
+EC:2.7.4.8	LinDA	negative	positive	0.913997812284502	BH	0.999791598211958	Guanylate kinase
+EC:2.7.4.9	LinDA	negative	positive	0.413261074252903	BH	0.999791598211958	dTMP kinase
+EC:2.7.6.1	LinDA	negative	positive	0.942624441845657	BH	0.999791598211958	Ribose-phosphate diphosphokinase
+EC:2.7.6.2	LinDA	negative	positive	0.752701473466974	BH	0.999791598211958	Thiamine diphosphokinase
+EC:2.7.6.3	LinDA	negative	positive	0.717028095402315	BH	0.999791598211958	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+EC:2.7.6.5	LinDA	negative	positive	0.83923269412841	BH	0.999791598211958	GTP diphosphokinase
+EC:2.7.7.1	LinDA	negative	positive	0.654744644581615	BH	0.999791598211958	Nicotinamide-nucleotide adenylyltransferase
+EC:2.7.7.12	LinDA	negative	positive	0.783867075202815	BH	0.999791598211958	UDP-glucose--hexose-1-phosphate uridylyltransferase
+EC:2.7.7.13	LinDA	negative	positive	0.300685719267258	BH	0.999791598211958	Mannose-1-phosphate guanylyltransferase
+EC:2.7.7.15	LinDA	negative	positive	0.71491269436441	BH	0.999791598211958	Choline-phosphate cytidylyltransferase
+EC:2.7.7.18	LinDA	negative	positive	0.942535891502537	BH	0.999791598211958	Nicotinate-nucleotide adenylyltransferase
+EC:2.7.7.19	LinDA	negative	positive	0.318709253192681	BH	0.999791598211958	Polynucleotide adenylyltransferase
+EC:2.7.7.2	LinDA	negative	positive	0.952235644942713	BH	0.999791598211958	FAD synthetase
+EC:2.7.7.23	LinDA	negative	positive	0.371332340964633	BH	0.999791598211958	UDP-N-acetylglucosamine diphosphorylase
+EC:2.7.7.24	LinDA	negative	positive	0.844403389005537	BH	0.999791598211958	Glucose-1-phosphate thymidylyltransferase
+EC:2.7.7.27	LinDA	negative	positive	0.855466694932027	BH	0.999791598211958	Glucose-1-phosphate adenylyltransferase
+EC:2.7.7.3	LinDA	negative	positive	0.933044705008177	BH	0.999791598211958	Pantetheine-phosphate adenylyltransferase
+EC:2.7.7.33	LinDA	negative	positive	0.388927618496015	BH	0.999791598211958	Glucose-1-phosphate cytidylyltransferase
+EC:2.7.7.38	LinDA	negative	positive	0.964202407113221	BH	0.999791598211958	3-deoxy-manno-octulosonate cytidylyltransferase
+EC:2.7.7.39	LinDA	negative	positive	0.981698893843164	BH	0.999791598211958	Glycerol-3-phosphate cytidylyltransferase
+EC:2.7.7.4	LinDA	negative	positive	0.313886945385731	BH	0.999791598211958	Sulfate adenylyltransferase
+EC:2.7.7.41	LinDA	negative	positive	0.882727942627742	BH	0.999791598211958	Phosphatidate cytidylyltransferase
+EC:2.7.7.42	LinDA	negative	positive	0.0650723138979922	BH	0.571640039792888	[Glutamate--ammonia-ligase] adenylyltransferase
+EC:2.7.7.43	LinDA	negative	positive	0.778623536679298	BH	0.999791598211958	N-acylneuraminate cytidylyltransferase
+EC:2.7.7.46	LinDA	negative	positive	0.115524805623262	BH	0.74888177576969	Gentamicin 2''-nucleotidyltransferase
+EC:2.7.7.47	LinDA	negative	positive	0.946329007072137	BH	0.999791598211958	Streptomycin 3''-adenylyltransferase
+EC:2.7.7.49	LinDA	negative	positive	0.611038096224516	BH	0.999791598211958	RNA-directed DNA polymerase
+EC:2.7.7.53	LinDA	negative	positive	0.219216745251781	BH	0.999758332025516	ATP adenylyltransferase
+EC:2.7.7.56	LinDA	negative	positive	0.706464417830671	BH	0.999791598211958	tRNA nucleotidyltransferase
+EC:2.7.7.58	LinDA	negative	positive	0.0194559855064606	BH	0.276526553823211	(2,3-dihydroxybenzoyl)adenylate synthase
+EC:2.7.7.59	LinDA	negative	positive	0.0564731410036174	BH	0.518677103691337	[Protein-PII] uridylyltransferase
+EC:2.7.7.6	LinDA	negative	positive	0.892131597650198	BH	0.999791598211958	DNA-directed RNA polymerase
+EC:2.7.7.60	LinDA	negative	positive	0.885490496650657	BH	0.999791598211958	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EC:2.7.7.61	LinDA	negative	positive	0.45447015138473	BH	0.999791598211958	Citrate lyase holo-[acyl-carrier protein] synthase
+EC:2.7.7.62	LinDA	negative	positive	0.725845405375243	BH	0.999791598211958	Adenosylcobinamide-phosphate guanylyltransferase
+EC:2.7.7.63	LinDA	negative	positive	0.636518667148771	BH	0.999791598211958	Lipoate--protein ligase
+EC:2.7.7.65	LinDA	negative	positive	0.568765072826803	BH	0.999791598211958	Diguanylate cyclase
+EC:2.7.7.66	LinDA	negative	positive	0.0398685195707428	BH	0.424883042645372	Malonate decarboxylase holo-[acyl-carrier protein] synthase
+EC:2.7.7.67	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase
+EC:2.7.7.68	LinDA	negative	positive	0.232390120558304	BH	0.999791598211958	2-phospho-L-lactate guanylyltransferase
+EC:2.7.7.7	LinDA	negative	positive	0.942877442688647	BH	0.999791598211958	DNA-directed DNA polymerase
+EC:2.7.7.70	LinDA	negative	positive	0.593901746002931	BH	0.999791598211958	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase
+EC:2.7.7.71	LinDA	negative	positive	0.107418488464394	BH	0.728442613984019	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+EC:2.7.7.72	LinDA	negative	positive	0.574965003600012	BH	0.999791598211958	CCA tRNA nucleotidyltransferase
+EC:2.7.7.73	LinDA	negative	positive	0.018748411921947	BH	0.27104003376925	Sulfur carrier protein ThiS adenylyltransferase
+EC:2.7.7.75	LinDA	negative	positive	0.00259547567909825	BH	0.0942579226685549	Molybdopterin adenylyltransferase
+EC:2.7.7.76	LinDA	negative	positive	0.809425152880368	BH	0.999791598211958	Molybdenum cofactor cytidylyltransferase
+EC:2.7.7.77	LinDA	negative	positive	0.0689540429607508	BH	0.594302492031668	Molybdenum cofactor guanylyltransferase
+EC:2.7.7.8	LinDA	negative	positive	0.878734050421059	BH	0.999791598211958	Polyribonucleotide nucleotidyltransferase
+EC:2.7.7.81	LinDA	negative	positive	0.67066007299047	BH	0.999791598211958	Pseudaminic acid cytidylyltransferase
+EC:2.7.7.82	LinDA	negative	positive	0.396363689464803	BH	0.999791598211958	CMP-N,N'-diacetyllegionaminic acid synthase
+EC:2.7.7.83	LinDA	negative	positive	0.372086887114915	BH	0.999791598211958	UDP-N-acetylgalactosamine diphosphorylase
+EC:2.7.7.85	LinDA	negative	positive	0.694257391609028	BH	0.999791598211958	Diadenylate cyclase
+EC:2.7.7.87	LinDA	negative	positive	0.963940853161295	BH	0.999791598211958	L-threonylcarbamoyladenylate synthase
+EC:2.7.7.9	LinDA	negative	positive	0.157674286074265	BH	0.86146513492138	UTP--glucose-1-phosphate uridylyltransferase
+EC:2.7.8.12	LinDA	negative	positive	0.675120576750685	BH	0.999791598211958	CDP-glycerol glycerophosphotransferase
+EC:2.7.8.13	LinDA	negative	positive	0.927010249154871	BH	0.999791598211958	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EC:2.7.8.14	LinDA	negative	positive	0.515308258935477	BH	0.999791598211958	CDP-ribitol ribitolphosphotransferase
+EC:2.7.8.15	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	N-acetylglucosaminephosphotransferase
+EC:2.7.8.20	LinDA	negative	positive	0.532043534444689	BH	0.999791598211958	Phosphatidylglycerol--membrane-oligosaccharide glycerophosphotransferase
+EC:2.7.8.24	LinDA	negative	positive	0.255178790678538	BH	0.999791598211958	Phosphatidylcholine synthase
+EC:2.7.8.26	LinDA	negative	positive	0.706199545163379	BH	0.999791598211958	Adenosylcobinamide-GDP ribazoletransferase
+EC:2.7.8.28	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	2-phospho-L-lactate transferase
+EC:2.7.8.33	LinDA	negative	positive	0.58551106571257	BH	0.999791598211958	N-acetylglucosaminephosphotransferase
+EC:2.7.8.36	LinDA	negative	positive	0.754125731318447	BH	0.999791598211958	transferase
+EC:2.7.8.37	LinDA	negative	positive	0.610172780747114	BH	0.999791598211958	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase
+EC:2.7.8.38	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Archaetidylserine synthase
+EC:2.7.8.39	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Archaetidylinositol phosphate synthase
+EC:2.7.8.41	LinDA	negative	positive	0.886159094332397	BH	0.999791598211958	Cardiolipin synthase (CMP-forming)
+EC:2.7.8.5	LinDA	negative	positive	0.825323764910604	BH	0.999791598211958	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EC:2.7.8.6	LinDA	negative	positive	0.289886262892557	BH	0.999791598211958	Undecaprenyl-phosphate galactose phosphotransferase
+EC:2.7.8.7	LinDA	negative	positive	0.571825188576781	BH	0.999791598211958	Holo-[acyl-carrier-protein] synthase
+EC:2.7.8.8	LinDA	negative	positive	0.663536008240586	BH	0.999791598211958	CDP-diacylglycerol--serine O-phosphatidyltransferase
+EC:2.7.9.1	LinDA	negative	positive	0.392379823414193	BH	0.999791598211958	Pyruvate, phosphate dikinase
+EC:2.7.9.2	LinDA	negative	positive	0.0404713049564703	BH	0.426634221486275	Pyruvate, water dikinase
+EC:2.7.9.3	LinDA	negative	positive	0.860403318821226	BH	0.999791598211958	Selenide, water dikinase
+EC:2.8.1.1	LinDA	negative	positive	0.921887369647046	BH	0.999791598211958	Thiosulfate sulfurtransferase
+EC:2.8.1.10	LinDA	negative	positive	0.87676701986143	BH	0.999791598211958	Thiazole synthase
+EC:2.8.1.12	LinDA	negative	positive	0.0215058177507572	BH	0.290328539635222	Molybdopterin synthase
+EC:2.8.1.2	LinDA	negative	positive	0.994702547469713	BH	0.999791598211958	3-mercaptopyruvate sulfurtransferase
+EC:2.8.1.6	LinDA	negative	positive	0.989451086086377	BH	0.999791598211958	Biotin synthase
+EC:2.8.1.7	LinDA	negative	positive	0.970620527531869	BH	0.999791598211958	Cysteine desulfurase
+EC:2.8.1.8	LinDA	negative	positive	0.506698425230881	BH	0.999791598211958	Lipoyl synthase
+EC:2.8.2.22	LinDA	negative	positive	0.852075755124026	BH	0.999791598211958	Aryl-sulfate sulfotransferase
+EC:2.8.3.1	LinDA	negative	positive	0.855705602323048	BH	0.999791598211958	Propionate CoA-transferase
+EC:2.8.3.10	LinDA	negative	positive	0.607236627037211	BH	0.999791598211958	Citrate CoA-transferase
+EC:2.8.3.12	LinDA	negative	positive	0.211138694415774	BH	0.984666902398791	Glutaconate CoA-transferase
+EC:2.8.3.16	LinDA	negative	positive	0.407696999835498	BH	0.999791598211958	Formyl-CoA transferase
+EC:2.8.3.17	LinDA	negative	positive	0.185237167228279	BH	0.930689855103031	Cinnamoyl-CoA:phenyllactate CoA-transferase
+EC:2.8.3.18	LinDA	negative	positive	0.202520437486182	BH	0.962662378409967	Succinyl-CoA:acetate CoA-transferase
+EC:2.8.3.19	LinDA	negative	positive	0.286311939947502	BH	0.999791598211958	CoA:oxalate CoA-transferase
+EC:2.8.3.21	LinDA	negative	positive	0.424219957261575	BH	0.999791598211958	L-carnitine CoA-transferase
+EC:2.8.3.22	LinDA	negative	positive	0.324550284558883	BH	0.999791598211958	Succinyl-CoA--L-malate CoA-transferase
+EC:2.8.3.5	LinDA	negative	positive	0.500483930133441	BH	0.999791598211958	3-oxoacid CoA-transferase
+EC:2.8.3.6	LinDA	negative	positive	0.0794824421621851	BH	0.616402260283516	3-oxoadipate CoA-transferase
+EC:2.8.3.8	LinDA	negative	positive	0.655497312250499	BH	0.999791598211958	Acetate CoA-transferase
+EC:2.8.3.9	LinDA	negative	positive	0.755645267110218	BH	0.999791598211958	Butyrate--acetoacetate CoA-transferase
+EC:2.8.4.1	LinDA	negative	positive	0.357854696476101	BH	0.999791598211958	Coenzyme-B sulfoethylthiotransferase
+EC:2.8.4.3	LinDA	negative	positive	0.852118133033723	BH	0.999791598211958	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EC:2.8.4.4	LinDA	negative	positive	0.955934387360621	BH	0.999791598211958	[Ribosomal protein S12] (aspartate(89)-C(3))-methylthiotransferase
+EC:2.8.4.5	LinDA	negative	positive	0.715180092126904	BH	0.999791598211958	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase
+EC:2.9.1.1	LinDA	negative	positive	0.204663743760388	BH	0.966573950023653	L-seryl-tRNA(Sec) selenium transferase
+EC:3.1.1.1	LinDA	negative	positive	0.129377158032506	BH	0.791617181451183	Carboxylesterase
+EC:3.1.1.11	LinDA	negative	positive	0.230117308897481	BH	0.999791598211958	Pectinesterase
+EC:3.1.1.17	LinDA	negative	positive	0.147726512378434	BH	0.841351757018	Gluconolactonase
+EC:3.1.1.24	LinDA	negative	positive	0.073879929520317	BH	0.611971341014584	3-oxoadipate enol-lactonase
+EC:3.1.1.29	LinDA	negative	positive	0.918462107019543	BH	0.999791598211958	Aminoacyl-tRNA hydrolase
+EC:3.1.1.3	LinDA	negative	positive	0.14018533091783	BH	0.825998977813324	Triacylglycerol lipase
+EC:3.1.1.31	LinDA	negative	positive	0.920369794620786	BH	0.999791598211958	6-phosphogluconolactonase
+EC:3.1.1.32	LinDA	negative	positive	0.23078705156003	BH	0.999791598211958	Phospholipase A(1)
+EC:3.1.1.4	LinDA	negative	positive	0.23078705156003	BH	0.999791598211958	Phospholipase A(2)
+EC:3.1.1.41	LinDA	negative	positive	0.263689160938811	BH	0.999791598211958	Cephalosporin-C deacetylase
+EC:3.1.1.45	LinDA	negative	positive	0.0642327502835434	BH	0.566977545772047	Carboxymethylenebutenolidase
+EC:3.1.1.5	LinDA	negative	positive	0.475586780497681	BH	0.999791598211958	Lysophospholipase
+EC:3.1.1.53	LinDA	negative	positive	0.304222316585392	BH	0.999791598211958	Sialate O-acetylesterase
+EC:3.1.1.61	LinDA	negative	positive	0.480498628174254	BH	0.999791598211958	Protein-glutamate methylesterase
+EC:3.1.1.73	LinDA	negative	positive	0.0252240847664753	BH	0.32613675796654	Feruloyl esterase
+EC:3.1.1.75	LinDA	negative	positive	0.782070606857112	BH	0.999791598211958	Poly(3-hydroxybutyrate) depolymerase
+EC:3.1.1.85	LinDA	negative	positive	0.961606538064498	BH	0.999791598211958	Pimeloyl-[acyl-carrier protein] methyl ester esterase
+EC:3.1.1.96	LinDA	negative	positive	0.737625080189354	BH	0.999791598211958	D-aminoacyl-tRNA deacylase
+EC:3.1.11.1	LinDA	negative	positive	0.267269304542249	BH	0.999791598211958	Exodeoxyribonuclease I
+EC:3.1.11.2	LinDA	negative	positive	0.905595066549154	BH	0.999791598211958	Exodeoxyribonuclease III
+EC:3.1.11.5	LinDA	negative	positive	0.772869446312036	BH	0.999791598211958	Exodeoxyribonuclease V
+EC:3.1.11.6	LinDA	negative	positive	0.930556018655774	BH	0.999791598211958	Exodeoxyribonuclease VII
+EC:3.1.12.1	LinDA	negative	positive	0.286258608403271	BH	0.999791598211958	5' to 3' exodeoxyribonuclease (nucleoside 3'-phosphate-forming)
+EC:3.1.13.1	LinDA	negative	positive	0.0349572741805048	BH	0.401134721221293	Exoribonuclease II
+EC:3.1.13.3	LinDA	negative	positive	0.747848602909132	BH	0.999791598211958	Oligonucleotidase
+EC:3.1.13.5	LinDA	negative	positive	0.736537259001865	BH	0.999791598211958	Ribonuclease D
+EC:3.1.2.1	LinDA	negative	positive	0.545504012261213	BH	0.999791598211958	Acetyl-CoA hydrolase
+EC:3.1.2.12	LinDA	negative	positive	0.0446672405107356	BH	0.44317936853764	S-formylglutathione hydrolase
+EC:3.1.2.20	LinDA	negative	positive	0.686853874725534	BH	0.999791598211958	Acyl-CoA hydrolase
+EC:3.1.2.21	LinDA	negative	positive	0.66902817756305	BH	0.999791598211958	Dodecanoyl-[acyl-carrier-protein] hydrolase
+EC:3.1.2.23	LinDA	negative	positive	0.481319903140839	BH	0.999791598211958	4-hydroxybenzoyl-CoA thioesterase
+EC:3.1.2.26	LinDA	negative	positive	0.756228595396833	BH	0.999791598211958	Bile-acid-CoA hydrolase
+EC:3.1.2.28	LinDA	negative	positive	0.165836320137913	BH	0.874488001294363	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+EC:3.1.2.4	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	3-hydroxyisobutyryl-CoA hydrolase
+EC:3.1.2.6	LinDA	negative	positive	0.0522500980263557	BH	0.498265229608145	Hydroxyacylglutathione hydrolase
+EC:3.1.21.1	LinDA	negative	positive	0.122029575531525	BH	0.764663142238498	Deoxyribonuclease I
+EC:3.1.21.2	LinDA	negative	positive	0.859904901517091	BH	0.999791598211958	Deoxyribonuclease IV
+EC:3.1.21.3	LinDA	negative	positive	0.925718326142667	BH	0.999791598211958	Type I site-specific deoxyribonuclease
+EC:3.1.21.4	LinDA	negative	positive	0.141023448707372	BH	0.825998977813324	Type II site-specific deoxyribonuclease
+EC:3.1.21.5	LinDA	negative	positive	0.28283258926938	BH	0.999791598211958	Type III site-specific deoxyribonuclease
+EC:3.1.21.7	LinDA	negative	positive	0.000333078904439694	BH	0.0809110455408616	Deoxyribonuclease V
+EC:3.1.22.4	LinDA	negative	positive	0.704450816775388	BH	0.999791598211958	Crossover junction endodeoxyribonuclease
+EC:3.1.26.11	LinDA	negative	positive	0.884213802547136	BH	0.999791598211958	Ribonuclease Z
+EC:3.1.26.12	LinDA	negative	positive	0.0445065282213697	BH	0.44317936853764	Ribonuclease E
+EC:3.1.26.3	LinDA	negative	positive	0.87085315347134	BH	0.999791598211958	Ribonuclease III
+EC:3.1.26.4	LinDA	negative	positive	0.887327132880817	BH	0.999791598211958	Ribonuclease H
+EC:3.1.26.5	LinDA	negative	positive	0.96461163981806	BH	0.999791598211958	Ribonuclease P
+EC:3.1.26.8	LinDA	negative	positive	0.877159429118099	BH	0.999791598211958	Ribonuclease M5
+EC:3.1.27.1	LinDA	negative	positive	0.699635997260244	BH	0.999791598211958	Ribonuclease T(2)
+EC:3.1.27.3	LinDA	negative	positive	0.835893390323282	BH	0.999791598211958	Ribonuclease T(1)
+EC:3.1.27.6	LinDA	negative	positive	0.00327015133952529	BH	0.102632589010576	Enterobacter ribonuclease
+EC:3.1.27.9	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	Transferred entry: 4.6.1.16
+EC:3.1.3.1	LinDA	negative	positive	0.371601770666418	BH	0.999791598211958	Alkaline phosphatase
+EC:3.1.3.10	LinDA	negative	positive	0.275265523407387	BH	0.999791598211958	Glucose-1-phosphatase
+EC:3.1.3.11	LinDA	negative	positive	0.763389130733013	BH	0.999791598211958	Fructose-bisphosphatase
+EC:3.1.3.12	LinDA	negative	positive	0.783035672032104	BH	0.999791598211958	Trehalose-phosphatase
+EC:3.1.3.15	LinDA	negative	positive	0.867886108634133	BH	0.999791598211958	Histidinol-phosphatase
+EC:3.1.3.16	LinDA	negative	positive	0.747853090497053	BH	0.999791598211958	Protein-serine/threonine phosphatase
+EC:3.1.3.18	LinDA	negative	positive	0.819828931037107	BH	0.999791598211958	Phosphoglycolate phosphatase
+EC:3.1.3.2	LinDA	negative	positive	0.471413379639599	BH	0.999791598211958	Acid phosphatase
+EC:3.1.3.23	LinDA	negative	positive	0.0389343285545646	BH	0.423621526343127	Sugar-phosphatase
+EC:3.1.3.25	LinDA	negative	positive	0.592330970515705	BH	0.999791598211958	Inositol-phosphate phosphatase
+EC:3.1.3.26	LinDA	negative	positive	0.118583561297568	BH	0.753239531892842	4-phytase
+EC:3.1.3.27	LinDA	negative	positive	0.142615291920928	BH	0.825998977813324	Phosphatidylglycerophosphatase
+EC:3.1.3.3	LinDA	negative	positive	0.819062525533087	BH	0.999791598211958	Phosphoserine phosphatase
+EC:3.1.3.37	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	Sedoheptulose-bisphosphatase
+EC:3.1.3.4	LinDA	negative	positive	0.00930956422033322	BH	0.177134772419369	Phosphatidate phosphatase
+EC:3.1.3.41	LinDA	negative	positive	0.0408973981381179	BH	0.426634221486275	4-nitrophenylphosphatase
+EC:3.1.3.45	LinDA	negative	positive	0.583125018215235	BH	0.999791598211958	3-deoxy-manno-octulosonate-8-phosphatase
+EC:3.1.3.48	LinDA	negative	positive	0.874338020419993	BH	0.999791598211958	Protein-tyrosine-phosphatase
+EC:3.1.3.5	LinDA	negative	positive	0.55876215847754	BH	0.999791598211958	5'-nucleotidase
+EC:3.1.3.6	LinDA	negative	positive	0.48040570565986	BH	0.999791598211958	3'-nucleotidase
+EC:3.1.3.7	LinDA	negative	positive	0.630349195028138	BH	0.999791598211958	3'(2'),5'-bisphosphate nucleotidase
+EC:3.1.3.70	LinDA	negative	positive	0.0332044762321362	BH	0.390791143347449	Mannosyl-3-phosphoglycerate phosphatase
+EC:3.1.3.71	LinDA	negative	positive	0.887772411079966	BH	0.999791598211958	2-phosphosulfolactate phosphatase
+EC:3.1.3.73	LinDA	negative	positive	0.7398986492056	BH	0.999791598211958	Adenosylcobalamin/alpha-ribazole phosphatase
+EC:3.1.3.77	LinDA	negative	positive	0.00199356894977882	BH	0.0809110455408616	Acireductone synthase
+EC:3.1.3.78	LinDA	negative	positive	0.0972789703917086	BH	0.694942166971305	Phosphatidylinositol-4,5-bisphosphate 4-phosphatase
+EC:3.1.3.8	LinDA	negative	positive	0.0301387317546278	BH	0.367662295822248	3-phytase
+EC:3.1.3.81	LinDA	negative	positive	0.0166298533191602	BH	0.252333972677505	Diacylglycerol diphosphate phosphatase
+EC:3.1.3.82	LinDA	negative	positive	0.491135473020423	BH	0.999791598211958	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase
+EC:3.1.3.83	LinDA	negative	positive	0.491135473020423	BH	0.999791598211958	D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+EC:3.1.3.89	LinDA	negative	positive	0.873912566485517	BH	0.999791598211958	5'-deoxynucleotidase
+EC:3.1.3.90	LinDA	negative	positive	0.115563825684006	BH	0.74888177576969	Maltose 6'-phosphate phosphatase
+EC:3.1.3.93	LinDA	negative	positive	0.726007600759909	BH	0.999791598211958	L-galactose 1-phosphate phosphatase
+EC:3.1.31.1	LinDA	negative	positive	0.442125502488856	BH	0.999791598211958	Micrococcal nuclease
+EC:3.1.4.14	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	[Acyl-carrier-protein] phosphodiesterase
+EC:3.1.4.16	LinDA	negative	positive	0.48040570565986	BH	0.999791598211958	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+EC:3.1.4.17	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	3',5'-cyclic-nucleotide phosphodiesterase
+EC:3.1.4.3	LinDA	negative	positive	0.644641544572931	BH	0.999791598211958	Phospholipase C
+EC:3.1.4.46	LinDA	negative	positive	0.775720876504928	BH	0.999791598211958	Glycerophosphodiester phosphodiesterase
+EC:3.1.4.52	LinDA	negative	positive	0.0343175771357941	BH	0.398778934312139	Cyclic-guanylate-specific phosphodiesterase
+EC:3.1.4.55	LinDA	negative	positive	0.476025322500281	BH	0.999791598211958	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+EC:3.1.5.1	LinDA	negative	positive	0.708405372520841	BH	0.999791598211958	dGTPase
+EC:3.1.6.1	LinDA	negative	positive	0.633726813543251	BH	0.999791598211958	Arylsulfatase
+EC:3.1.6.12	LinDA	negative	positive	0.610285981773763	BH	0.999791598211958	N-acetylgalactosamine-4-sulfatase
+EC:3.1.6.13	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Iduronate-2-sulfatase
+EC:3.1.6.14	LinDA	negative	positive	0.299295739338727	BH	0.999791598211958	N-acetylglucosamine-6-sulfatase
+EC:3.1.6.6	LinDA	negative	positive	0.393143618490693	BH	0.999791598211958	Choline-sulfatase
+EC:3.1.6.8	LinDA	negative	positive	0.372531655589051	BH	0.999791598211958	Cerebroside-sulfatase
+EC:3.1.7.2	LinDA	negative	positive	0.0537731273244419	BH	0.503711539630997	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
+EC:3.10.1.1	LinDA	negative	positive	0.0758218304925825	BH	0.615602803014299	N-sulfoglucosamine sulfohydrolase
+EC:3.11.1.1	LinDA	negative	positive	0.968363719059686	BH	0.999791598211958	Phosphonoacetaldehyde hydrolase
+EC:3.11.1.2	LinDA	negative	positive	0.693060089465313	BH	0.999791598211958	Phosphonoacetate hydrolase
+EC:3.13.1.1	LinDA	negative	positive	0.06292789053504	BH	0.560852461273463	UDP-sulfoquinovose synthase
+EC:3.2.1.1	LinDA	negative	positive	0.911119890615469	BH	0.999791598211958	Alpha-amylase
+EC:3.2.1.10	LinDA	negative	positive	0.886167153765002	BH	0.999791598211958	Oligo-1,6-glucosidase
+EC:3.2.1.11	LinDA	negative	positive	0.137093229038035	BH	0.819880027732353	Dextranase
+EC:3.2.1.122	LinDA	negative	positive	0.0701445500067097	BH	0.596448998109354	Maltose-6'-phosphate glucosidase
+EC:3.2.1.130	LinDA	negative	positive	0.0972819250818955	BH	0.694942166971305	Glycoprotein endo-alpha-1,2-mannosidase
+EC:3.2.1.135	LinDA	negative	positive	0.0284961549637034	BH	0.355911159954826	Neopullulanase
+EC:3.2.1.136	LinDA	negative	positive	0.401893142533578	BH	0.999791598211958	Glucuronoarabinoxylan endo-1,4-beta-xylanase
+EC:3.2.1.139	LinDA	negative	positive	0.244706998781959	BH	0.999791598211958	Alpha-glucuronidase
+EC:3.2.1.14	LinDA	negative	positive	0.753732410641841	BH	0.999791598211958	Chitinase
+EC:3.2.1.141	LinDA	negative	positive	0.381341780659297	BH	0.999791598211958	4-alpha-D-((1->4)-alpha-D-glucano)trehalose trehalohydrolase
+EC:3.2.1.156	LinDA	negative	positive	0.223982261955797	BH	0.999791598211958	Oligosaccharide reducing-end xylanase
+EC:3.2.1.165	LinDA	negative	positive	0.495682332684189	BH	0.999791598211958	Exo-1,4-beta-D-glucosaminidase
+EC:3.2.1.17	LinDA	negative	positive	0.592211994358102	BH	0.999791598211958	Lysozyme
+EC:3.2.1.170	LinDA	negative	positive	0.349925009523588	BH	0.999791598211958	Mannosylglycerate hydrolase
+EC:3.2.1.172	LinDA	negative	positive	0.245022864934155	BH	0.999791598211958	Unsaturated rhamnogalacturonyl hydrolase
+EC:3.2.1.177	LinDA	negative	positive	0.329676448902293	BH	0.999791598211958	Alpha-D-xyloside xylohydrolase
+EC:3.2.1.18	LinDA	negative	positive	0.301276034714187	BH	0.999791598211958	Exo-alpha-sialidase
+EC:3.2.1.180	LinDA	negative	positive	0.610418350097258	BH	0.999791598211958	Unsaturated chondroitin disaccharide hydrolase
+EC:3.2.1.183	LinDA	negative	positive	0.350302037089793	BH	0.999791598211958	UDP-N-acetylglucosamine 2-epimerase (hydrolyzing)
+EC:3.2.1.184	LinDA	negative	positive	0.956996276998115	BH	0.999791598211958	UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolyzing)
+EC:3.2.1.185	LinDA	negative	positive	0.995660255606529	BH	0.999791598211958	Non-reducing end beta-L-arabinofuranosidase
+EC:3.2.1.187	LinDA	negative	positive	0.943175120168835	BH	0.999791598211958	(Ara-f)(3)-Hyp beta-L-arabinobiosidase
+EC:3.2.1.20	LinDA	negative	positive	0.413630148555099	BH	0.999791598211958	Alpha-glucosidase
+EC:3.2.1.21	LinDA	negative	positive	0.752235335330368	BH	0.999791598211958	Beta-glucosidase
+EC:3.2.1.22	LinDA	negative	positive	0.960613323470134	BH	0.999791598211958	Alpha-galactosidase
+EC:3.2.1.23	LinDA	negative	positive	0.40741009816387	BH	0.999791598211958	Beta-galactosidase
+EC:3.2.1.24	LinDA	negative	positive	0.219445864818237	BH	0.999758332025516	Alpha-mannosidase
+EC:3.2.1.25	LinDA	negative	positive	0.526458967180306	BH	0.999791598211958	Beta-mannosidase
+EC:3.2.1.26	LinDA	negative	positive	0.793889715814483	BH	0.999791598211958	Beta-fructofuranosidase
+EC:3.2.1.28	LinDA	negative	positive	0.463848709230723	BH	0.999791598211958	Alpha,alpha-trehalase
+EC:3.2.1.31	LinDA	negative	positive	0.768083511455314	BH	0.999791598211958	Beta-glucuronidase
+EC:3.2.1.35	LinDA	negative	positive	0.212379135811504	BH	0.984666902398791	Hyaluronoglucosaminidase
+EC:3.2.1.37	LinDA	negative	positive	0.262701378590442	BH	0.999791598211958	Xylan 1,4-beta-xylosidase
+EC:3.2.1.4	LinDA	negative	positive	0.740451915563189	BH	0.999791598211958	Cellulase
+EC:3.2.1.40	LinDA	negative	positive	0.678376731371258	BH	0.999791598211958	Alpha-L-rhamnosidase
+EC:3.2.1.41	LinDA	negative	positive	0.828859806321147	BH	0.999791598211958	Pullulanase
+EC:3.2.1.45	LinDA	negative	positive	0.391068348452644	BH	0.999791598211958	Glucosylceramidase
+EC:3.2.1.46	LinDA	negative	positive	0.604185136263099	BH	0.999791598211958	Galactosylceramidase
+EC:3.2.1.50	LinDA	negative	positive	0.0870857498415508	BH	0.655284576676587	Alpha-N-acetylglucosaminidase
+EC:3.2.1.51	LinDA	negative	positive	0.149786128298293	BH	0.841351757018	Alpha-L-fucosidase
+EC:3.2.1.52	LinDA	negative	positive	0.128942547258716	BH	0.791617181451183	Beta-N-acetylhexosaminidase
+EC:3.2.1.55	LinDA	negative	positive	0.519441178757331	BH	0.999791598211958	Non-reducing end alpha-L-arabinofuranosidase
+EC:3.2.1.58	LinDA	negative	positive	0.0980337806348409	BH	0.694942166971305	Glucan 1,3-beta-glucosidase
+EC:3.2.1.64	LinDA	negative	positive	0.00118045965488624	BH	0.0809110455408616	2,6-beta-fructan 6-levanbiohydrolase
+EC:3.2.1.65	LinDA	negative	positive	0.337932670880028	BH	0.999791598211958	Levanase
+EC:3.2.1.70	LinDA	negative	positive	0.452366817371424	BH	0.999791598211958	Glucan 1,6-alpha-glucosidase
+EC:3.2.1.73	LinDA	negative	positive	0.113359287272085	BH	0.74888177576969	Licheninase
+EC:3.2.1.78	LinDA	negative	positive	0.725206444262177	BH	0.999791598211958	Mannan endo-1,4-beta-mannosidase
+EC:3.2.1.8	LinDA	negative	positive	0.305578445932293	BH	0.999791598211958	Endo-1,4-beta-xylanase
+EC:3.2.1.80	LinDA	negative	positive	0.244038637770798	BH	0.999791598211958	Fructan beta-fructosidase
+EC:3.2.1.82	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Exo-poly-alpha-galacturonosidase
+EC:3.2.1.85	LinDA	negative	positive	0.031586484769402	BH	0.374807631678635	6-phospho-beta-galactosidase
+EC:3.2.1.86	LinDA	negative	positive	0.642122415516735	BH	0.999791598211958	6-phospho-beta-glucosidase
+EC:3.2.1.89	LinDA	negative	positive	0.927663572764283	BH	0.999791598211958	Arabinogalactan endo-beta-1,4-galactanase
+EC:3.2.1.91	LinDA	negative	positive	0.96742791720107	BH	0.999791598211958	Cellulose 1,4-beta-cellobiosidase (non-reducing end)
+EC:3.2.1.93	LinDA	negative	positive	0.839912300076056	BH	0.999791598211958	Alpha,alpha-phosphotrehalase
+EC:3.2.1.96	LinDA	negative	positive	0.0139615002675	BH	0.219943609141998	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+EC:3.2.1.97	LinDA	negative	positive	0.797851290304034	BH	0.999791598211958	Endo-alpha-N-acetylgalactosaminidase
+EC:3.2.1.99	LinDA	negative	positive	0.440319533448328	BH	0.999791598211958	Arabinan endo-1,5-alpha-L-arabinosidase
+EC:3.2.2.1	LinDA	negative	positive	0.750590001521199	BH	0.999791598211958	Purine nucleosidase
+EC:3.2.2.20	LinDA	negative	positive	0.759297239283983	BH	0.999791598211958	DNA-3-methyladenine glycosylase I
+EC:3.2.2.21	LinDA	negative	positive	0.448225341668636	BH	0.999791598211958	DNA-3-methyladenine glycosylase II
+EC:3.2.2.23	LinDA	negative	positive	0.11324275285288	BH	0.74888177576969	DNA-formamidopyrimidine glycosylase
+EC:3.2.2.24	LinDA	negative	positive	0.0954289814240777	BH	0.692520197211884	ADP-ribosyl-[dinitrogen reductase] hydrolase
+EC:3.2.2.26	LinDA	negative	positive	0.0922825101149189	BH	0.6831882603669	Futalosine hydrolase
+EC:3.2.2.27	LinDA	negative	positive	0.640170583176531	BH	0.999791598211958	Uracil-DNA glycosylase
+EC:3.2.2.30	LinDA	negative	positive	0.715475553983842	BH	0.999791598211958	Aminodeoxyfutalosine nucleosidase
+EC:3.2.2.4	LinDA	negative	positive	0.354974408421046	BH	0.999791598211958	AMP nucleosidase
+EC:3.2.2.8	LinDA	negative	positive	0.629531287233042	BH	0.999791598211958	Ribosylpyrimidine nucleosidase
+EC:3.2.2.9	LinDA	negative	positive	0.978896171388703	BH	0.999791598211958	Adenosylhomocysteine nucleosidase
+EC:3.3.1.1	LinDA	negative	positive	0.79614023708368	BH	0.999791598211958	Adenosylhomocysteinase
+EC:3.3.2.1	LinDA	negative	positive	0.00389332485500934	BH	0.107620123219015	Isochorismatase
+EC:3.3.2.12	LinDA	negative	positive	0.00150733394510172	BH	0.0809110455408616	Oxepin-CoA hydrolase
+EC:3.3.2.2	LinDA	negative	positive	0.293977643938305	BH	0.999791598211958	Alkenylglycerophosphocholine hydrolase
+EC:3.3.2.5	LinDA	negative	positive	0.293977643938305	BH	0.999791598211958	Alkenylglycerophosphoethanolamine hydrolase
+EC:3.4.11.1	LinDA	negative	positive	0.26337127585902	BH	0.999791598211958	Leucyl aminopeptidase
+EC:3.4.11.10	LinDA	negative	positive	0.186300367065361	BH	0.930689855103031	Bacterial leucyl aminopeptidase
+EC:3.4.11.14	LinDA	negative	positive	0.404906428631906	BH	0.999791598211958	Cytosol alanyl aminopeptidase
+EC:3.4.11.18	LinDA	negative	positive	0.814548638343259	BH	0.999791598211958	Methionyl aminopeptidase
+EC:3.4.11.19	LinDA	negative	positive	0.603980888708615	BH	0.999791598211958	D-stereospecific aminopeptidase
+EC:3.4.11.2	LinDA	negative	positive	0.704166767851167	BH	0.999791598211958	Membrane alanyl aminopeptidase
+EC:3.4.11.21	LinDA	negative	positive	0.849144713153875	BH	0.999791598211958	Aspartyl aminopeptidase
+EC:3.4.11.23	LinDA	negative	positive	0.0778907256139655	BH	0.615602803014299	PepB aminopeptidase
+EC:3.4.11.4	LinDA	negative	positive	0.968593965571053	BH	0.999791598211958	Tripeptide aminopeptidase
+EC:3.4.11.5	LinDA	negative	positive	0.527454025212653	BH	0.999791598211958	Prolyl aminopeptidase
+EC:3.4.11.6	LinDA	negative	positive	0.186300367065361	BH	0.930689855103031	Aminopeptidase B
+EC:3.4.11.7	LinDA	negative	positive	0.497479748843928	BH	0.999791598211958	Glutamyl aminopeptidase
+EC:3.4.11.9	LinDA	negative	positive	0.742890049714471	BH	0.999791598211958	Xaa-Pro aminopeptidase
+EC:3.4.13.19	LinDA	negative	positive	0.556722047024274	BH	0.999791598211958	Membrane dipeptidase
+EC:3.4.13.21	LinDA	negative	positive	0.299034432074634	BH	0.999791598211958	Dipeptidase E
+EC:3.4.13.22	LinDA	negative	positive	0.14984859724667	BH	0.841351757018	D-Ala-D-Ala dipeptidase
+EC:3.4.13.9	LinDA	negative	positive	0.502188773316437	BH	0.999791598211958	Xaa-Pro dipeptidase
+EC:3.4.14.11	LinDA	negative	positive	0.388992207931186	BH	0.999791598211958	Xaa-Pro dipeptidyl-peptidase
+EC:3.4.14.12	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Xaa-Xaa-Pro tripeptidyl-peptidase
+EC:3.4.14.4	LinDA	negative	positive	0.350719569094917	BH	0.999791598211958	Dipeptidyl-peptidase III
+EC:3.4.14.5	LinDA	negative	positive	0.323453627375208	BH	0.999791598211958	Dipeptidyl-peptidase IV
+EC:3.4.15.5	LinDA	negative	positive	0.384014378119795	BH	0.999791598211958	Peptidyl-dipeptidase Dcp
+EC:3.4.15.6	LinDA	negative	positive	0.809594155080387	BH	0.999791598211958	Cyanophycinase
+EC:3.4.16.4	LinDA	negative	positive	0.999952392198431	BH	0.999952392198431	Serine-type D-Ala-D-Ala carboxypeptidase
+EC:3.4.17.11	LinDA	negative	positive	0.524903627543412	BH	0.999791598211958	Glutamate carboxypeptidase
+EC:3.4.17.13	LinDA	negative	positive	0.118324411992463	BH	0.753239531892842	Muramoyltetrapeptide carboxypeptidase
+EC:3.4.17.19	LinDA	negative	positive	0.985608861536295	BH	0.999791598211958	Carboxypeptidase Taq
+EC:3.4.19.1	LinDA	negative	positive	0.384635025067273	BH	0.999791598211958	Acylaminoacyl-peptidase
+EC:3.4.19.11	LinDA	negative	positive	0.194226204659792	BH	0.949946206955263	Gamma-D-glutamyl-meso-diaminopimelate peptidase
+EC:3.4.19.13	LinDA	negative	positive	0.323700517434808	BH	0.999791598211958	Glutathione hydrolase
+EC:3.4.19.3	LinDA	negative	positive	0.115111197425375	BH	0.74888177576969	Pyroglutamyl-peptidase I
+EC:3.4.19.5	LinDA	negative	positive	0.882979811455588	BH	0.999791598211958	Beta-aspartyl-peptidase
+EC:3.4.21.102	LinDA	negative	positive	0.795709702909529	BH	0.999791598211958	C-terminal processing peptidase
+EC:3.4.21.105	LinDA	negative	positive	0.606168016276046	BH	0.999791598211958	Rhomboid protease
+EC:3.4.21.107	LinDA	negative	positive	0.791689884397499	BH	0.999791598211958	Peptidase Do
+EC:3.4.21.116	LinDA	negative	positive	0.470558658157544	BH	0.999791598211958	SpoIVB peptidase
+EC:3.4.21.26	LinDA	negative	positive	0.271576187739005	BH	0.999791598211958	Prolyl oligopeptidase
+EC:3.4.21.53	LinDA	negative	positive	0.918501577308111	BH	0.999791598211958	Endopeptidase La
+EC:3.4.21.66	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Thermitase
+EC:3.4.21.72	LinDA	negative	positive	0.766469011055584	BH	0.999791598211958	IgA-specific serine endopeptidase
+EC:3.4.21.81	LinDA	negative	positive	0.262598477163389	BH	0.999791598211958	Streptogrisin B
+EC:3.4.21.83	LinDA	negative	positive	0.115090789476253	BH	0.74888177576969	Oligopeptidase B
+EC:3.4.21.88	LinDA	negative	positive	0.812245868315407	BH	0.999791598211958	Repressor LexA
+EC:3.4.21.89	LinDA	negative	positive	0.629395459845999	BH	0.999791598211958	Signal peptidase I
+EC:3.4.21.92	LinDA	negative	positive	0.94988058091157	BH	0.999791598211958	Endopeptidase Clp
+EC:3.4.21.96	LinDA	negative	positive	0.936206636424203	BH	0.999791598211958	Lactocepin
+EC:3.4.22.37	LinDA	negative	positive	0.604185136263099	BH	0.999791598211958	Gingipain R
+EC:3.4.22.40	LinDA	negative	positive	0.797146843749329	BH	0.999791598211958	Bleomycin hydrolase
+EC:3.4.22.70	LinDA	negative	positive	0.756208015500745	BH	0.999791598211958	Sortase A
+EC:3.4.22.8	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Clostripain
+EC:3.4.23.36	LinDA	negative	positive	0.977749814663292	BH	0.999791598211958	Signal peptidase II
+EC:3.4.23.43	LinDA	negative	positive	0.932582245648868	BH	0.999791598211958	Prepilin peptidase
+EC:3.4.23.48	LinDA	negative	positive	0.229621469080487	BH	0.999791598211958	Plasminogen activator Pla
+EC:3.4.23.49	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Omptin
+EC:3.4.23.51	LinDA	negative	positive	0.130841272085516	BH	0.791617181451183	HycI peptidase
+EC:3.4.23.52	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Preflagellin peptidase
+EC:3.4.24.13	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	IgA-specific metalloendopeptidase
+EC:3.4.24.15	LinDA	negative	positive	0.503526206290538	BH	0.999791598211958	Thimet oligopeptidase
+EC:3.4.24.26	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Pseudolysin
+EC:3.4.24.3	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Microbial collagenase
+EC:3.4.24.40	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Serralysin
+EC:3.4.24.55	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	Pitrilysin
+EC:3.4.24.70	LinDA	negative	positive	0.225983614901539	BH	0.999791598211958	Oligopeptidase A
+EC:3.4.24.78	LinDA	negative	positive	0.600554809467305	BH	0.999791598211958	GPR endopeptidase
+EC:3.4.24.84	LinDA	negative	positive	0.779099713158127	BH	0.999791598211958	Ste24 endopeptidase
+EC:3.4.25.1	LinDA	negative	positive	0.265183770288995	BH	0.999791598211958	Proteasome endopeptidase complex
+EC:3.4.25.2	LinDA	negative	positive	0.0306003541046713	BH	0.367662295822248	HslU--HslV peptidase
+EC:3.5.1.1	LinDA	negative	positive	0.864007193143903	BH	0.999791598211958	Asparaginase
+EC:3.5.1.10	LinDA	negative	positive	0.463246556403226	BH	0.999791598211958	Formyltetrahydrofolate deformylase
+EC:3.5.1.100	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	(R)-amidase
+EC:3.5.1.101	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	L-proline amide hydrolase
+EC:3.5.1.102	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	deformylase
+EC:3.5.1.103	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	deacetylase
+EC:3.5.1.105	LinDA	negative	positive	0.716635538825325	BH	0.999791598211958	Chitin disaccharide deacetylase
+EC:3.5.1.108	LinDA	negative	positive	0.771496459434767	BH	0.999791598211958	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+EC:3.5.1.11	LinDA	negative	positive	0.29483185833791	BH	0.999791598211958	Penicillin amidase
+EC:3.5.1.110	LinDA	negative	positive	0.00950378454523493	BH	0.177134772419369	Peroxyureidoacrylate/ureidoacrylate amidohydrolase
+EC:3.5.1.115	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Mycothiol S-conjugate amidase
+EC:3.5.1.116	LinDA	negative	positive	0.152636486640908	BH	0.841563331749871	Ureidoglycolate amidohydrolase
+EC:3.5.1.118	LinDA	negative	positive	0.339596365897098	BH	0.999791598211958	Gamma-glutamyl hercynylcysteine S-oxide hydrolase
+EC:3.5.1.16	LinDA	negative	positive	0.925589026992025	BH	0.999791598211958	Acetylornithine deacetylase
+EC:3.5.1.18	LinDA	negative	positive	0.739371277769768	BH	0.999791598211958	Succinyl-diaminopimelate desuccinylase
+EC:3.5.1.19	LinDA	negative	positive	0.047562506251008	BH	0.462035775009792	Nicotinamidase
+EC:3.5.1.2	LinDA	negative	positive	0.70910076557554	BH	0.999791598211958	Glutaminase
+EC:3.5.1.23	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Ceramidase
+EC:3.5.1.24	LinDA	negative	positive	0.426994783018506	BH	0.999791598211958	Choloylglycine hydrolase
+EC:3.5.1.25	LinDA	negative	positive	0.59472672583621	BH	0.999791598211958	N-acetylglucosamine-6-phosphate deacetylase
+EC:3.5.1.26	LinDA	negative	positive	0.984764012566888	BH	0.999791598211958	N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase
+EC:3.5.1.28	LinDA	negative	positive	0.621959997808092	BH	0.999791598211958	N-acetylmuramoyl-L-alanine amidase
+EC:3.5.1.32	LinDA	negative	positive	0.331875180516392	BH	0.999791598211958	Hippurate hydrolase
+EC:3.5.1.38	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Glutamin-(asparagin-)ase
+EC:3.5.1.4	LinDA	negative	positive	0.532371111746952	BH	0.999791598211958	Amidase
+EC:3.5.1.42	LinDA	negative	positive	0.990008279181872	BH	0.999791598211958	Nicotinamide-nucleotide amidase
+EC:3.5.1.44	LinDA	negative	positive	0.359334550884913	BH	0.999791598211958	Protein-glutamine glutaminase
+EC:3.5.1.47	LinDA	negative	positive	0.162712146467973	BH	0.865911596855648	N-acetyldiaminopimelate deacetylase
+EC:3.5.1.49	LinDA	negative	positive	0.53191695715451	BH	0.999791598211958	Formamidase
+EC:3.5.1.5	LinDA	negative	positive	0.897665284341721	BH	0.999791598211958	Urease
+EC:3.5.1.53	LinDA	negative	positive	0.185349370640311	BH	0.930689855103031	N-carbamoylputrescine amidase
+EC:3.5.1.54	LinDA	negative	positive	0.012113271556611	BH	0.200360059260701	Allophanate hydrolase
+EC:3.5.1.59	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	N-carbamoylsarcosine amidase
+EC:3.5.1.68	LinDA	negative	positive	0.074329852421706	BH	0.611971341014584	N-formylglutamate deformylase
+EC:3.5.1.78	LinDA	negative	positive	0.020182221248535	BH	0.276526553823211	Glutathionylspermidine amidase
+EC:3.5.1.81	LinDA	negative	positive	0.731652949214007	BH	0.999791598211958	N-acyl-D-amino-acid deacylase
+EC:3.5.1.87	LinDA	negative	positive	0.674236054700533	BH	0.999791598211958	N-carbamoyl-L-amino-acid hydrolase
+EC:3.5.1.88	LinDA	negative	positive	0.955484549195651	BH	0.999791598211958	Peptide deformylase
+EC:3.5.1.9	LinDA	negative	positive	0.571711903485532	BH	0.999791598211958	Arylformamidase
+EC:3.5.1.90	LinDA	negative	positive	0.492270849311587	BH	0.999791598211958	Adenosylcobinamide hydrolase
+EC:3.5.1.94	LinDA	negative	positive	0.00211532145204867	BH	0.0809110455408616	Gamma-glutamyl-gamma-aminobutyrate hydrolase
+EC:3.5.1.96	LinDA	negative	positive	0.00329810607386926	BH	0.102632589010576	Succinylglutamate desuccinylase
+EC:3.5.1.97	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Acyl-homoserine-lactone acylase
+EC:3.5.2.10	LinDA	negative	positive	0.795143790481649	BH	0.999791598211958	Creatininase
+EC:3.5.2.14	LinDA	negative	positive	0.0420114903981635	BH	0.435780205486035	N-methylhydantoinase (ATP-hydrolyzing)
+EC:3.5.2.15	LinDA	negative	positive	0.651430406644332	BH	0.999791598211958	Cyanuric acid amidohydrolase
+EC:3.5.2.17	LinDA	negative	positive	0.00509528932822011	BH	0.123049319602655	Hydroxyisourate hydrolase
+EC:3.5.2.18	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Enamidase
+EC:3.5.2.2	LinDA	negative	positive	0.303554933158172	BH	0.999791598211958	Dihydropyrimidinase
+EC:3.5.2.3	LinDA	negative	positive	0.978771570556498	BH	0.999791598211958	Dihydroorotase
+EC:3.5.2.5	LinDA	negative	positive	0.71699248086634	BH	0.999791598211958	Allantoinase
+EC:3.5.2.6	LinDA	negative	positive	0.377558161892491	BH	0.999791598211958	Beta-lactamase
+EC:3.5.2.7	LinDA	negative	positive	0.524436417456344	BH	0.999791598211958	Imidazolonepropionase
+EC:3.5.2.9	LinDA	negative	positive	0.870999218522069	BH	0.999791598211958	5-oxoprolinase (ATP-hydrolyzing)
+EC:3.5.3.1	LinDA	negative	positive	0.92614738313529	BH	0.999791598211958	Arginase
+EC:3.5.3.11	LinDA	negative	positive	0.948131461549148	BH	0.999791598211958	Agmatinase
+EC:3.5.3.12	LinDA	negative	positive	0.162175487236213	BH	0.8655645190863	Agmatine deiminase
+EC:3.5.3.13	LinDA	negative	positive	0.265855403898152	BH	0.999791598211958	Formimidoylglutamate deiminase
+EC:3.5.3.17	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Guanidinopropionase
+EC:3.5.3.18	LinDA	negative	positive	0.699500103504696	BH	0.999791598211958	Dimethylargininase
+EC:3.5.3.23	LinDA	negative	positive	0.00354780465680781	BH	0.107620123219015	N-succinylarginine dihydrolase
+EC:3.5.3.26	LinDA	negative	positive	0.826841349292443	BH	0.999791598211958	(S)-ureidoglycine aminohydrolase
+EC:3.5.3.3	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Creatinase
+EC:3.5.3.4	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Allantoicase
+EC:3.5.3.6	LinDA	negative	positive	0.634658249699714	BH	0.999791598211958	Arginine deiminase
+EC:3.5.3.7	LinDA	negative	positive	0.0219984408632282	BH	0.292674908875993	Guanidinobutyrase
+EC:3.5.3.8	LinDA	negative	positive	1.09262011413826e-05	BH	0.0200605052955785	Formimidoylglutamase
+EC:3.5.3.9	LinDA	negative	positive	0.454531703782431	BH	0.999791598211958	Allantoate deiminase
+EC:3.5.4.1	LinDA	negative	positive	0.0548813605788114	BH	0.508899889003524	Cytosine deaminase
+EC:3.5.4.10	LinDA	negative	positive	0.922809514562527	BH	0.999791598211958	IMP cyclohydrolase
+EC:3.5.4.12	LinDA	negative	positive	0.6788787247033	BH	0.999791598211958	dCMP deaminase
+EC:3.5.4.13	LinDA	negative	positive	0.117476324909131	BH	0.751521019279319	dCTP deaminase
+EC:3.5.4.16	LinDA	negative	positive	0.581708020356584	BH	0.999791598211958	GTP cyclohydrolase I
+EC:3.5.4.19	LinDA	negative	positive	0.966625498243346	BH	0.999791598211958	Phosphoribosyl-AMP cyclohydrolase
+EC:3.5.4.2	LinDA	negative	positive	0.575124120359639	BH	0.999791598211958	Adenine deaminase
+EC:3.5.4.25	LinDA	negative	positive	0.992196769106728	BH	0.999791598211958	GTP cyclohydrolase II
+EC:3.5.4.26	LinDA	negative	positive	0.864405656052011	BH	0.999791598211958	Diaminohydroxyphosphoribosylaminopyrimidine deaminase
+EC:3.5.4.27	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Methenyltetrahydromethanopterin cyclohydrolase
+EC:3.5.4.28	LinDA	negative	positive	0.990833598633745	BH	0.999791598211958	S-adenosylhomocysteine deaminase
+EC:3.5.4.29	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	GTP cyclohydrolase IIa
+EC:3.5.4.3	LinDA	negative	positive	0.758206749900626	BH	0.999791598211958	Guanine deaminase
+EC:3.5.4.31	LinDA	negative	positive	0.990833598633745	BH	0.999791598211958	S-methyl-5'-thioadenosine deaminase
+EC:3.5.4.32	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	8-oxoguanine deaminase
+EC:3.5.4.33	LinDA	negative	positive	0.93493737852676	BH	0.999791598211958	tRNA(adenine(34)) deaminase
+EC:3.5.4.39	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	GTP cyclohydrolase IV
+EC:3.5.4.4	LinDA	negative	positive	0.450249631430595	BH	0.999791598211958	Adenosine deaminase
+EC:3.5.4.5	LinDA	negative	positive	0.855419272917898	BH	0.999791598211958	Cytidine deaminase
+EC:3.5.4.9	LinDA	negative	positive	0.944966280888321	BH	0.999791598211958	Methenyltetrahydrofolate cyclohydrolase
+EC:3.5.5.1	LinDA	negative	positive	0.762186170483825	BH	0.999791598211958	Nitrilase
+EC:3.5.5.7	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Aliphatic nitrilase
+EC:3.5.99.10	LinDA	negative	positive	0.750652763123622	BH	0.999791598211958	2-iminobutanoate/2-iminopropanoate deaminase
+EC:3.5.99.2	LinDA	negative	positive	0.596706479993052	BH	0.999791598211958	Aminopyrimidine aminohydrolase
+EC:3.5.99.3	LinDA	negative	positive	0.0526171353844112	BH	0.498265229608145	Hydroxydechloroatrazine ethylaminohydrolase
+EC:3.5.99.6	LinDA	negative	positive	0.536364861998948	BH	0.999791598211958	Glucosamine-6-phosphate deaminase
+EC:3.5.99.7	LinDA	negative	positive	0.429744895292885	BH	0.999791598211958	1-aminocyclopropane-1-carboxylate deaminase
+EC:3.6.1.1	LinDA	negative	positive	0.822856585739873	BH	0.999791598211958	Inorganic diphosphatase
+EC:3.6.1.11	LinDA	negative	positive	0.46805304089056	BH	0.999791598211958	Exopolyphosphatase
+EC:3.6.1.13	LinDA	negative	positive	0.905656734988653	BH	0.999791598211958	ADP-ribose diphosphatase
+EC:3.6.1.15	LinDA	negative	positive	0.981377314260344	BH	0.999791598211958	Nucleoside-triphosphate phosphatase
+EC:3.6.1.16	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	CDP-glycerol diphosphatase
+EC:3.6.1.22	LinDA	negative	positive	0.988223283539279	BH	0.999791598211958	NAD(+) diphosphatase
+EC:3.6.1.23	LinDA	negative	positive	0.760115825083484	BH	0.999791598211958	dUTP diphosphatase
+EC:3.6.1.25	LinDA	negative	positive	0.00202345399424068	BH	0.0809110455408616	Triphosphatase
+EC:3.6.1.26	LinDA	negative	positive	0.00165980340808326	BH	0.0809110455408616	CDP-diacylglycerol diphosphatase
+EC:3.6.1.27	LinDA	negative	positive	0.968261335224293	BH	0.999791598211958	Undecaprenyl-diphosphate phosphatase
+EC:3.6.1.31	LinDA	negative	positive	0.973542777522532	BH	0.999791598211958	Phosphoribosyl-ATP diphosphatase
+EC:3.6.1.40	LinDA	negative	positive	0.46805304089056	BH	0.999791598211958	Guanosine-5'-triphosphate,3'-diphosphate diphosphatase
+EC:3.6.1.41	LinDA	negative	positive	0.0635539025241777	BH	0.563695483257924	Bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+EC:3.6.1.45	LinDA	negative	positive	0.00051545541928642	BH	0.0809110455408616	UDP-sugar diphosphatase
+EC:3.6.1.53	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Mn(2+)-dependent ADP-ribose/CDP-alcohol diphosphatase
+EC:3.6.1.54	LinDA	negative	positive	0.797598867619973	BH	0.999791598211958	UDP-2,3-diacylglucosamine diphosphatase
+EC:3.6.1.55	LinDA	negative	positive	0.795968953483884	BH	0.999791598211958	8-oxo-dGTP diphosphatase
+EC:3.6.1.57	LinDA	negative	positive	0.959709612627165	BH	0.999791598211958	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase
+EC:3.6.1.63	LinDA	negative	positive	0.467535114350518	BH	0.999791598211958	Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+EC:3.6.1.65	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	(d)CTP diphosphatase
+EC:3.6.1.66	LinDA	negative	positive	0.894073861464516	BH	0.999791598211958	XTP/dITP diphosphatase
+EC:3.6.1.7	LinDA	negative	positive	0.741843666305657	BH	0.999791598211958	Acylphosphatase
+EC:3.6.1.8	LinDA	negative	positive	0.0701704703658063	BH	0.596448998109354	ATP diphosphatase
+EC:3.6.3.12	LinDA	negative	positive	0.603246486004801	BH	0.999791598211958	Potassium-transporting ATPase
+EC:3.6.3.14	LinDA	negative	positive	0.810384375880691	BH	0.999791598211958	H(+)-transporting two-sector ATPase
+EC:3.6.3.16	LinDA	negative	positive	0.365749533399479	BH	0.999791598211958	Arsenite-transporting ATPase
+EC:3.6.3.17	LinDA	negative	positive	0.938481613378237	BH	0.999791598211958	Monosaccharide-transporting ATPase
+EC:3.6.3.2	LinDA	negative	positive	0.317835376445012	BH	0.999791598211958	Magnesium-importing ATPase
+EC:3.6.3.20	LinDA	negative	positive	0.81051341103516	BH	0.999791598211958	Glycerol-3-phosphate-transporting ATPase
+EC:3.6.3.21	LinDA	negative	positive	0.928602120944692	BH	0.999791598211958	Polar-amino-acid-transporting ATPase
+EC:3.6.3.24	LinDA	negative	positive	0.0512669730562263	BH	0.492807133671369	Nickel-transporting ATPase
+EC:3.6.3.25	LinDA	negative	positive	0.702732592572978	BH	0.999791598211958	Sulfate-transporting ATPase
+EC:3.6.3.27	LinDA	negative	positive	0.693642980814259	BH	0.999791598211958	Phosphate-transporting ATPase
+EC:3.6.3.28	LinDA	negative	positive	0.847241037078182	BH	0.999791598211958	Phosphonate-transporting ATPase
+EC:3.6.3.29	LinDA	negative	positive	0.70192980106638	BH	0.999791598211958	Molybdate-transporting ATPase
+EC:3.6.3.3	LinDA	negative	positive	0.979662810504622	BH	0.999791598211958	Cadmium-exporting ATPase
+EC:3.6.3.30	LinDA	negative	positive	0.530624377073371	BH	0.999791598211958	Fe(3+)-transporting ATPase
+EC:3.6.3.31	LinDA	negative	positive	0.817262620719802	BH	0.999791598211958	Polyamine-transporting ATPase
+EC:3.6.3.32	LinDA	negative	positive	0.505238836552492	BH	0.999791598211958	Quaternary-amine-transporting ATPase
+EC:3.6.3.33	LinDA	negative	positive	0.00180123052670692	BH	0.0809110455408616	Vitamin B12-transporting ATPase
+EC:3.6.3.34	LinDA	negative	positive	0.923123670195786	BH	0.999791598211958	Iron-chelate-transporting ATPase
+EC:3.6.3.36	LinDA	negative	positive	0.00284298845646669	BH	0.0966616075198675	Taurine-transporting ATPase
+EC:3.6.3.4	LinDA	negative	positive	0.99870250061042	BH	0.999791598211958	Cu(2+)-exporting ATPase
+EC:3.6.3.40	LinDA	negative	positive	0.804775529379008	BH	0.999791598211958	Teichoic-acid-transporting ATPase
+EC:3.6.3.41	LinDA	negative	positive	0.0977888631148147	BH	0.694942166971305	Heme-transporting ATPase
+EC:3.6.3.44	LinDA	negative	positive	0.544597869976034	BH	0.999791598211958	Xenobiotic-transporting ATPase
+EC:3.6.3.5	LinDA	negative	positive	0.979662810504622	BH	0.999791598211958	Zinc-exporting ATPase
+EC:3.6.3.54	LinDA	negative	positive	0.547748399157226	BH	0.999791598211958	Cu(+) exporting ATPase
+EC:3.6.3.55	LinDA	negative	positive	0.141996752276147	BH	0.825998977813324	Tungstate-importing ATPase
+EC:3.6.3.6	LinDA	negative	positive	0.898577500966926	BH	0.999791598211958	Proton-exporting ATPase
+EC:3.6.3.8	LinDA	negative	positive	0.369552135158615	BH	0.999791598211958	Calcium-transporting ATPase
+EC:3.6.4.12	LinDA	negative	positive	0.982448274852214	BH	0.999791598211958	DNA helicase
+EC:3.6.4.13	LinDA	negative	positive	0.682119256951139	BH	0.999791598211958	RNA helicase
+EC:3.6.4.6	LinDA	negative	positive	0.1421951374638	BH	0.825998977813324	Vesicle-fusing ATPase
+EC:3.7.1.12	LinDA	negative	positive	0.825723624692749	BH	0.999791598211958	Cobalt-precorrin 5A hydrolase
+EC:3.7.1.14	LinDA	negative	positive	0.00700562413881868	BH	0.154967782155073	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+EC:3.7.1.2	LinDA	negative	positive	0.0684225478251685	BH	0.593112437831989	Fumarylacetoacetase
+EC:3.7.1.20	LinDA	negative	positive	0.46959147341799	BH	0.999791598211958	3-fumarylpyruvate hydrolase
+EC:3.7.1.22	LinDA	negative	positive	0.531182342520605	BH	0.999791598211958	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+EC:3.7.1.3	LinDA	negative	positive	0.0182085605566272	BH	0.265324739539425	Kynureninase
+EC:3.7.1.5	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Acylpyruvate hydrolase
+EC:3.8.1.2	LinDA	negative	positive	0.507744190095272	BH	0.999791598211958	(S)-2-haloacid dehalogenase
+EC:3.8.1.3	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Haloacetate dehalogenase
+EC:3.8.1.5	LinDA	negative	positive	0.16795345290476	BH	0.87602994185551	Haloalkane dehalogenase
+EC:4.1.1.11	LinDA	negative	positive	0.689433843386102	BH	0.999791598211958	Aspartate 1-decarboxylase
+EC:4.1.1.12	LinDA	negative	positive	0.38221319840318	BH	0.999791598211958	Aspartate 4-decarboxylase
+EC:4.1.1.15	LinDA	negative	positive	0.419846477947546	BH	0.999791598211958	Glutamate decarboxylase
+EC:4.1.1.17	LinDA	negative	positive	0.198259506988408	BH	0.955392269896895	Ornithine decarboxylase
+EC:4.1.1.18	LinDA	negative	positive	0.348774679717607	BH	0.999791598211958	Lysine decarboxylase
+EC:4.1.1.19	LinDA	negative	positive	0.987430749379482	BH	0.999791598211958	Arginine decarboxylase
+EC:4.1.1.20	LinDA	negative	positive	0.960442216465829	BH	0.999791598211958	Diaminopimelate decarboxylase
+EC:4.1.1.22	LinDA	negative	positive	0.765732076203309	BH	0.999791598211958	Histidine decarboxylase
+EC:4.1.1.23	LinDA	negative	positive	0.850467210168803	BH	0.999791598211958	Orotidine-5'-phosphate decarboxylase
+EC:4.1.1.25	LinDA	negative	positive	0.417646431248733	BH	0.999791598211958	Tyrosine decarboxylase
+EC:4.1.1.3	LinDA	negative	positive	0.380555689073572	BH	0.999791598211958	Oxaloacetate decarboxylase
+EC:4.1.1.31	LinDA	negative	positive	0.023587355769424	BH	0.311556728004766	Phosphoenolpyruvate carboxylase
+EC:4.1.1.32	LinDA	negative	positive	0.857756223894192	BH	0.999791598211958	Phosphoenolpyruvate carboxykinase (GTP)
+EC:4.1.1.33	LinDA	negative	positive	0.35847331204746	BH	0.999791598211958	Diphosphomevalonate decarboxylase
+EC:4.1.1.35	LinDA	negative	positive	0.15369448256505	BH	0.844859490986323	UDP-glucuronate decarboxylase
+EC:4.1.1.36	LinDA	negative	positive	0.898963422584525	BH	0.999791598211958	Phosphopantothenoylcysteine decarboxylase
+EC:4.1.1.37	LinDA	negative	positive	0.722469401775893	BH	0.999791598211958	Uroporphyrinogen decarboxylase
+EC:4.1.1.39	LinDA	negative	positive	0.694920878872409	BH	0.999791598211958	Ribulose-bisphosphate carboxylase
+EC:4.1.1.4	LinDA	negative	positive	0.174900417698861	BH	0.89697532652265	Acetoacetate decarboxylase
+EC:4.1.1.41	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Methylmalonyl-CoA decarboxylase
+EC:4.1.1.44	LinDA	negative	positive	0.898189978007341	BH	0.999791598211958	4-carboxymuconolactone decarboxylase
+EC:4.1.1.46	LinDA	negative	positive	0.0400352758048199	BH	0.424883042645372	o-pyrocatechuate decarboxylase
+EC:4.1.1.47	LinDA	negative	positive	0.0932423647716337	BH	0.684601405022411	Tartronate-semialdehyde synthase
+EC:4.1.1.48	LinDA	negative	positive	0.867704001116274	BH	0.999791598211958	Indole-3-glycerol-phosphate synthase
+EC:4.1.1.49	LinDA	negative	positive	0.965109532574944	BH	0.999791598211958	Phosphoenolpyruvate carboxykinase (ATP)
+EC:4.1.1.5	LinDA	negative	positive	0.288333831647267	BH	0.999791598211958	Acetolactate decarboxylase
+EC:4.1.1.50	LinDA	negative	positive	0.642052022644619	BH	0.999791598211958	Adenosylmethionine decarboxylase
+EC:4.1.1.65	LinDA	negative	positive	0.498770546969248	BH	0.999791598211958	Phosphatidylserine decarboxylase
+EC:4.1.1.68	LinDA	negative	positive	0.0020717075668849	BH	0.0809110455408616	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+EC:4.1.1.7	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Benzoylformate decarboxylase
+EC:4.1.1.70	LinDA	negative	positive	0.919380515751782	BH	0.999791598211958	Glutaconyl-CoA decarboxylase
+EC:4.1.1.73	LinDA	negative	positive	0.741856174793642	BH	0.999791598211958	Tartrate decarboxylase
+EC:4.1.1.74	LinDA	negative	positive	0.00522758547331542	BH	0.123049319602655	Indolepyruvate decarboxylase
+EC:4.1.1.79	LinDA	negative	positive	0.346324727984243	BH	0.999791598211958	Sulfopyruvate decarboxylase
+EC:4.1.1.8	LinDA	negative	positive	0.541027833314532	BH	0.999791598211958	Oxalyl-CoA decarboxylase
+EC:4.1.1.81	LinDA	negative	positive	0.779622843223522	BH	0.999791598211958	Threonine-phosphate decarboxylase
+EC:4.1.1.82	LinDA	negative	positive	0.0179503546116595	BH	0.265324739539425	Phosphonopyruvate decarboxylase
+EC:4.1.1.83	LinDA	negative	positive	0.790772494316395	BH	0.999791598211958	4-hydroxyphenylacetate decarboxylase
+EC:4.1.1.85	LinDA	negative	positive	0.00452164122237495	BH	0.113722373757266	3-dehydro-L-gulonate-6-phosphate decarboxylase
+EC:4.1.1.86	LinDA	negative	positive	0.00913909787156511	BH	0.177134772419369	Diaminobutyrate decarboxylase
+EC:4.1.1.87	LinDA	negative	positive	0.0271664639776952	BH	0.348794600440898	Malonyl-S-ACP decarboxylase
+EC:4.1.1.9	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	Malonyl-CoA decarboxylase
+EC:4.1.1.96	LinDA	negative	positive	0.472073065123604	BH	0.999791598211958	Carboxynorspermidine decarboxylase
+EC:4.1.1.97	LinDA	negative	positive	0.0109682500507751	BH	0.189533422233852	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+EC:4.1.1.98	LinDA	negative	positive	0.098838696346871	BH	0.69795325574175	4-hydroxy-3-polyprenylbenzoate decarboxylase
+EC:4.1.2.13	LinDA	negative	positive	0.690063072649556	BH	0.999791598211958	Fructose-bisphosphate aldolase
+EC:4.1.2.14	LinDA	negative	positive	0.987567444849635	BH	0.999791598211958	2-dehydro-3-deoxy-phosphogluconate aldolase
+EC:4.1.2.17	LinDA	negative	positive	0.99641011305224	BH	0.999791598211958	L-fuculose-phosphate aldolase
+EC:4.1.2.19	LinDA	negative	positive	0.954612639338139	BH	0.999791598211958	Rhamnulose-1-phosphate aldolase
+EC:4.1.2.20	LinDA	negative	positive	0.96178674510967	BH	0.999791598211958	2-dehydro-3-deoxyglucarate aldolase
+EC:4.1.2.21	LinDA	negative	positive	0.0306302139718127	BH	0.367662295822248	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+EC:4.1.2.22	LinDA	negative	positive	0.521684106404342	BH	0.999791598211958	Fructose-6-phosphate phosphoketolase
+EC:4.1.2.25	LinDA	negative	positive	0.577492930898909	BH	0.999791598211958	Dihydroneopterin aldolase
+EC:4.1.2.29	LinDA	negative	positive	0.747308377543737	BH	0.999791598211958	5-dehydro-2-deoxyphosphogluconate aldolase
+EC:4.1.2.4	LinDA	negative	positive	0.875419199477485	BH	0.999791598211958	Deoxyribose-phosphate aldolase
+EC:4.1.2.40	LinDA	negative	positive	0.851626693091674	BH	0.999791598211958	Tagatose-bisphosphate aldolase
+EC:4.1.2.43	LinDA	negative	positive	0.336954394541157	BH	0.999791598211958	3-hexulose-6-phosphate synthase
+EC:4.1.2.5	LinDA	negative	positive	0.972787277799118	BH	0.999791598211958	L-threonine aldolase
+EC:4.1.2.50	LinDA	negative	positive	0.753971337190943	BH	0.999791598211958	6-carboxytetrahydropterin synthase
+EC:4.1.2.52	LinDA	negative	positive	0.452426802210152	BH	0.999791598211958	4-hydroxy-2-oxoheptanedioate aldolase
+EC:4.1.2.53	LinDA	negative	positive	0.00831011804306781	BH	0.17143119918059	2-keto-3-deoxy-L-rhamnonate aldolase
+EC:4.1.2.57	LinDA	negative	positive	0.00955138478731892	BH	0.177134772419369	Sulfofructosephosphate aldolase
+EC:4.1.2.9	LinDA	negative	positive	0.521684106404342	BH	0.999791598211958	Phosphoketolase
+EC:4.1.3.1	LinDA	negative	positive	0.00492914585357507	BH	0.120665490495518	Isocitrate lyase
+EC:4.1.3.16	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	4-hydroxy-2-oxoglutarate aldolase
+EC:4.1.3.17	LinDA	negative	positive	0.0281890419121118	BH	0.354486855826283	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+EC:4.1.3.24	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	Malyl-CoA lyase
+EC:4.1.3.25	LinDA	negative	positive	0.933294044264456	BH	0.999791598211958	(S)-citramalyl-CoA lyase
+EC:4.1.3.27	LinDA	negative	positive	0.770468761966998	BH	0.999791598211958	Anthranilate synthase
+EC:4.1.3.3	LinDA	negative	positive	0.319899852121694	BH	0.999791598211958	N-acetylneuraminate lyase
+EC:4.1.3.30	LinDA	negative	positive	0.295758841630574	BH	0.999791598211958	Methylisocitrate lyase
+EC:4.1.3.34	LinDA	negative	positive	0.7103408423152	BH	0.999791598211958	Citryl-CoA lyase
+EC:4.1.3.36	LinDA	negative	positive	0.71258956953591	BH	0.999791598211958	1,4-dihydroxy-2-naphthoyl-CoA synthase
+EC:4.1.3.38	LinDA	negative	positive	0.886657232865721	BH	0.999791598211958	Aminodeoxychorismate lyase
+EC:4.1.3.39	LinDA	negative	positive	0.4082313384042	BH	0.999791598211958	4-hydroxy-2-oxovalerate aldolase
+EC:4.1.3.4	LinDA	negative	positive	0.194686353056632	BH	0.949946206955263	Hydroxymethylglutaryl-CoA lyase
+EC:4.1.3.40	LinDA	negative	positive	0.000928404662182771	BH	0.0809110455408616	Chorismate lyase
+EC:4.1.3.42	LinDA	negative	positive	0.997663191256473	BH	0.999791598211958	(4S)-4-hydroxy-2-oxoglutarate aldolase
+EC:4.1.3.43	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	4-hydroxy-2-oxohexanoate aldolase
+EC:4.1.3.44	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA 4-demethylwyosine synthase (AdoMet-dependent)
+EC:4.1.99.1	LinDA	negative	positive	0.339267206802988	BH	0.999791598211958	Tryptophanase
+EC:4.1.99.12	LinDA	negative	positive	0.88321982387518	BH	0.999791598211958	3,4-dihydroxy-2-butanone-4-phosphate synthase
+EC:4.1.99.14	LinDA	negative	positive	0.293198353371787	BH	0.999791598211958	Spore photoproduct lyase
+EC:4.1.99.17	LinDA	negative	positive	0.918356517521337	BH	0.999791598211958	Phosphomethylpyrimidine synthase
+EC:4.1.99.18	LinDA	negative	positive	0.723625931032106	BH	0.999791598211958	Cyclic pyranopterin phosphate synthase
+EC:4.1.99.19	LinDA	negative	positive	0.919032626957909	BH	0.999791598211958	2-iminoacetate synthase
+EC:4.1.99.2	LinDA	negative	positive	0.956032680278842	BH	0.999791598211958	Tyrosine phenol-lyase
+EC:4.1.99.20	LinDA	negative	positive	0.165590062205196	BH	0.874488001294363	3-amino-4-hydroxybenzoate synthase
+EC:4.1.99.3	LinDA	negative	positive	0.00261827562968208	BH	0.0942579226685549	Deoxyribodipyrimidine photo-lyase
+EC:4.1.99.5	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Aldehyde oxygenase (deformylating)
+EC:4.2.1.1	LinDA	negative	positive	0.501108049497399	BH	0.999791598211958	Carbonate dehydratase
+EC:4.2.1.10	LinDA	negative	positive	0.790719195695222	BH	0.999791598211958	3-dehydroquinate dehydratase
+EC:4.2.1.104	LinDA	negative	positive	0.230725074190323	BH	0.999791598211958	Cyanase
+EC:4.2.1.106	LinDA	negative	positive	0.756228595396833	BH	0.999791598211958	Bile-acid 7-alpha-dehydratase
+EC:4.2.1.107	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	hydratase
+EC:4.2.1.109	LinDA	negative	positive	0.00199356894977882	BH	0.0809110455408616	Methylthioribulose 1-phosphate dehydratase
+EC:4.2.1.11	LinDA	negative	positive	0.908529028417472	BH	0.999791598211958	Phosphopyruvate hydratase
+EC:4.2.1.113	LinDA	negative	positive	0.565722480186123	BH	0.999791598211958	o-succinylbenzoate synthase
+EC:4.2.1.114	LinDA	negative	positive	0.39664790573291	BH	0.999791598211958	Methanogen homoaconitase
+EC:4.2.1.115	LinDA	negative	positive	0.559486117519755	BH	0.999791598211958	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+EC:4.2.1.119	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Enoyl-CoA hydratase 2
+EC:4.2.1.12	LinDA	negative	positive	0.00367700675980781	BH	0.107620123219015	Phosphogluconate dehydratase
+EC:4.2.1.120	LinDA	negative	positive	0.304198586248882	BH	0.999791598211958	4-hydroxybutanoyl-CoA dehydratase
+EC:4.2.1.126	LinDA	negative	positive	0.787559457438843	BH	0.999791598211958	N-acetylmuramic acid 6-phosphate etherase
+EC:4.2.1.129	LinDA	negative	positive	0.345567606232498	BH	0.999791598211958	Squalene--hopanol cyclase
+EC:4.2.1.130	LinDA	negative	positive	0.0822765992782736	BH	0.630027653162065	D-lactate dehydratase
+EC:4.2.1.131	LinDA	negative	positive	0.324550284558883	BH	0.999791598211958	Carotenoid 1,2-hydratase
+EC:4.2.1.135	LinDA	negative	positive	0.480643118733257	BH	0.999791598211958	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-retaining)
+EC:4.2.1.144	LinDA	negative	positive	0.321689662511677	BH	0.999791598211958	3-amino-5-hydroxybenzoate synthase
+EC:4.2.1.147	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	5,6,7,8-tetrahydromethanopterin hydro-lyase
+EC:4.2.1.148	LinDA	negative	positive	0.946061740053493	BH	0.999791598211958	2-methylfumaryl-CoA hydratase
+EC:4.2.1.149	LinDA	negative	positive	0.0899339334362549	BH	0.671214234914488	Crotonobetainyl-CoA hydratase
+EC:4.2.1.151	LinDA	negative	positive	0.360831218545848	BH	0.999791598211958	Chorismate dehydratase
+EC:4.2.1.153	LinDA	negative	positive	0.309867565703533	BH	0.999791598211958	3-methylfumaryl-CoA hydratase
+EC:4.2.1.17	LinDA	negative	positive	0.73833483684831	BH	0.999791598211958	Enoyl-CoA hydratase
+EC:4.2.1.18	LinDA	negative	positive	0.946563513545458	BH	0.999791598211958	Methylglutaconyl-CoA hydratase
+EC:4.2.1.19	LinDA	negative	positive	0.996693150949051	BH	0.999791598211958	Imidazoleglycerol-phosphate dehydratase
+EC:4.2.1.2	LinDA	negative	positive	0.989676586442516	BH	0.999791598211958	Fumarate hydratase
+EC:4.2.1.20	LinDA	negative	positive	0.85076294932928	BH	0.999791598211958	Tryptophan synthase
+EC:4.2.1.22	LinDA	negative	positive	0.208109738840946	BH	0.977929198382038	Cystathionine beta-synthase
+EC:4.2.1.24	LinDA	negative	positive	0.636615352760816	BH	0.999791598211958	Porphobilinogen synthase
+EC:4.2.1.28	LinDA	negative	positive	0.160613075314806	BH	0.86476717383573	Propanediol dehydratase
+EC:4.2.1.3	LinDA	negative	positive	0.924685664470088	BH	0.999791598211958	Aconitate hydratase
+EC:4.2.1.30	LinDA	negative	positive	0.895126433040465	BH	0.999791598211958	Glycerol dehydratase
+EC:4.2.1.32	LinDA	negative	positive	0.470351069289437	BH	0.999791598211958	L(+)-tartrate dehydratase
+EC:4.2.1.33	LinDA	negative	positive	0.981142999208114	BH	0.999791598211958	3-isopropylmalate dehydratase
+EC:4.2.1.35	LinDA	negative	positive	0.981142999208114	BH	0.999791598211958	(R)-2-methylmalate dehydratase
+EC:4.2.1.40	LinDA	negative	positive	0.550219908952316	BH	0.999791598211958	Glucarate dehydratase
+EC:4.2.1.42	LinDA	negative	positive	0.534783669639062	BH	0.999791598211958	Galactarate dehydratase
+EC:4.2.1.44	LinDA	negative	positive	0.542959239564678	BH	0.999791598211958	Myo-inosose-2 dehydratase
+EC:4.2.1.45	LinDA	negative	positive	0.290385874673254	BH	0.999791598211958	CDP-glucose 4,6-dehydratase
+EC:4.2.1.46	LinDA	negative	positive	0.842025466961884	BH	0.999791598211958	dTDP-glucose 4,6-dehydratase
+EC:4.2.1.47	LinDA	negative	positive	0.301018202291259	BH	0.999791598211958	GDP-mannose 4,6-dehydratase
+EC:4.2.1.49	LinDA	negative	positive	0.364334808139659	BH	0.999791598211958	Urocanate hydratase
+EC:4.2.1.5	LinDA	negative	positive	0.409577543747825	BH	0.999791598211958	Arabinonate dehydratase
+EC:4.2.1.51	LinDA	negative	positive	0.865918965852217	BH	0.999791598211958	Prephenate dehydratase
+EC:4.2.1.53	LinDA	negative	positive	0.723734188797077	BH	0.999791598211958	Oleate hydratase
+EC:4.2.1.55	LinDA	negative	positive	0.480778157271458	BH	0.999791598211958	3-hydroxybutyryl-CoA dehydratase
+EC:4.2.1.56	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Itaconyl-CoA hydratase
+EC:4.2.1.57	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Isohexenylglutaconyl-CoA hydratase
+EC:4.2.1.59	LinDA	negative	positive	0.970395236779233	BH	0.999791598211958	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+EC:4.2.1.6	LinDA	negative	positive	0.496322015263775	BH	0.999791598211958	Galactonate dehydratase
+EC:4.2.1.68	LinDA	negative	positive	0.558314630140227	BH	0.999791598211958	L-fuconate dehydratase
+EC:4.2.1.7	LinDA	negative	positive	0.252177488922331	BH	0.999791598211958	Altronate dehydratase
+EC:4.2.1.75	LinDA	negative	positive	0.973013257392706	BH	0.999791598211958	Uroporphyrinogen-III synthase
+EC:4.2.1.77	LinDA	negative	positive	0.831640139110364	BH	0.999791598211958	Trans-L-3-hydroxyproline dehydratase
+EC:4.2.1.79	LinDA	negative	positive	0.125339440177654	BH	0.780213897879506	2-methylcitrate dehydratase
+EC:4.2.1.8	LinDA	negative	positive	0.353716496801129	BH	0.999791598211958	Mannonate dehydratase
+EC:4.2.1.80	LinDA	negative	positive	0.226308861552633	BH	0.999791598211958	2-oxopent-4-enoate hydratase
+EC:4.2.1.83	LinDA	negative	positive	0.797165172230076	BH	0.999791598211958	4-oxalmesaconate hydratase
+EC:4.2.1.84	LinDA	negative	positive	0.342533920499939	BH	0.999791598211958	Nitrile hydratase
+EC:4.2.1.9	LinDA	negative	positive	0.860644186368186	BH	0.999791598211958	Dihydroxy-acid dehydratase
+EC:4.2.1.90	LinDA	negative	positive	0.0347838374731293	BH	0.401134721221293	L-rhamnonate dehydratase
+EC:4.2.1.91	LinDA	negative	positive	0.048866001129207	BH	0.472199884595916	Arogenate dehydratase
+EC:4.2.1.96	LinDA	negative	positive	0.31676731577023	BH	0.999791598211958	4a-hydroxytetrahydrobiopterin dehydratase
+EC:4.2.1.99	LinDA	negative	positive	0.0526489403834314	BH	0.498265229608145	2-methylisocitrate dehydratase
+EC:4.2.2.1	LinDA	negative	positive	0.661587055036852	BH	0.999791598211958	Hyaluronate lyase
+EC:4.2.2.10	LinDA	negative	positive	0.712358146044137	BH	0.999791598211958	Pectin lyase
+EC:4.2.2.17	LinDA	negative	positive	0.764187707249167	BH	0.999791598211958	Inulin fructotransferase (DFA-I-forming)
+EC:4.2.2.2	LinDA	negative	positive	0.36657030197035	BH	0.999791598211958	Pectate lyase
+EC:4.2.2.20	LinDA	negative	positive	0.470316876032944	BH	0.999791598211958	Chondroitin-sulfate-ABC endolyase
+EC:4.2.2.21	LinDA	negative	positive	0.470316876032944	BH	0.999791598211958	Chondroitin-sulfate-ABC exolyase
+EC:4.2.2.23	LinDA	negative	positive	0.799077587480097	BH	0.999791598211958	Rhamnogalacturonan endolyase
+EC:4.2.2.3	LinDA	negative	positive	0.945762919018256	BH	0.999791598211958	Poly(beta-D-mannuronate) lyase
+EC:4.2.2.5	LinDA	negative	positive	0.306024112392139	BH	0.999791598211958	Chondroitin AC lyase
+EC:4.2.2.6	LinDA	negative	positive	0.780453138606371	BH	0.999791598211958	Oligogalacturonide lyase
+EC:4.2.2.7	LinDA	negative	positive	0.859570741267915	BH	0.999791598211958	Heparin lyase
+EC:4.2.2.8	LinDA	negative	positive	0.871386590564417	BH	0.999791598211958	Heparin-sulfate lyase
+EC:4.2.3.1	LinDA	negative	positive	0.717838302543631	BH	0.999791598211958	Threonine synthase
+EC:4.2.3.12	LinDA	negative	positive	0.753971337190943	BH	0.999791598211958	6-pyruvoyltetrahydropterin synthase
+EC:4.2.3.130	LinDA	negative	positive	0.241716156458202	BH	0.999791598211958	Tetraprenyl-beta-curcumene synthase
+EC:4.2.3.3	LinDA	negative	positive	0.885993985519292	BH	0.999791598211958	Methylglyoxal synthase
+EC:4.2.3.4	LinDA	negative	positive	0.93287928189238	BH	0.999791598211958	3-dehydroquinate synthase
+EC:4.2.3.5	LinDA	negative	positive	0.926095627850618	BH	0.999791598211958	Chorismate synthase
+EC:4.2.99.18	LinDA	negative	positive	0.77690991684636	BH	0.999791598211958	DNA-(apurinic or apyrimidinic site) lyase
+EC:4.2.99.20	LinDA	negative	positive	0.682576382626171	BH	0.999791598211958	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EC:4.2.99.21	LinDA	negative	positive	0.286045881626836	BH	0.999791598211958	Isochorismate lyase
+EC:4.3.1.1	LinDA	negative	positive	0.7366365619357	BH	0.999791598211958	Aspartate ammonia-lyase
+EC:4.3.1.12	LinDA	negative	positive	0.254053302449037	BH	0.999791598211958	Ornithine cyclodeaminase
+EC:4.3.1.14	LinDA	negative	positive	0.151322458497176	BH	0.841563331749871	3-aminobutyryl-CoA ammonia-lyase
+EC:4.3.1.15	LinDA	negative	positive	0.396445887634456	BH	0.999791598211958	Diaminopropionate ammonia-lyase
+EC:4.3.1.17	LinDA	negative	positive	0.948509895600914	BH	0.999791598211958	L-serine ammonia-lyase
+EC:4.3.1.18	LinDA	negative	positive	0.926493901390787	BH	0.999791598211958	D-serine ammonia-lyase
+EC:4.3.1.19	LinDA	negative	positive	0.978490543919657	BH	0.999791598211958	Threonine ammonia-lyase
+EC:4.3.1.2	LinDA	negative	positive	0.073028068789812	BH	0.609452428627704	Methylaspartate ammonia-lyase
+EC:4.3.1.29	LinDA	negative	positive	0.363179718819896	BH	0.999791598211958	D-glucosaminate-6-phosphate ammonia lyase
+EC:4.3.1.3	LinDA	negative	positive	0.398432877517681	BH	0.999791598211958	Histidine ammonia-lyase
+EC:4.3.1.4	LinDA	negative	positive	0.798195608903897	BH	0.999791598211958	Formimidoyltetrahydrofolate cyclodeaminase
+EC:4.3.1.7	LinDA	negative	positive	0.035950762935122	BH	0.407441979931383	Ethanolamine ammonia-lyase
+EC:4.3.2.1	LinDA	negative	positive	0.983080882329241	BH	0.999791598211958	Argininosuccinate lyase
+EC:4.3.2.2	LinDA	negative	positive	0.889870666402288	BH	0.999791598211958	Adenylosuccinate lyase
+EC:4.3.2.3	LinDA	negative	positive	0.573437564322759	BH	0.999791598211958	Ureidoglycolate lyase
+EC:4.3.2.6	LinDA	negative	positive	0.401521051426265	BH	0.999791598211958	Gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase
+EC:4.3.3.6	LinDA	negative	positive	0.224576495852963	BH	0.999791598211958	Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)
+EC:4.3.3.7	LinDA	negative	positive	0.701059777989104	BH	0.999791598211958	4-hydroxy-tetrahydrodipicolinate synthase
+EC:4.3.99.3	LinDA	negative	positive	0.313469268863112	BH	0.999791598211958	7-carboxy-7-deazaguanine synthase
+EC:4.4.1.1	LinDA	negative	positive	0.691030705681414	BH	0.999791598211958	Cystathionine gamma-lyase
+EC:4.4.1.11	LinDA	negative	positive	0.566047926917396	BH	0.999791598211958	Methionine gamma-lyase
+EC:4.4.1.15	LinDA	negative	positive	0.226091281272261	BH	0.999791598211958	D-cysteine desulfhydrase
+EC:4.4.1.16	LinDA	negative	positive	0.949262032880606	BH	0.999791598211958	Selenocysteine lyase
+EC:4.4.1.19	LinDA	negative	positive	0.671876836699077	BH	0.999791598211958	Phosphosulfolactate synthase
+EC:4.4.1.21	LinDA	negative	positive	0.900337511431007	BH	0.999791598211958	S-ribosylhomocysteine lyase
+EC:4.4.1.24	LinDA	negative	positive	0.359298547963416	BH	0.999791598211958	(2R)-sulfolactate sulfo-lyase
+EC:4.4.1.25	LinDA	negative	positive	0.349113305928514	BH	0.999791598211958	L-cysteate sulfo-lyase
+EC:4.4.1.5	LinDA	negative	positive	0.903877352946685	BH	0.999791598211958	Lactoylglutathione lyase
+EC:4.4.1.8	LinDA	negative	positive	0.70078049410952	BH	0.999791598211958	Cystathionine beta-lyase
+EC:4.6.1.1	LinDA	negative	positive	0.0728736670211738	BH	0.609452428627704	Adenylate cyclase
+EC:4.6.1.12	LinDA	negative	positive	0.852748307305455	BH	0.999791598211958	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+EC:4.6.1.13	LinDA	negative	positive	0.580356247456851	BH	0.999791598211958	Phosphatidylinositol diacylglycerol-lyase
+EC:4.7.1.1	LinDA	negative	positive	0.589813297258279	BH	0.999791598211958	Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase
+EC:4.99.1.1	LinDA	negative	positive	0.043785095249872	BH	0.441700191641566	Ferrochelatase
+EC:4.99.1.3	LinDA	negative	positive	0.684894649920239	BH	0.999791598211958	Sirohydrochlorin cobaltochelatase
+EC:4.99.1.4	LinDA	negative	positive	0.394491277825557	BH	0.999791598211958	Sirohydrochlorin ferrochelatase
+EC:5.1.1.1	LinDA	negative	positive	0.932986371780675	BH	0.999791598211958	Alanine racemase
+EC:5.1.1.13	LinDA	negative	positive	0.775616858863241	BH	0.999791598211958	Aspartate racemase
+EC:5.1.1.17	LinDA	negative	positive	0.651430406644332	BH	0.999791598211958	Isopenicillin-N epimerase
+EC:5.1.1.18	LinDA	negative	positive	0.591299089933092	BH	0.999791598211958	Serine racemase
+EC:5.1.1.3	LinDA	negative	positive	0.737639105639209	BH	0.999791598211958	Glutamate racemase
+EC:5.1.1.4	LinDA	negative	positive	0.95799942225704	BH	0.999791598211958	Proline racemase
+EC:5.1.1.7	LinDA	negative	positive	0.892664649360556	BH	0.999791598211958	Diaminopimelate epimerase
+EC:5.1.1.8	LinDA	negative	positive	0.864418785205271	BH	0.999791598211958	4-hydroxyproline epimerase
+EC:5.1.2.3	LinDA	negative	positive	0.00208761256264026	BH	0.0809110455408616	3-hydroxybutyryl-CoA epimerase
+EC:5.1.3.1	LinDA	negative	positive	0.95578540316416	BH	0.999791598211958	Ribulose-phosphate 3-epimerase
+EC:5.1.3.10	LinDA	negative	positive	0.324874378043724	BH	0.999791598211958	CDP-paratose 2-epimerase
+EC:5.1.3.13	LinDA	negative	positive	0.891939908647313	BH	0.999791598211958	dTDP-4-dehydrorhamnose 3,5-epimerase
+EC:5.1.3.14	LinDA	negative	positive	0.986333418668628	BH	0.999791598211958	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)
+EC:5.1.3.15	LinDA	negative	positive	0.10570054428845	BH	0.728442613984019	Glucose-6-phosphate 1-epimerase
+EC:5.1.3.2	LinDA	negative	positive	0.936069467929859	BH	0.999791598211958	UDP-glucose 4-epimerase
+EC:5.1.3.20	LinDA	negative	positive	0.33059212072554	BH	0.999791598211958	ADP-glyceromanno-heptose 6-epimerase
+EC:5.1.3.22	LinDA	negative	positive	0.684468930269514	BH	0.999791598211958	L-ribulose-5-phosphate 3-epimerase
+EC:5.1.3.23	LinDA	negative	positive	0.293438830562814	BH	0.999791598211958	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+EC:5.1.3.24	LinDA	negative	positive	0.0939648987285662	BH	0.684601405022411	N-acetylneuraminate epimerase
+EC:5.1.3.25	LinDA	negative	positive	0.129230235863666	BH	0.791617181451183	dTDP-L-rhamnose 4-epimerase
+EC:5.1.3.29	LinDA	negative	positive	0.718013148479883	BH	0.999791598211958	L-fucose mutarotase
+EC:5.1.3.3	LinDA	negative	positive	0.560658456090831	BH	0.999791598211958	Aldose 1-epimerase
+EC:5.1.3.30	LinDA	negative	positive	0.595206098655472	BH	0.999791598211958	D-psicose 3-epimerase
+EC:5.1.3.31	LinDA	negative	positive	0.595206098655472	BH	0.999791598211958	D-tagatose 3-epimerase
+EC:5.1.3.32	LinDA	negative	positive	0.292474960663103	BH	0.999791598211958	L-rhamnose mutarotase
+EC:5.1.3.4	LinDA	negative	positive	0.748914627937828	BH	0.999791598211958	L-ribulose-5-phosphate 4-epimerase
+EC:5.1.3.5	LinDA	negative	positive	0.162114111308843	BH	0.8655645190863	UDP-arabinose 4-epimerase
+EC:5.1.3.6	LinDA	negative	positive	0.097430564434321	BH	0.694942166971305	UDP-glucuronate 4-epimerase
+EC:5.1.3.7	LinDA	negative	positive	0.316731935035499	BH	0.999791598211958	UDP-N-acetylglucosamine 4-epimerase
+EC:5.1.3.8	LinDA	negative	positive	0.106518126468997	BH	0.728442613984019	N-acylglucosamine 2-epimerase
+EC:5.1.3.9	LinDA	negative	positive	0.561857160942891	BH	0.999791598211958	N-acylglucosamine-6-phosphate 2-epimerase
+EC:5.1.99.1	LinDA	negative	positive	0.080872093615164	BH	0.623870436459837	Methylmalonyl-CoA epimerase
+EC:5.1.99.3	LinDA	negative	positive	0.196292883052563	BH	0.949946206955263	Allantoin racemase
+EC:5.1.99.6	LinDA	negative	positive	0.924217215422337	BH	0.999791598211958	NAD(P)H-hydrate epimerase
+EC:5.2.1.1	LinDA	negative	positive	0.490397968871281	BH	0.999791598211958	Maleate isomerase
+EC:5.2.1.2	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Maleylacetoacetate isomerase
+EC:5.2.1.4	LinDA	negative	positive	0.347528482769986	BH	0.999791598211958	Maleylpyruvate isomerase
+EC:5.2.1.8	LinDA	negative	positive	0.968870002293428	BH	0.999791598211958	Peptidylprolyl isomerase
+EC:5.3.1.1	LinDA	negative	positive	0.874938640971495	BH	0.999791598211958	Triose-phosphate isomerase
+EC:5.3.1.12	LinDA	negative	positive	0.747410426538535	BH	0.999791598211958	Glucuronate isomerase
+EC:5.3.1.13	LinDA	negative	positive	0.703346484386732	BH	0.999791598211958	Arabinose-5-phosphate isomerase
+EC:5.3.1.14	LinDA	negative	positive	0.963672954486477	BH	0.999791598211958	L-rhamnose isomerase
+EC:5.3.1.16	LinDA	negative	positive	0.996654232154305	BH	0.999791598211958	isomerase
+EC:5.3.1.17	LinDA	negative	positive	0.177633064939314	BH	0.903419133597176	5-dehydro-4-deoxy-D-glucuronate isomerase
+EC:5.3.1.22	LinDA	negative	positive	0.440746617453253	BH	0.999791598211958	Hydroxypyruvate isomerase
+EC:5.3.1.23	LinDA	negative	positive	0.835208890211088	BH	0.999791598211958	S-methyl-5-thioribose-1-phosphate isomerase
+EC:5.3.1.24	LinDA	negative	positive	0.791587967652067	BH	0.999791598211958	Phosphoribosylanthranilate isomerase
+EC:5.3.1.25	LinDA	negative	positive	0.83702100179481	BH	0.999791598211958	L-fucose isomerase
+EC:5.3.1.26	LinDA	negative	positive	0.173037385770856	BH	0.895507392766214	Galactose-6-phosphate isomerase
+EC:5.3.1.27	LinDA	negative	positive	0.894532240770612	BH	0.999791598211958	6-phospho-3-hexuloisomerase
+EC:5.3.1.28	LinDA	negative	positive	0.606099727997801	BH	0.999791598211958	D-sedoheptulose 7-phosphate isomerase
+EC:5.3.1.29	LinDA	negative	positive	0.460896927692639	BH	0.999791598211958	Ribose 1,5-bisphosphate isomerase
+EC:5.3.1.30	LinDA	negative	positive	0.852171594964989	BH	0.999791598211958	5-deoxy-glucuronate isomerase
+EC:5.3.1.31	LinDA	negative	positive	0.00853480487394443	BH	0.17219672251167	Sulfoquinovose isomerase
+EC:5.3.1.4	LinDA	negative	positive	0.783483855539875	BH	0.999791598211958	L-arabinose isomerase
+EC:5.3.1.5	LinDA	negative	positive	0.955995584655613	BH	0.999791598211958	Xylose isomerase
+EC:5.3.1.6	LinDA	negative	positive	0.844385462114518	BH	0.999791598211958	Ribose-5-phosphate isomerase
+EC:5.3.1.8	LinDA	negative	positive	0.640676728630696	BH	0.999791598211958	Mannose-6-phosphate isomerase
+EC:5.3.1.9	LinDA	negative	positive	0.953553246783978	BH	0.999791598211958	Glucose-6-phosphate isomerase
+EC:5.3.2.5	LinDA	negative	positive	0.357105313911542	BH	0.999791598211958	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+EC:5.3.2.6	LinDA	negative	positive	0.840676837051601	BH	0.999791598211958	2-hydroxymuconate tautomerase
+EC:5.3.2.8	LinDA	negative	positive	0.0281890419121118	BH	0.354486855826283	4-oxalomesaconate tautomerase
+EC:5.3.3.10	LinDA	negative	positive	0.0014999036353206	BH	0.0809110455408616	5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+EC:5.3.3.14	LinDA	negative	positive	0.195180650714185	BH	0.949946206955263	Trans-2-decenoyl-[acyl-carrier-protein] isomerase
+EC:5.3.3.17	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+EC:5.3.3.18	LinDA	negative	positive	0.993769707998853	BH	0.999791598211958	2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase
+EC:5.3.3.2	LinDA	negative	positive	0.0771713649545063	BH	0.615602803014299	Isopentenyl-diphosphate Delta-isomerase
+EC:5.3.3.3	LinDA	negative	positive	0.304198586248882	BH	0.999791598211958	Vinylacetyl-CoA Delta-isomerase
+EC:5.3.3.4	LinDA	negative	positive	0.0113554882601981	BH	0.189533422233852	Muconolactone Delta-isomerase
+EC:5.3.3.8	LinDA	negative	positive	0.00185003088177889	BH	0.0809110455408616	Dodecenoyl-CoA isomerase
+EC:5.3.4.1	LinDA	negative	positive	0.470628571530438	BH	0.999791598211958	Protein disulfide-isomerase
+EC:5.3.99.11	LinDA	negative	positive	0.360189158540881	BH	0.999791598211958	2-keto-myo-inositol isomerase
+EC:5.4.2.10	LinDA	negative	positive	0.619164590248932	BH	0.999791598211958	Phosphoglucosamine mutase
+EC:5.4.2.11	LinDA	negative	positive	0.967153180298923	BH	0.999791598211958	Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+EC:5.4.2.12	LinDA	negative	positive	0.854591400244926	BH	0.999791598211958	Phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+EC:5.4.2.2	LinDA	negative	positive	0.903605053189443	BH	0.999791598211958	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+EC:5.4.2.6	LinDA	negative	positive	0.830426248958214	BH	0.999791598211958	Beta-phosphoglucomutase
+EC:5.4.2.7	LinDA	negative	positive	0.894811804592196	BH	0.999791598211958	Phosphopentomutase
+EC:5.4.2.8	LinDA	negative	positive	0.66741027351206	BH	0.999791598211958	Phosphomannomutase
+EC:5.4.2.9	LinDA	negative	positive	0.0362217851548365	BH	0.407995076958772	Phosphoenolpyruvate mutase
+EC:5.4.3.2	LinDA	negative	positive	0.113497058488666	BH	0.74888177576969	Lysine 2,3-aminomutase
+EC:5.4.3.3	LinDA	negative	positive	0.354299620455272	BH	0.999791598211958	Beta-lysine 5,6-aminomutase
+EC:5.4.3.5	LinDA	negative	positive	0.11936615416833	BH	0.753239531892842	D-ornithine 4,5-aminomutase
+EC:5.4.3.8	LinDA	negative	positive	0.623948783687126	BH	0.999791598211958	Glutamate-1-semialdehyde 2,1-aminomutase
+EC:5.4.4.2	LinDA	negative	positive	0.737627684577658	BH	0.999791598211958	Isochorismate synthase
+EC:5.4.99.1	LinDA	negative	positive	0.0617365813222809	BH	0.552918845403452	Methylaspartate mutase
+EC:5.4.99.12	LinDA	negative	positive	0.918525015097446	BH	0.999791598211958	tRNA pseudouridine(38-40) synthase
+EC:5.4.99.15	LinDA	negative	positive	0.131073868824161	BH	0.791617181451183	(1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase
+EC:5.4.99.16	LinDA	negative	positive	0.476368568735974	BH	0.999791598211958	Maltose alpha-D-glucosyltransferase
+EC:5.4.99.17	LinDA	negative	positive	0.345567606232498	BH	0.999791598211958	Squalene--hopene cyclase
+EC:5.4.99.18	LinDA	negative	positive	0.947273677109468	BH	0.999791598211958	5-(carboxyamino)imidazole ribonucleotide mutase
+EC:5.4.99.19	LinDA	negative	positive	0.997209372648177	BH	0.999791598211958	16S rRNA pseudouridine(516) synthase
+EC:5.4.99.2	LinDA	negative	positive	0.0784268243756464	BH	0.615602803014299	Methylmalonyl-CoA mutase
+EC:5.4.99.20	LinDA	negative	positive	0.186543500369235	BH	0.930689855103031	23S rRNA pseudouridine(2457) synthase
+EC:5.4.99.21	LinDA	negative	positive	0.798031130624473	BH	0.999791598211958	23S rRNA pseudouridine(2604) synthase
+EC:5.4.99.22	LinDA	negative	positive	0.711888413774457	BH	0.999791598211958	23S rRNA pseudouridine(2605) synthase
+EC:5.4.99.23	LinDA	negative	positive	0.909889412185255	BH	0.999791598211958	23S rRNA pseudouridine(1911/1915/1917) synthase
+EC:5.4.99.24	LinDA	negative	positive	0.808900608897807	BH	0.999791598211958	23S rRNA pseudouridine(955/2504/2580) synthase
+EC:5.4.99.25	LinDA	negative	positive	0.935838927300232	BH	0.999791598211958	tRNA pseudouridine(55) synthase
+EC:5.4.99.26	LinDA	negative	positive	0.759125849387718	BH	0.999791598211958	tRNA pseudouridine(65) synthase
+EC:5.4.99.27	LinDA	negative	positive	0.00613641905551601	BH	0.140830817324092	tRNA pseudouridine(13) synthase
+EC:5.4.99.28	LinDA	negative	positive	0.650809724130747	BH	0.999791598211958	tRNA pseudouridine(32) synthase
+EC:5.4.99.29	LinDA	negative	positive	0.650809724130747	BH	0.999791598211958	23S rRNA pseudouridine(746) synthase
+EC:5.4.99.5	LinDA	negative	positive	0.753000630318072	BH	0.999791598211958	Chorismate mutase
+EC:5.4.99.58	LinDA	negative	positive	0.737625080189354	BH	0.999791598211958	Methylornithine synthase
+EC:5.4.99.60	LinDA	negative	positive	0.811833247572254	BH	0.999791598211958	Cobalt-precorrin-8 methylmutase
+EC:5.4.99.61	LinDA	negative	positive	0.811833247572254	BH	0.999791598211958	Precorrin-8X methylmutase
+EC:5.4.99.62	LinDA	negative	positive	0.973928839783209	BH	0.999791598211958	D-ribose pyranase
+EC:5.4.99.9	LinDA	negative	positive	0.597889679742093	BH	0.999791598211958	UDP-galactopyranose mutase
+EC:5.5.1.1	LinDA	negative	positive	0.0113554882601981	BH	0.189533422233852	Muconate cycloisomerase
+EC:5.5.1.19	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Lycopene beta-cyclase
+EC:5.5.1.2	LinDA	negative	positive	0.0441911659861408	BH	0.44317936853764	3-carboxy-cis,cis-muconate cycloisomerase
+EC:5.5.1.4	LinDA	negative	positive	0.853286482523217	BH	0.999791598211958	Inositol-3-phosphate synthase
+EC:5.99.1.2	LinDA	negative	positive	0.871198169760236	BH	0.999791598211958	DNA topoisomerase
+EC:5.99.1.3	LinDA	negative	positive	0.844075968545148	BH	0.999791598211958	DNA topoisomerase (ATP-hydrolyzing)
+EC:6.1.1.1	LinDA	negative	positive	0.896534250214123	BH	0.999791598211958	Tyrosine--tRNA ligase
+EC:6.1.1.10	LinDA	negative	positive	0.949817861270165	BH	0.999791598211958	Methionine--tRNA ligase
+EC:6.1.1.11	LinDA	negative	positive	0.829169254839912	BH	0.999791598211958	Serine--tRNA ligase
+EC:6.1.1.12	LinDA	negative	positive	0.992992871691283	BH	0.999791598211958	Aspartate--tRNA ligase
+EC:6.1.1.13	LinDA	negative	positive	0.552095394761547	BH	0.999791598211958	D-alanine--poly(phosphoribitol) ligase
+EC:6.1.1.14	LinDA	negative	positive	0.613661531797435	BH	0.999791598211958	Glycine--tRNA ligase
+EC:6.1.1.15	LinDA	negative	positive	0.85478487490134	BH	0.999791598211958	Proline--tRNA ligase
+EC:6.1.1.16	LinDA	negative	positive	0.870577680303403	BH	0.999791598211958	Cysteine--tRNA ligase
+EC:6.1.1.17	LinDA	negative	positive	0.866591064951773	BH	0.999791598211958	Glutamate--tRNA ligase
+EC:6.1.1.18	LinDA	negative	positive	0.914227764456439	BH	0.999791598211958	Glutamine--tRNA ligase
+EC:6.1.1.19	LinDA	negative	positive	0.902944508766872	BH	0.999791598211958	Arginine--tRNA ligase
+EC:6.1.1.2	LinDA	negative	positive	0.825659585593497	BH	0.999791598211958	Tryptophan--tRNA ligase
+EC:6.1.1.20	LinDA	negative	positive	0.919251601547559	BH	0.999791598211958	Phenylalanine--tRNA ligase
+EC:6.1.1.21	LinDA	negative	positive	0.884767864150611	BH	0.999791598211958	Histidine--tRNA ligase
+EC:6.1.1.22	LinDA	negative	positive	0.961419814895943	BH	0.999791598211958	Asparagine--tRNA ligase
+EC:6.1.1.23	LinDA	negative	positive	0.827380272054666	BH	0.999791598211958	Aspartate--tRNA(Asn) ligase
+EC:6.1.1.24	LinDA	negative	positive	0.0658433354028996	BH	0.575658875236779	Glutamate--tRNA(Gln) ligase
+EC:6.1.1.3	LinDA	negative	positive	0.842315429632909	BH	0.999791598211958	Threonine--tRNA ligase
+EC:6.1.1.4	LinDA	negative	positive	0.898730493279164	BH	0.999791598211958	Leucine--tRNA ligase
+EC:6.1.1.5	LinDA	negative	positive	0.898399268381307	BH	0.999791598211958	Isoleucine--tRNA ligase
+EC:6.1.1.6	LinDA	negative	positive	0.813289573052847	BH	0.999791598211958	Lysine--tRNA ligase
+EC:6.1.1.7	LinDA	negative	positive	0.959359299277123	BH	0.999791598211958	Alanine--tRNA ligase
+EC:6.1.1.9	LinDA	negative	positive	0.964624573048214	BH	0.999791598211958	Valine--tRNA ligase
+EC:6.1.2.1	LinDA	negative	positive	0.0386566816676726	BH	0.423621526343127	D-alanine--(R)-lactate ligase
+EC:6.2.1.1	LinDA	negative	positive	0.952652625912659	BH	0.999791598211958	Acetate--CoA ligase
+EC:6.2.1.13	LinDA	negative	positive	0.369276309794287	BH	0.999791598211958	Acetate--CoA ligase (ADP-forming)
+EC:6.2.1.14	LinDA	negative	positive	0.444246752639118	BH	0.999791598211958	6-carboxyhexanoate--CoA ligase
+EC:6.2.1.16	LinDA	negative	positive	0.774426583546695	BH	0.999791598211958	Acetoacetate--CoA ligase
+EC:6.2.1.17	LinDA	negative	positive	0.866122391486566	BH	0.999791598211958	Propionate--CoA ligase
+EC:6.2.1.20	LinDA	negative	positive	0.329330588896438	BH	0.999791598211958	Long-chain-fatty-acid--[acyl-carrier-protein] ligase
+EC:6.2.1.22	LinDA	negative	positive	0.51665699343755	BH	0.999791598211958	[Citrate (pro-3S)-lyase] ligase
+EC:6.2.1.26	LinDA	negative	positive	0.80606785532555	BH	0.999791598211958	o-succinylbenzoate--CoA ligase
+EC:6.2.1.3	LinDA	negative	positive	0.950252327087594	BH	0.999791598211958	Long-chain-fatty-acid--CoA ligase
+EC:6.2.1.30	LinDA	negative	positive	0.521017850919299	BH	0.999791598211958	Phenylacetate--CoA ligase
+EC:6.2.1.32	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Anthranilate--CoA ligase
+EC:6.2.1.5	LinDA	negative	positive	0.0826997082854345	BH	0.630027653162065	Succinate--CoA ligase (ADP-forming)
+EC:6.3.1.1	LinDA	negative	positive	0.976415976995707	BH	0.999791598211958	Aspartate--ammonia ligase
+EC:6.3.1.10	LinDA	negative	positive	0.548394442757641	BH	0.999791598211958	Adenosylcobinamide-phosphate synthase
+EC:6.3.1.11	LinDA	negative	positive	0.00210259351634518	BH	0.0809110455408616	Glutamate--putrescine ligase
+EC:6.3.1.12	LinDA	negative	positive	0.864509268455782	BH	0.999791598211958	D-aspartate ligase
+EC:6.3.1.13	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	ligase
+EC:6.3.1.2	LinDA	negative	positive	0.692163874153767	BH	0.999791598211958	Glutamate--ammonia ligase
+EC:6.3.1.5	LinDA	negative	positive	0.159287209612731	BH	0.862688250291959	NAD(+) synthase
+EC:6.3.1.8	LinDA	negative	positive	0.020182221248535	BH	0.276526553823211	Glutathionylspermidine synthase
+EC:6.3.2.1	LinDA	negative	positive	0.671947135157585	BH	0.999791598211958	Pantoate--beta-alanine ligase (AMP-forming)
+EC:6.3.2.10	LinDA	negative	positive	0.853032453868963	BH	0.999791598211958	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EC:6.3.2.12	LinDA	negative	positive	0.902575642929643	BH	0.999791598211958	Dihydrofolate synthase
+EC:6.3.2.13	LinDA	negative	positive	0.875034793531711	BH	0.999791598211958	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EC:6.3.2.17	LinDA	negative	positive	0.902575642929643	BH	0.999791598211958	Tetrahydrofolate synthase
+EC:6.3.2.2	LinDA	negative	positive	0.225308347508785	BH	0.999791598211958	Glutamate--cysteine ligase
+EC:6.3.2.29	LinDA	negative	positive	0.745908177382089	BH	0.999791598211958	Cyanophycin synthase (L-aspartate-adding)
+EC:6.3.2.3	LinDA	negative	positive	0.802381398779099	BH	0.999791598211958	Glutathione synthase
+EC:6.3.2.30	LinDA	negative	positive	0.745908177382089	BH	0.999791598211958	Cyanophycin synthase (L-arginine-adding)
+EC:6.3.2.31	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Coenzyme F420-0:L-glutamate ligase
+EC:6.3.2.32	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Coenzyme gamma-F420-2:alpha-L-glutamate ligase
+EC:6.3.2.34	LinDA	negative	positive	0.35010195647403	BH	0.999791598211958	Coenzyme F420-1:gamma-L-glutamate ligase
+EC:6.3.2.35	LinDA	negative	positive	0.935781528360543	BH	0.999791598211958	D-alanine--D-serine ligase
+EC:6.3.2.36	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	4-phosphopantoate--beta-alanine ligase
+EC:6.3.2.38	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase
+EC:6.3.2.39	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Aerobactin synthase
+EC:6.3.2.4	LinDA	negative	positive	0.939795243307327	BH	0.999791598211958	D-alanine--D-alanine ligase
+EC:6.3.2.43	LinDA	negative	positive	0.819876356676355	BH	0.999791598211958	[Lysine-biosynthesis-protein LysW]--L-2-aminoadipate ligase
+EC:6.3.2.5	LinDA	negative	positive	0.974798098140676	BH	0.999791598211958	Phosphopantothenate--cysteine ligase
+EC:6.3.2.6	LinDA	negative	positive	0.923995556162631	BH	0.999791598211958	Phosphoribosylaminoimidazolesuccinocarboxamide synthase
+EC:6.3.2.7	LinDA	negative	positive	0.391709100665332	BH	0.999791598211958	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+EC:6.3.2.8	LinDA	negative	positive	0.827814465846921	BH	0.999791598211958	UDP-N-acetylmuramate--L-alanine ligase
+EC:6.3.2.9	LinDA	negative	positive	0.953083836687453	BH	0.999791598211958	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+EC:6.3.3.1	LinDA	negative	positive	0.995442326323396	BH	0.999791598211958	Phosphoribosylformylglycinamidine cyclo-ligase
+EC:6.3.3.2	LinDA	negative	positive	0.920639856357332	BH	0.999791598211958	5-formyltetrahydrofolate cyclo-ligase
+EC:6.3.3.3	LinDA	negative	positive	0.841048589258521	BH	0.999791598211958	Dethiobiotin synthase
+EC:6.3.4.13	LinDA	negative	positive	0.902659917237923	BH	0.999791598211958	Phosphoribosylamine--glycine ligase
+EC:6.3.4.14	LinDA	negative	positive	0.816174285998722	BH	0.999791598211958	Biotin carboxylase
+EC:6.3.4.15	LinDA	negative	positive	0.931793505294697	BH	0.999791598211958	Biotin--[acetyl-CoA-carboxylase] ligase
+EC:6.3.4.18	LinDA	negative	positive	0.00843421304567296	BH	0.172057946131728	5-(carboxyamino)imidazole ribonucleotide synthase
+EC:6.3.4.19	LinDA	negative	positive	0.907762215467563	BH	0.999791598211958	tRNA(Ile)-lysidine synthetase
+EC:6.3.4.2	LinDA	negative	positive	0.890440351486301	BH	0.999791598211958	CTP synthase (glutamine hydrolyzing)
+EC:6.3.4.20	LinDA	negative	positive	0.743364475187698	BH	0.999791598211958	7-cyano-7-deazaguanine synthase
+EC:6.3.4.21	LinDA	negative	positive	0.847207462862774	BH	0.999791598211958	Nicotinate phosphoribosyltransferase
+EC:6.3.4.22	LinDA	negative	positive	0.363924042486981	BH	0.999791598211958	tRNA(Ile)(2)-agmatinylcytidine synthase
+EC:6.3.4.23	LinDA	negative	positive	0.382103156738749	BH	0.999791598211958	Formate--phosphoribosylaminoimidazolecarboxamide ligase
+EC:6.3.4.3	LinDA	negative	positive	0.793686602352992	BH	0.999791598211958	Formate--tetrahydrofolate ligase
+EC:6.3.4.4	LinDA	negative	positive	0.854619364245049	BH	0.999791598211958	Adenylosuccinate synthase
+EC:6.3.4.5	LinDA	negative	positive	0.996847590448901	BH	0.999791598211958	Argininosuccinate synthase
+EC:6.3.4.6	LinDA	negative	positive	0.00748698339701962	BH	0.159838389731721	Urea carboxylase
+EC:6.3.5.1	LinDA	negative	positive	0.892517739086278	BH	0.999791598211958	NAD(+) synthase (glutamine-hydrolyzing)
+EC:6.3.5.10	LinDA	negative	positive	0.751667208522372	BH	0.999791598211958	Adenosylcobyric acid synthase (glutamine-hydrolyzing)
+EC:6.3.5.11	LinDA	negative	positive	0.967446625729295	BH	0.999791598211958	Cobyrinate a,c-diamide synthase (glutamine-hydrolyzing)
+EC:6.3.5.2	LinDA	negative	positive	0.977899277269109	BH	0.999791598211958	GMP synthase (glutamine-hydrolyzing)
+EC:6.3.5.3	LinDA	negative	positive	0.859545137417605	BH	0.999791598211958	Phosphoribosylformylglycinamidine synthase
+EC:6.3.5.4	LinDA	negative	positive	0.782030461308669	BH	0.999791598211958	Asparagine synthase (glutamine-hydrolyzing)
+EC:6.3.5.5	LinDA	negative	positive	0.816197508157807	BH	0.999791598211958	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)
+EC:6.3.5.6	LinDA	negative	positive	0.985645111297193	BH	0.999791598211958	Asparaginyl-tRNA synthase (glutamine-hydrolyzing)
+EC:6.3.5.7	LinDA	negative	positive	0.996505333373285	BH	0.999791598211958	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)
+EC:6.3.5.9	LinDA	negative	positive	0.967446625729295	BH	0.999791598211958	Hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolyzing)
+EC:6.4.1.1	LinDA	negative	positive	0.130975623063236	BH	0.791617181451183	Pyruvate carboxylase
+EC:6.4.1.2	LinDA	negative	positive	0.978051408070791	BH	0.999791598211958	Acetyl-CoA carboxylase
+EC:6.4.1.3	LinDA	negative	positive	0.102617163404678	BH	0.716369247190071	Propionyl-CoA carboxylase
+EC:6.4.1.4	LinDA	negative	positive	0.618975405072567	BH	0.999791598211958	Methylcrotonoyl-CoA carboxylase
+EC:6.4.1.5	LinDA	negative	positive	0.970295256963683	BH	0.999791598211958	Geranoyl-CoA carboxylase
+EC:6.5.1.1	LinDA	negative	positive	0.213461942399859	BH	0.987194272660305	DNA ligase (ATP)
+EC:6.5.1.2	LinDA	negative	positive	0.864288929916657	BH	0.999791598211958	DNA ligase (NAD(+))
+EC:6.5.1.3	LinDA	negative	positive	0.387026309706545	BH	0.999791598211958	RNA ligase (ATP)
+EC:6.5.1.4	LinDA	negative	positive	0.3442015521644	BH	0.999791598211958	RNA 3'-terminal-phosphate cyclase (ATP)
+EC:6.5.1.5	LinDA	negative	positive	0.949916544160695	BH	0.999791598211958	RNA 3'-terminal-phosphate cyclase (GTP)
+EC:6.5.1.6	LinDA	negative	positive	0.680692401022367	BH	0.999791598211958	DNA ligase (ATP or NAD(+))
+EC:6.5.1.7	LinDA	negative	positive	0.680692401022367	BH	0.999791598211958	DNA ligase (ATP, ADP or GTP)
+EC:6.6.1.1	LinDA	negative	positive	0.29621811354647	BH	0.999791598211958	Magnesium chelatase
+EC:6.6.1.2	LinDA	negative	positive	0.575322553078654	BH	0.999791598211958	Cobaltochelatase
