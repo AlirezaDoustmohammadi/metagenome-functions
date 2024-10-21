@@ -17,10 +17,13 @@ def asv_summary():
     # rename columns
     features_stat = features_stat.rename(columns={'max': 'Maximum abundance in samples',
                                                   'sum': 'Total abundance of ASVs'})
-    features_stat = features_stat.sort_values(by=['Total abundance of ASV'])
+
+    features_stat = features_stat.sort_values(by=['Total abundance of ASVs'])
     # write to csv
-    features_stat.to_csv(os.path.basename(args.biom_file).split('.biom')[0] + '.summary.features.csv')
-    df_features.to_csv(os.path.basename(args.biom_file).split('.biom')[0] + '.features.csv')
+    features_stat.to_csv(os.path.dirname(args.biom_file) + '/' +
+                         os.path.basename(args.biom_file).split('.biom')[0] + '.summary.features.csv')
+    df_features.to_csv(os.path.dirname(args.biom_file) + '/' +
+                       os.path.basename(args.biom_file).split('.biom')[0] + '.features.csv')
 
 
 def samples_summary():
@@ -36,8 +39,10 @@ def samples_summary():
     # sort
     samples_stats = samples_stats.sort_values(by=['Total abundance of ASVs'])
     # write to csv
-    samples_stats.to_csv(os.path.basename(args.biom_file).split('.biom')[0] + '.summary.samples.csv')
-    df_samples.to_csv(os.path.basename(args.biom_file).split('.biom')[0] + '.samples.csv')
+    samples_stats.to_csv(os.path.dirname(args.biom_file) + '/' +
+                         os.path.basename(args.biom_file).split('.biom')[0] + '.summary.samples.csv')
+    df_samples.to_csv(os.path.dirname(args.biom_file) + '/' +
+                      os.path.basename(args.biom_file).split('.biom')[0] + '.samples.csv')
 
 
 if __name__ == '__main__':
