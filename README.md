@@ -29,3 +29,24 @@ This command will:
 - Filter features with a minimum abundance of 10 and samples with a minimum abundance of 1000.
 - Output the results into the specified project directory.
 
+
+## PICRUSt2 Pipeline
+a Nextflow-based pipeline that wraps PICRUSt2 tools for metagenome prediction. The pipeline automates the process of placing reads on a reference tree, performing hidden-state prediction of gene families, and generating metagenome and pathway-level predictions based on 16S rRNA gene sequence data.
+
+### Requirements
+PICRUSt2: Used for metagenome prediction and pathway inference.
+
+### Example Usage
+To run the pipeline, use the following command:
+```
+nextflow run picrust2_pipeline.nf \
+    --biom_table /path/to/feature-table.biom \
+    --seq /path/to/representative-sequences.fasta \
+    --proj_dir /path/to/output/ \
+    --cpu 8
+```
+This command will:
+- Place sequences into a reference tree.
+- Predict hidden states for gene families (KOs, ECs).
+- Generate metagenome predictions for KOs and ECs.
+- Perform pathway-level inference based on predicted metagenome abundances.
