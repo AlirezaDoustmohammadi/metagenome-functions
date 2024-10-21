@@ -54,7 +54,7 @@ This command will:
 ## KO to KEGG Pathway Mapper
 <a href='KEGG%20db/ko_to_kegg_pathway_mapper.py'>ko_to_kegg_pathway_mapper.py</a> maps KEGG Orthology (KO) functions to their corresponding KEGG pathways
 ### Example Usage:
-Ensure your KO prediction file is in a `.tsv.gz` format.
+Ensure your KO prediction file is in a `.tsv.gz` format.</br>
 Edit the <a href='KEGG%20db/ko_to_kegg_pathway_mapper.py#L7'>script to point</a> to the correct path for your input file:
 ```
 df = pd.read_csv('path_to_your_file/KO_pred_metagenome_unstrat.tsv.gz', sep='\t', compression='gzip')
