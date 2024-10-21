@@ -64,3 +64,6 @@ df = pd.read_csv('path_to_your_file/KO_pred_metagenome_unstrat.tsv.gz', sep='\t'
 <a href='KEGG%20Pathway%20Level%20Inference/kegg_pathway_abundance_calculator.py.py'>kegg_pathway_abundance_calculator.py.py</a> calculates the abundance of KEGG pathways based on KO function predictions from a metagenome dataset. </br>
 The script takes a KO abundance file as input, maps each KO to its corresponding KEGG pathway using a pre-generated KO-to-KEGG mapping file, and sums the abundance values across samples to calculate pathway-level abundances. 
 </br>The output is a CSV file that lists KEGG pathways and their respective abundances across all samples.
+
+### Example Usage
+To run the script, ensure the paths to your <a href='KEGG%20Pathway%20Level%20Inference/kegg_pathway_abundance_calculator.py.py#L7'>KO abundance file</a> and <a href='KEGG%20Pathway%20Level%20Inference/kegg_pathway_abundance_calculator.py.py#L10'>KO-to-KEGG mapping file</a> are correctly set in the script. 
