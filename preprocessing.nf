@@ -97,12 +97,17 @@ process convertFormat {
                  --to-tsv --header-key taxonomy
             # summariese the biome file
             biom summarize-table -i ${params.biom_table} -o ${params.input_dir}/${biom_table_baseName}.summary
-            python ${params.proj_dir}/biomSummary.py --biom_file ${params.biom_table}
+            # python ${params.proj_dir}/biomSummary.py --biom_file ${params.biom_table}
             
             
-            
-            # Convert feature tables from biom files to QZA-format for filtering feature table using qiime
-            qiime tools import --input-path ${params.biom_table} --type 'FeatureTable[Frequency]' \
+			# Convert BIOM file to HDF5 (v2.1.0) format for QIIME 2 compatibility
+            biom convert -i ${params.biom_table} \
+						 -o ${params.input_dir}/${biom_table_baseName}-v210.biom --table-type="OTU table" --to-hdf5
+
+
+			# Convert feature tables from biom files to QZA-format for filtering feature table using qiime
+            qiime tools import --input-path ${params.input_dir}/${biom_table_baseName}-v210.biom\
+								--type 'FeatureTable[Frequency]' \
                         --input-format BIOMV210Format --output-path ${params.input_dir}/${biom_table_baseName}.qza
                         
             # Convert ASVs sequence file from fasta files to QZA-format for filtering them using qiime
@@ -213,8 +218,8 @@ process convertFilteredBiomtoTsvandSummarize {
 			${params.proj_dir}/preprocessing/${biom_table_baseName}.filtered_samples_based_total.frequency.biom \
 			-o ${params.proj_dir}/preprocessing/summary/${biom_table_baseName}.filtered_samples_based_total.frequency.summary
 			
-		python ${params.proj_dir}/biomSummary.py --biom_file \
-				${params.proj_dir}/preprocessing/${biom_table_baseName}.filtered_samples_based_total.frequency.biom
+		# python ${params.proj_dir}/biomSummary.py --biom_file \
+		#		${params.proj_dir}/preprocessing/${biom_table_baseName}.filtered_samples_based_total.frequency.biom
   
         """
 }
